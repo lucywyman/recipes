@@ -1,0 +1,12 @@
+---
+layout: category
+title: All Recipes
+---
+
+<ul>
+    {% assign posts = site.posts | sort:'title' %}
+    {% for post in posts %}
+    <li><a href='/{{ post.url }}.html'>{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+

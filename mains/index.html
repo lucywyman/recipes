@@ -1,0 +1,14 @@
+---
+layout: category
+slugify: true
+title: Mains
+---
+
+{% assign posts = site.categories.mains | sort:'title' %}
+<ul>
+	{% for post in posts%}
+	<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+
+

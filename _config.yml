@@ -1,0 +1,16 @@
+# Site settings
+source: 		app
+title: 			Recipes
+email: 			wyman.lucy@gmail.com
+baseurl: 		
+github_username: lucywyman
+source: 		.
+layouts_dir:  	./_layouts
+data_dir:     	./_data
+includes_dir: 	./_includes
+destination: 	./site
+
+permalink: 		/:title.html
+exclude: 		[vendor]
+
+markdown:    	kramdown

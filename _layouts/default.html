@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	{% include head.html %}
+	<body>
+		{% include sidebar.html %}
+		<main>
+		{{ content }}
+		</main>
+		{% include footer.html %}
+
+		<!-- All the yavascripts -->
+		<!-- Slicknav -->
+		<script>
+$(document).ready(function(){
+	$('#sidebar').slicknav({
+		label:''
+	});
+});
+		</script>
+
+		<!-- Google Analytics -->
+		<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-48093989-4', 'auto');
+ga('send', 'pageview');
+
+		</script>
+
+		<!-- Custom JS -->
+		<script>
+$(document).ready(function(){  
+	// Expanding navigation bar js
+	$('ul li.expanded > a')
+		.attr('data-active','0')
+		.click(function(event){
+			$('.submuneu').hide();   
+			if($(this).attr('data-active')==0){
+				$(this).parent().find('ul').slideToggle('slow');
+				$(this).attr('data-active','1');
+			}
+			else{
+				$(this).parent().find('ul').slideToggle('slow');
+				$(this).attr('data-active','0');}
+			$('a.on').removeClass("active");
+			$(this).addClass("active");
+		});
+	SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		json: "/search.json",
+		searchResultsTemplate:'<li><a href="{url}">{title}</a></li>',
+		fuzzy: true
+	})
+	$("#search-input").keyup(function(){
+		if($("#search-input").val() != ""){
+			$("#results").css("display", "block"); 
+		} else {
+			$("#results").css("display", "none"); 
+		}
+	});
+});
+		</script>    
+	</body>
+</html>

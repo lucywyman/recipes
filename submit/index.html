@@ -1,0 +1,26 @@
+---
+layout: default
+title: Submit a Recipe
+---
+
+<h1>Submit a Recipe</h1>
+<p>Or a question or comment</p><br><br>
+<ul class='results' id='results-container'></ul>
+<form action="https://getsimpleform.com/messages?form_api_token=fe73d06d18561f8eefc325dec007da85" method="post">
+  <input type='hidden' name='redirect_to' value='http://recipes.lucywyman.me/thank-you' />
+  <!-- all your input fields here.... -->
+  <label for='first'>First name:</label>
+  <input type='text' name='first'></input>
+  <label for='last'>Last name:</label>
+  <input type='text' name='last'></input>
+  <label for='email'>Email:</label>
+  <input type='text' name='email'></input>
+  <!--<label for='content-form'>Recipe, question, or comment:</label>-->
+  <textarea id='content-form' rows='20' cols='10'></textarea> 
+  <input class='submit' type='submit' value='Submit'></input>
+
+<script>
+var placeholder = "Ingredients: <br>½ cup flour<br>1 cup something else<br>...<br><br>Directions:<br>1. Preheat oven to...<br>2. Bring water to boil...<br>...<br>Enjoy!";
+$('#content-form').watermark(placeholder, {fallback: false});
+</script>
+

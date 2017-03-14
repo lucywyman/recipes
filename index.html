@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="home">
+	<h2 class='title'>Cooking & Code</h2><br>
+	<p>A curated index of recipes, this site aims to simplify some of the best
+	 recipes on the internet so that you can make them on a budget!	All recipes
+	 are ones I've tested and <i>loved</i>, so that you don't have to find out
+	 the hard way that whipped sweet potatoes with lemon juice are really not
+	 all that.  The site is <a
+	 href="https://github.com/lucywyman/recipes-website">on github</a>;
+ please feel free to make a PR, submit an issue, or just <a
+  href="https://github.com/lucywyman">see what I do!</a></p>
+	<br><br>
+	<h3 id='results'>Search Results</h3>
+	<ul class='results' id='results-container'></ul>
+	<ul class="post-list" id='post-li'>
+		{% for post in site.posts limit: 3 %}
+		<li>
+			<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+			<span class="post-meta">{{ post.date | date: "%m.%e.%Y" }}</span><br>
+			{% if post.fromurl %}
+			<span class="post-meta">From: <a href="{{ post.fromurl }}">{{ post.from }}</a></span>
+			{% else %}
+			<span class="post-meta">From: {{ post.from }}</span>
+			{% endif %}
+			{{ post.content }}
+			<br>
+		</li>
+		<img class='foil' src='/assets/img/quattrefoil.jpg' />
+		{% endfor %}
+	</ul>
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
