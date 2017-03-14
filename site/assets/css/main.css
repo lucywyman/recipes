@@ -8427,7 +8427,9 @@ main {
   display: inline-block;
   padding: 10;
   padding-top: 30;
-  color: #fff; }
+  color: #fff;
+  background-color: #051E55;
+  height: 100%; }
   .sidebar ul {
     display: block;
     padding: 10; }
@@ -8508,7 +8510,8 @@ img {
 
 .footer {
   width: 100%;
-  z-index: 100; }
+  z-index: 100;
+  background-color: #051E55; }
   .footer p {
     max-width: 60%;
     padding: 20;
@@ -8533,7 +8536,8 @@ form #content-form {
   min-height: 150; }
 form .submit {
   width: 100;
-  color: #fff; }
+  color: #fff;
+  background-color: #EEDC1B; }
 form .submit:hover {
   cursor: pointer; }
 form .submit:active {

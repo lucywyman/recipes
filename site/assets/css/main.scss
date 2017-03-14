@@ -118,6 +118,8 @@ main {
 	padding: 10;
 	padding-top: 30;
 	color: $light;
+  background-color: $blue;
+  height: 100%;
 
 	ul {
 		display: block;
@@ -231,6 +233,7 @@ img {
 .footer {
 	width: 100%;
 	z-index: 100;
+  background-color: $blue;
 
 	p {
 		max-width: 60%;
@@ -268,6 +271,7 @@ form {
 	.submit {
 		width: 100;
 		color: $light;
+    background-color: $yellow;
 	}
 
 	.submit:hover {
