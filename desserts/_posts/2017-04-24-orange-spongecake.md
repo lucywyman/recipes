@@ -14,31 +14,31 @@ here. The orange syrup was lovely, but do what sounds good to you!
 #### Ingredients:
 
 ##### For the Cake
-* A round cake pan, 91/2"
+* A round cake pan, 9½"
 * Electric mixer
-* 2/3 cup granulated sugar
+* ⅔ cup granulated sugar
 * 4 eggs, separated
 * Grated orange rind
-* 1/3 cup orange juice
+* ⅓ cup orange juice
 * Pinch of salt
-* 3/4 cup cake flour
+* ¾ cup cake flour
 * 1 tbsp granulated sugar
 
 ##### For the Orange Buttercream
 * 6 tbsp unsalted butter
-* 12/3 cups granulated sugar
+* 1⅔ cups granulated sugar
 * 2 eggs
 * 2 egg yolks
 * Orange zest
-* 1/4 cup orange juice
+* ¼ cup orange juice
 * 1 tbsp orange liquer (I didn't have this and it turned out OK)
 * Cold water
 
 ##### For Orange Glaze
 
 * 1 cup sugar
-* 1/2 cup water
-* 3/4 cup orange juice
+* ½ cup water
+* ¾ cup orange juice
 * 1 tablespoon cornstarch
 * 2 tablespoons unsalted butter
 
@@ -57,7 +57,7 @@ here. The orange syrup was lovely, but do what sounds good to you!
 7. Beat in the flour
 8. Beat the egg whites and a pinch of salt together in a separate bowl until soft peaks are formed
 9. Sprinkle on 1 tbsp of sugar and continue to beat until stiff peaks are formed
-10. Stir 1/4 (one fourth) of the egg whites into the batter, then delicately fold in the rest
+10. Stir ¼ (one fourth) of the egg whites into the batter, then delicately fold in the rest
 11. Immediately turn into prepared cake pan, and run the batter up to the rim all around
 12. Bake in middle position of preheated oven for 30 to 35 minutes.
 The cake is done when it has puffed and browned, and shows a faint
@@ -76,7 +76,7 @@ filling is cool.
 
 ##### For the Orange Syrup
 
-1. Combine the sugar and 1/2 cup water in a small saucepan. 
+1. Combine the sugar and ½ cup water in a small saucepan. 
 2. Bring to a boil; stir until sugar has dissolved. 
 3. Combine juice and cornstarch in a bowl; pour into sugar syrup. 
 4. Simmer gently until thick, 6 to 8 minutes. Add butter; stir until it melts. Serve warm.
