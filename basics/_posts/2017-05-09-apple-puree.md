@@ -9,7 +9,7 @@ cook:
 
 #### Ingredients:
 
-* 6 apples OR pears, peeled, cored, and cut into 3/4" dice
+* 6 apples OR pears, peeled, cored, and cut into ¾" dice
 * 1 tablespoon sugar
 * Optional 1 teaspoon cinnamon
 * 7 tablespoons water

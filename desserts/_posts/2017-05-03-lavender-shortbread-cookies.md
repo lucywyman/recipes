@@ -10,10 +10,10 @@ cook:
 #### Ingredients:
 
 * 1 tablespoon dried lavender blossoms
-* 1/2 cup plus 1 tablespoon sugar
+* ½ cup plus 1 tablespoon sugar
 * 1 cup (2 sticks) unsalted butter, at room temperature
-* 2 1/2 cup all-purpose flour
-* 1/4 teaspoon salt
+* 2 ½ cup all-purpose flour
+* ¼ teaspoon salt
 * 1 eggs, beaten (for egg wash)
 * extra sugar for sprinkling on top
 
@@ -27,7 +27,7 @@ grind up 1 tablespoon lavender and 1 tablespoon sugar. Grind it up!
 You could also use a mortar and pestle to grind the sugar and lavender
 together.
 3. In the bowl of an electric stand mixer, fitted with a paddle
-attachment add butter, ground lavender mixture, and remaining 1/2 cup
+attachment add butter, ground lavender mixture, and remaining ½ cup
 sugar.  
 4. Cream on medium speed until slightly more pale and fluffy,
 about 5 minutes.  There will still be raw sugar bits floating around.
@@ -40,8 +40,8 @@ when it continues to mix.
 and form into a ball with your hands.  Wrap in plastic wrap and
 refrigerate for at least 30 minutes.
 8. Line cookie sheets with parchment paper.  Set aside.
-9. On a lightly floured work surface, roll dough out to a 1/4-inch thickness.  
-10. Use a 1 1/2-inch round cookie cutter to cut cookies, or use a pizza cutter to slice cookies into squares.  Use a fork to prick cookies.  Brush very lightly with egg wash and sprinkle with sugar.  Refrigerate cookies
+9. On a lightly floured work surface, roll dough out to a ¼-inch thickness.  
+10. Use a 1 ½-inch round cookie cutter to cut cookies, or use a pizza cutter to slice cookies into squares.  Use a fork to prick cookies.  Brush very lightly with egg wash and sprinkle with sugar.  Refrigerate cookies
 while oven preheats.
 11. Place racks in the center and upper third of the oven.  Preheat oven
 to 350 degrees F.  

@@ -11,10 +11,10 @@ cook:
 
 * 1 clove peeled garlic
 * 5 cups arugula
-* 1/2 cup finely shredded asiago cheese
-* 1/4 cup pine nuts (toasted for extra flavor!)
-* 1/4 cup olive oil
-* 1/4 teaspoon salt
+* ½ cup finely shredded asiago cheese
+* ¼ cup pine nuts (toasted for extra flavor!)
+* ¼ cup olive oil
+* ¼ teaspoon salt
 
 <br>
 

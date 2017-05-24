@@ -9,11 +9,11 @@ cook:
 
 #### Ingredients:
 
-* 1/2 cup sesame tahini
-* 1/4 cup lemon juice
+* ½ cup sesame tahini
+* ¼ cup lemon juice
 * 1 clove garlic, peeled
-* 1/2 teaspoon salt
-* 2/3 cup cold water
+* ½ teaspoon salt
+* ⅔ cup cold water
 * Optionally: 1 tablespoon poppy seeds
 
 <br>

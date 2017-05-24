@@ -10,9 +10,9 @@ cook:
 #### Ingredients:
 
 * 4 cups berries
-* scant 1/2 cup superfine sugar
+* scant ½ cup superfine sugar
 * 1 teaspoon vanilla extract
-* 2/3 cup water
+* ⅔ cup water
 
 <br>
 

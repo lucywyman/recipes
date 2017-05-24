@@ -10,9 +10,9 @@ cook:
 #### Ingredients:
 
 * 2 dates, pitted
-* 2/3 cup hot water
+* ⅔ cup hot water
 * 2 heaping tablespoons red miso
-* 1/4 cup almond butter
+* ¼ cup almond butter
 * 2 tablespoons hemp seeds
 * 1 clove garlic, peeled
 * 2 teaspoons minced ginger

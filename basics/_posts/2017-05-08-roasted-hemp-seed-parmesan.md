@@ -9,12 +9,12 @@ cook:
 
 #### Ingredients:
 
-* 1/2 cup raw shelled hemp seeds
+* ½ cup raw shelled hemp seeds
 * 3 tablespoons lemon juice
 * 1 tablespoon water
 * 2 teaspoons white miso
 * 1 teaspoon dried oregano
-* 1/4 teaspoon salt
+* ¼ teaspoon salt
 
 <br>
 

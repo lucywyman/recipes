@@ -11,7 +11,7 @@ cook: 30 minutes
     
 ##### For the Basil Cream
 
-* 1 1/2 cups heavy cream
+* 1 ½ cups heavy cream
 * 1 large handful fresh basil leaves, plus more for serving
 * 3 tablespoons powdered sugar
 * 1 teaspoon pure vanilla extract
@@ -19,21 +19,21 @@ cook: 30 minutes
 
 ##### For the Strawberries
 
-* 1 1/2 pound fresh strawberries, hulled and sliced in half
+* 1 ½ pound fresh strawberries, hulled and sliced in half
 * 3 tablespoons granulated sugar
 * pinch of salt
 * 2 tablespoons balsamic vinegar
 
 ##### For the Biscuits
 
-* 1 1/2 cups all-purpose flour
+* 1 ½ cups all-purpose flour
 * 2 tablespoons granulated sugar
-* 1 1/4 teaspoons baking powder
-* 1/4 teaspoon baking soda
-* 1/2 teaspoon salt
+* 1 ¼ teaspoons baking powder
+* ¼ teaspoon baking soda
+* ½ teaspoon salt
 * 6 tablespoons cold unsalted butter, cut into small cubes
 * 1 large egg yolk, lightly beaten
-* scant 1/2 cup cold buttermilk, plus more for brushing
+* scant ½ cup cold buttermilk, plus more for brushing
 
 <br>
 
@@ -70,7 +70,7 @@ buttermilk and beat lightly with a fork.
 mixture all at once. Stir into a shaggy mixture. The dough will be
 moist, but not overly wet.
 6. Turn dough out onto a lightly floured board and use a floured
-rolling pin to roll the dough to a 3/4-inch thickness. Use a 2-inch
+rolling pin to roll the dough to a ¾-inch thickness. Use a 2-inch
 round biscuit cutter to cut biscuit, re-rolling and pressing the dough
 to cut 6 biscuits total.
 7. Place 1-inch apart on the prepared baking sheet and brush lightly

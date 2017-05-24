@@ -17,7 +17,7 @@ cook:
 * 2 teaspoons sesame oil
 * 1 tablespoon sesame seeds
 * 1 teaspoon grated ginger
-* 1/2 teaspoon red pepper flakes
+* ½ teaspoon red pepper flakes
 
 <br>
 

@@ -11,11 +11,11 @@ cook: 0 minutes
 
         
 * 6 heaping cups of leafy greens (I like spinach)
-* 1/2 an English cucumber, sliced into half moons
+* ½ an English cucumber, sliced into half moons
 * 1 cups hulled and sliced strawberries
 * 1 cooked chicken breast, cooled and diced
-* heaping 1/2 cup crumbled feta cheese
-* 1/3 cup coarsely chopped shelled pistachios
+* heaping ½ cup crumbled feta cheese
+* ⅓ cup coarsely chopped shelled pistachios
 * 1 tablespoon honey
 * 1 teaspoon dijon mustard
 * pinch of salt and pepper

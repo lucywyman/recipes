@@ -11,14 +11,14 @@ cook:
 
 * 3 cups strawberries, hulled and halved
 * drizzle of olive oil
-* 1 1/2 cups all-purpose flour
-* 1 1/2 teaspoon baking powder
-* 1/2 teaspoon baking soda
-* 1/2 teaspoon salt
+* 1 ½ cups all-purpose flour
+* 1 ½ teaspoon baking powder
+* ½ teaspoon baking soda
+* ½ teaspoon salt
 * 3 large eggs
-* 2/3 cup granulated sugar
-* 2/3 cup sour cream or full fat yogurt
-* 1/2 cup olive oil
+* ⅔ cup granulated sugar
+* ⅔ cup sour cream or full fat yogurt
+* ½ cup olive oil
 * 2 tablespoons fresh lemon juice
 * 1 teaspoon pure vanilla extract
 * powdered sugar for topping

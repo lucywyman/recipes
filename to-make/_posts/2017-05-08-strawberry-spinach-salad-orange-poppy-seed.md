@@ -12,15 +12,15 @@ cook:
 ##### For the Dressing
 
 * 1 pound extra-firm tofu
-* 1/2 cup orange juice
-* 1/4 cup olive oil
-* 1/4 cup minced shallots
+* ½ cup orange juice
+* ¼ cup olive oil
+* ¼ cup minced shallots
 * 2 tablespoons lemon juice
 * 2 tablespoons maple syrup (or other liquid sweetener)
 * 1 tablespoon dijon mustard
 * 1 tablespoon poppy seeds
-* 3/4 teaspoon salt
-* 1/2 teaspoon pepper
+* ¾ teaspoon salt
+* ½ teaspoon pepper
 
 ##### For the Salad
 

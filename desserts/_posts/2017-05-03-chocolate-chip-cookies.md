@@ -13,14 +13,14 @@ cook:
 * 1 cup light brown sugar, packed
 * 2 teaspoons vanilla extract
 * 1 teaspoon molasses
-* 1/2 cup granulated sugar
+* ½ cup granulated sugar
 * 1 large egg
 * 1 large egg yolk
-* 2 1/4 cups all-purpose flour
+* 2 ¼ cups all-purpose flour
 * 1 teaspoon salt
 * 1 teaspoon baking soda
 * 1 cup bittersweet chocolate chips
-* 1/2 cup coarsely chopped pecans
+* ½ cup coarsely chopped pecans
 * coarse sea salt, to sprinkle on top
 
 <br>
@@ -33,12 +33,12 @@ foam and froth as it cooks, and start to crackle and pop.
 3. Once the crackling stops, keep a close eye on the melted butter,
 continuing to swirl the pan often. The butter will start to smell
 nutty, and brown bits will form in the bottom. 
-4. Once the bits are amber brown (about 2 1/2 to 3 minutes or so after
+4. Once the bits are amber brown (about 2 ½ to 3 minutes or so after
 the sizzling stops), remove the butter from the burner and immediately
 pour it into a small bowl, bits and all. This will stop the butter
 from cooking and burning.  
 5. Allow it to cool for 20 minutes.
-6. Beat the remaining 1/2 cup butter with the brown sugar for 3 to 5
+6. Beat the remaining ½ cup butter with the brown sugar for 3 to 5
 minutes, until the mixture is very smooth.
 7. Beat in the vanilla extract and molasses.
 8. Pour the cooled brown butter into the bowl, along with the granulated

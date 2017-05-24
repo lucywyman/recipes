@@ -12,8 +12,8 @@ cook:
 * 8 cups arugula
 * 2 tablespoons olive oil
 * 1 tablespoon lemon juice
-* 1/4 teaspoon salt and pepper
-* 1/4 cup shaved parmesan cheese
+* ¼ teaspoon salt and pepper
+* ¼ cup shaved parmesan cheese
 
 <br>
 

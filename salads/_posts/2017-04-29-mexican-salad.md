@@ -25,7 +25,7 @@ cook:
 A note about avocados: Since I cook for 1 person, this salad made for
 about 3-4 meals over the course of 2-3 days. Since avocado doesn't do
 so well in the fridge, I made the rest of the salad on it's own and
-would dice ~1/2 an avocado over each serving right before eating it,
+would dice ~½ an avocado over each serving right before eating it,
 then wrap the avocado and store it in the fridge for up to a day. This
 worked well for me, but if you're serving a family of 4 and will eat
 most of the salad in one sitting, go ahead and throw in as much

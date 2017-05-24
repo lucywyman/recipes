@@ -8,8 +8,8 @@ cook:
 ---
 
 #### Ingredients:
-* 1/2 cup cashews (unroasted)
-* 3/4 cup hot water
+* ½ cup cashews (unroasted)
+* ¾ cup hot water
 * 2 tablespoons lemon juice
 * 1 tablespoon olive oil
 * 1 clove garlic, peeled

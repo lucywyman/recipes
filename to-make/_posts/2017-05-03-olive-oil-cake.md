@@ -11,18 +11,18 @@ cook:
 
 ##### For the Cake
 
-* 1 3/4 cups All- Purpose Flour
-* 1 1/2 cup unrefined sugar
+* 1 ¾ cups All- Purpose Flour
+* 1 ½ cup unrefined sugar
 * 1 tsp kosher salt
 * 1 tsp ground cardamom
 * 1 tsp baking powder
-* 1/2 tsp baking soda
-* 1 1/4 cup coconut milk
+* ½ tsp baking soda
+* 1 ¼ cup coconut milk
 * 3 large eggs
-* 1 1/4 cup extra virgin olive oil
+* 1 ¼ cup extra virgin olive oil
 * 2 tablespoons grated orange zest
 * 1 tablespoon lemon zest
-* 1/4 cup plus 2 tablespoons fresh orange juice
+* ¼ cup plus 2 tablespoons fresh orange juice
 
 ##### For the Frosting
 

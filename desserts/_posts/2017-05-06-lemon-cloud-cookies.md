@@ -9,8 +9,8 @@ cook: 20 minutes
 
 #### Ingredients:
 
-* 1 1/2 cups all-purpose flour
-* 3/4 cup cornstarch
+* 1 ½ cups all-purpose flour
+* ¾ cup cornstarch
 * 4 teaspoons baking powder
 * 1/8 teaspoon salt
 * 8 Tablespoons (1 stick) unsalted butter, softened
