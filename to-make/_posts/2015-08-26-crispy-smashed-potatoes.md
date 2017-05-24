@@ -9,7 +9,7 @@ cook: 55 minutes
 
 #### Ingredients:
 
-#### #For the potatoes:
+##### For the potatoes:
 
 * 2 pounds Yukon Gold potatoes (or try red or new potatoes)
 * 2-2.5 tablespoons extra virgin olive oil (or oil of choice)
@@ -17,17 +17,13 @@ cook: 55 minutes
 * Garlic powder, for sprinkling on top
 * ⅓-½ cup fresh parsley, minced
 
-#### #Avocado Garlic Aioli:
+##### Avocado Garlic Aioli:
 
 * 1 large avocado, halved and pitted
 * 1 large or 2 small garlic cloves
 * ½ tablespoon fresh lemon juice
-* ¼ cup soy-free Veganaise (or vegan mayo of your choice)
+* ¼ cup mayo of your choice
 * Fine grain sea salt and freshly ground black pepper, to taste
-
-
-Read more: http://ohsheglows.com/2014/10/15/crispy-smashed-potatoes-with-avocado-garlic-aioli/#ixzz3jxdJlfbm
-
 
 <br>
 
