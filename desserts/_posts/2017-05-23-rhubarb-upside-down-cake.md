@@ -13,16 +13,16 @@ whipped cream!
 
 #### Ingredients:
 
-* 3⁄4 lb. rhubarb (4-5 medium-large stalks), trimmed and cut into 1 1⁄2" pieces on an angle
-* 11⁄2 cups sugar
-* 4 tbsp. unsalted butter, plus 6 tbsp. cut into 1⁄2" cubes and chilled
+* ¾lb. rhubarb (4-5 medium-large stalks), trimmed and cut into 1½" pieces on an angle
+* 1½ cups sugar
+* 4 tbsp. unsalted butter, plus 6 tbsp. cut into ½" cubes and chilled
 * 1 tbsp. fresh lemon juice
 * 2 tsp. vanilla extract
-* 1⁄2 tsp. kosher salt
-* 21⁄2 cups flour
+* ½ tsp. kosher salt
+* 2½ cups flour
 * 2 tsp. baking powder
-* 1⁄2 cup vegetable shortening
-* 1⁄3 cup milk
+* ½ cup vegetable shortening
+* ⅓ cup milk
 * 2 eggs
 
 <br>
@@ -35,6 +35,7 @@ whipped cream!
 4. Meanwhile, whisk together remaining sugar and salt, plus flour and baking powder in a bowl. 
 5. Add remaining butter and the shortening and, using your fingers or a pastry cutter, rub into flour mixture to form coarse pea-size pieces. 
 6. Add milk and eggs and stir until a soft, sticky dough forms (I ended up needing to add just a teaspoon more milk, but use your best judgement). 
+
 6.5 If using a nonstick skillet, transfer the rhubarb mixture into an ungreased cake pan.
 7. Place spoonfuls of dough over rhubarb mixture and smooth with a nonstick spatula. Imperfections are OK! Luckily, this will be the bottom of your cake.
 8. Bake until the crust is golden and cooked through, about 30 minutes. 

@@ -43,22 +43,18 @@ cook:
 
 #### To Make the Cake
 1. Place a rack in the center and upper third of the oven.  Preheat oven to 375°F.
-
-Thoroughly wash beets under running water, and trim their leaves,
+2. Thoroughly wash beets under running water, and trim their leaves,
 leaving about ½ inch of stem.  Place clean beets in a piece of foil.
 Drizzle with just a bit of vegetable oil.  Seal up foil.  Place on a
 baking sheet in the oven.  Roast until beets are tender when pierced
 with a knife, about 1 hour.
-
-Remove the beets from the oven.  Open the foil and allow beets to cool
+3. Remove the beets from the oven.  Open the foil and allow beets to cool
 completely.  Beets will be easy to peel (just using a paring knife)
 once completely cooled.
-
-Using a box grater, grate the peeled beets on the finest grating
+4. Using a box grater, grate the peeled beets on the finest grating
 plane.  Measure ¾ cup of grated beets for the cake and 2 tablespoons
 for the frosting.  Set aside.
-
-Reduce the oven temperature to 350 degrees F.  Use butter to grease
+5. Reduce the oven temperature to 350°F.  Use butter to grease
 two 8 or 9-inch round baking pans.  Trace a piece of parchment paper
 so it is the same size as the bottom of the cake pan.  Cut it out and
 place inside the cake pan.  Butter the parchment paper.  Add a dusting

@@ -9,13 +9,13 @@ cook:
 
 #### Ingredients:
 
-* 1 cup rolled oats (11 g protein)
-* 6 tablespoons (60g) hemp hearts (18 grams protein)
+* 1 cup rolled oats
+* 6 tablespoons (60g) hemp hearts
 * 1 teaspoon baking powder
 * ½ teaspoon cinnamon, plus more for sprinkling
 * ¼ teaspoon sea salt
-* 2 large eggs (8 g protein) or 4 large egg whites
-* ½ cup plain, unsweetened Greek yogurt (12-14 g protein)
+* 2 large eggs
+* ½ cup plain, unsweetened Greek yogurt
 * ⅓ cup almond milk or water, plus more if needed for thinning batter
 * 1 tablespoon sugar, optional
 * ½ teaspoon vanilla extract

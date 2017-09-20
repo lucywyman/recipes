@@ -12,8 +12,8 @@ time: 90 minutes
 * ½ teaspoon salt
 * 1½ teaspoons cinnamon
 * 1 teaspoon ground ginger
-* ½ teaspoon all spice*
-* ¼ teaspoon nutmeg*
+* ½ teaspoon all spice
+* ¼ teaspoon nutmeg
 * 2 large eggs, room temperature
 * ¾ cup granulated sugar
 * ½ cup light brown sugar
@@ -21,9 +21,9 @@ time: 90 minutes
 * ½ cup oil (I used coconut oil)
 * 1 teaspoon grated orange zest
 * 1½ teaspoons vanilla extract
-* ½ teaspoon orange extract*
-* ¼ cup apple cider, no sugar added*
-* 3 tablespoons pepitas, roasted and salted (or roasted and not salt, up to you)
+* ½ teaspoon orange extract
+* ¼ cup apple cider
+* 3 tablespoons pepitas
 
 <br>
 

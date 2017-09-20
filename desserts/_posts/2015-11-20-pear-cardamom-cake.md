@@ -10,6 +10,7 @@ cook: 45 minutes
 #### Ingredients:
 
 ##### Cake:
+
 * 1½ cups all purpose flour
 * 1 tsp baking soda
 * ½ tsp baking powder
@@ -24,6 +25,7 @@ cook: 45 minutes
 * 1 cup grated pears, drained (about 2 unpeeled pears)
 
 ##### Brown Butter Frosting:
+
 * 2 sticks unsalted butter
 * ⅔ cup powdered sugar
 * ¼ tsp ground cardamom
@@ -35,6 +37,7 @@ cook: 45 minutes
 #### Directions:
 
 ##### Cake:
+
 1. Preheat oven to 175°C (350°F). Grease and flour two 5-inch (12-13 cm) cake pans.
 2. In a large bowl, sift together flour, baking soda, baking powder, salt, cinnamon, cardamom and sugar. Set aside.
 3. In another bowl, whisk together oil, egg, egg yolk and sour cream.
@@ -43,6 +46,7 @@ cook: 45 minutes
 6. Let cool for 15 minutes before removing the cakes from the pans to cool completely.
 
 ##### Frosting:
+
 1. Place butter in a small saucepan on medium heat and stir until it melts completely.
 2. Continue cooking, stirring frequently until the milk solids turn brown and the butter smells nutty, about 5-10 minuter longer. Take care not to burn (it will continue to brown even after you remove it from the heat, so take it off early).
 3. Scrape the melted butter and browned bits into a small bowl and chill until almost solidified but still soft enough to be beaten with an electric mixer (about 20-30 minutes in the freezer, an hour or so in the fridge).
@@ -50,6 +54,7 @@ cook: 45 minutes
 5. Add the powdered sugar, cardamom and salt and beat until completely smooth and fluffy, about 3-4 minutes. Beat in the cream until frosting is fluffy.
 
 ##### Assembly:
+
 1. If cakes are rounded on top, even out with a knife. 
 2. Cut both cakes in half using a sharp serrated knife (you'll end up with four layers). 
 Put the first layer on a cake board or a cake stand. Spread frosting on the first layer. Add the next layer and repeat until you've used up all four layers
