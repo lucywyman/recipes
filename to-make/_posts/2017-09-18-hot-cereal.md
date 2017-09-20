@@ -9,9 +9,9 @@ cook:
 
 ##### Ingredients:
 
-* 3/4 cup water 
-* 1/4 cup Bob's Red Mill 7 Grain Hot Cereal 
-* 1/4 teaspoon orange rind, finely grated 
+* ¾ cup water 
+* ¼ cup Bob's Red Mill 7 Grain Hot Cereal 
+* ¼ teaspoon orange rind, finely grated 
 * 1 dash kosher salt 
 * 1 dash ground cinnamon 
 * 1 pinch fresh ground nutmeg 

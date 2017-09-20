@@ -10,13 +10,13 @@ cook:
 ##### Ingredients:
 
 * 1 large bunch kale (about 10 ounces)
-* 1/4 cup cubed pancetta or sliced bacon (about 2 ounces)
+* ¼ cup cubed pancetta or sliced bacon (about 2 ounces)
 * 4 cups warmed chicken or vegetable stock, divided
 * 2 tablespoons olive oil
-* 1/2 whole yellow onion, chopped
-* 1/4 teaspoon salt
+* ½ whole yellow onion, chopped
+* ¼ teaspoon salt
 * 1 medium apple, cored and chopped
-* 1/4 cup crème fraîche, mascarpone cheese, or plain yogurt
+* ¼ cup crème fraîche, mascarpone cheese, or plain yogurt
 * Freshly ground black pepper 
 
 <br>

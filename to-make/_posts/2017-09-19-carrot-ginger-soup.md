@@ -12,7 +12,7 @@ cook:
 * 2 tablespoons olive oil
 * 1 medium onion, diced
 * 3 tablespoons minced ginger
-* 3/4 teaspoon ground coriander
+* ¾ teaspoon ground coriander
 * 4-5 cups diced carrots
 * 3 cups vegetable broth
 * 1 cup light coconut milk

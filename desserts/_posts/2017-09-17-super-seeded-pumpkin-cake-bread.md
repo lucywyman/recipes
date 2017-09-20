@@ -9,27 +9,27 @@ cook: 60 minutes
 
 ##### Ingredients:
 
-* 1/2 cup (1 stick) unsalted butter, at room temperature
+* ½ cup (1 stick) unsalted butter, at room temperature
 * 2 cups all-purpose flour
 * 1 teaspoon baking soda
-* 1/2 teaspoon baking powder
-* 11/2 teaspoons pumpkin pie spice
-* 1/2 teaspoon ground cinnamon
-* 1/4 teaspoon nutmeg
-* 1/4 teaspoon cardamom
-* 1/2 teaspoon salt
-* 1/4 teaspoon black pepper
+* ½ teaspoon baking powder
+* 1½ teaspoons pumpkin pie spice
+* ½ teaspoon ground cinnamon
+* ¼ teaspoon nutmeg
+* ¼ teaspoon cardamom
+* ½ teaspoon salt
+* ¼ teaspoon black pepper
 * 1 cup packed brown sugar
 * 2 large eggs
 * 1 cup canned pumpkin puree
-* 1/3 cup buttermilk
+* ⅓ cup buttermilk
 * 2 teaspoons vanilla extract
 
 ###### For the topping
 
-* 1/4 cup coarsely chopped walnuts
-* 1/4 cup coarsely chopped pecans
-* 1/4 cup pumpkin seeds
+* ¼ cup coarsely chopped walnuts
+* ¼ cup coarsely chopped pecans
+* ¼ cup pumpkin seeds
 * 2 tablespoons sunflower seeds
 * 1 tablespoon millet (optional)
 * Any other bits of nuts and seeds you'd like!
