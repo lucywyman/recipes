@@ -1,7 +1,6 @@
 ---
 layout: recipe
-title: Strawberry Rhubarb Cobbler with Cornmeal Biscuits and Honeyed
-Cream
+title: Strawberry Rhubarb Cobbler with Cornmeal Biscuits and Honeyed Cream
 from: Joy the Baker 
 fromurl: http://joythebaker.com/2017/04/strawberry-rhubarb-cobbler-with-cornmeal-biscuits-and-honeyed-cream/
 prep: 30 minutes
@@ -12,7 +11,7 @@ cook: 40 minutes
 
 ##### For the Biscuits
 
-* 1 ½ cups all-purpose flour, plus more to roll out doughq
+* 1 ½ cups all-purpose flour, plus more to roll out dough
 * ⅓ cup yellow cornmeal
 * 2 teaspoons baking powder
 * ½ teaspoon baking soda
