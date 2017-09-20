@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2015/04/30/healthy-vegan-marshmallow-f
 prep: 15-20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 (15oz) can chickpeas or white beans, with or without salt
 * ⅓ cup honey or agave or ½ cup fine sugar 
@@ -16,7 +16,7 @@ prep: 15-20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Open the can of beans and drain just the watery part into a stand mixer or a large mixing bowl. Save the actual beans for a different recipe. If you need inspiration, here are [50+ Healthy Uses For Canned Beans](http://chocolatecoveredkatie.com/tag/beans/).) You should have about ½ cup chickpea liquid. 
 2. Add all other ingredients, and beat with an electric mixer or in a stand mixer for 12-16 minutes. Mine only took about 5-6 minutes on high speed, but Katie's took closer to the full twelve, so be patient!

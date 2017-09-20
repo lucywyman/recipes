@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Cake
+###### For the Cake
 
 * 1 ¾ cups All- Purpose Flour
 * 1 ½ cup unrefined sugar
@@ -24,7 +24,7 @@ cook:
 * 1 tablespoon lemon zest
 * ¼ cup plus 2 tablespoons fresh orange juice
 
-##### For the Frosting
+###### For the Frosting
 
 * 8 tablespoons unsalted butter at room temperate
 * 8 ounce cream cheese at room temp
@@ -34,9 +34,9 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### For the Cake
+###### For the Cake
 
 1. Butter and lightly flour a 9 inch cake pan, line with parchment paper.
 2. In a bowl combine all the dry ingredients and whisk to incorporate. 
@@ -47,7 +47,7 @@ it too much!
 5. Place the batter in the pan and bake until a toothpick comes out clean around 45-50 minutes. If it gets too dark, cover loosely with tinfoil and continue baking. 
 6. Let cool completely and frost with the orange blossom cream cheese frosting.
 
-##### For the Frosting
+###### For the Frosting
 
 1. In a mixing bowl, whisk the butter and cream cheese until fully
 combined. Add in the sifted icing sugar, orange blossom water and

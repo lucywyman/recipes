@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 6 tablespoons olive oil
 * 1 cup chopped fennel bulb, fronds reserved
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat the olive oil in a large (12") skillet over medium heat.
 2. Add the fennel and saute for 5 minutes, until tender but not browned.

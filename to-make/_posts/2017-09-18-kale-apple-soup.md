@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 large bunch kale (about 10 ounces)
 * 1/4 cup cubed pancetta or sliced bacon (about 2 ounces)
@@ -21,7 +21,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
  Wash the kale and remove the bottom inch of stem. Chop roughly into 1-inch pieces.
 

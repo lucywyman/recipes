@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 10 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 tilapia filet
 * 1 tablespoon olive oil
@@ -17,7 +17,7 @@ cook: 10 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Diced the tomatoes. I use grape tomatoes, and like to slice them in half lengthwise then slice each length into thirds. 
 1. Place the olive oil in the pan, and the fish in the olive oil. I like to rub the filet down a bit to make sure it's fully coated

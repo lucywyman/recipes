@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 4-5 hours
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 tablespoon coconut oil
 * 1 large leek, white and light green parts only, thinly sliced
@@ -24,7 +24,7 @@ cook: 4-5 hours
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat the coconut oil in a large skillet over medium heat
 2. Add the leek and carrots and cook, stirring frequently, until soft, 5-7 minutes

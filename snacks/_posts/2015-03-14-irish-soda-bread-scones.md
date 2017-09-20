@@ -5,7 +5,7 @@ from: Brown-eyed Baker
 time: 40 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 cups all-purpose flour
 * 1 cup cake flour
@@ -21,7 +21,7 @@ time: 40 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 400° F and position rack in upper-middle position. Line a baking sheet with parchment paper or a silicone baking mat (or lightly grease).
 2. In a large bowl, whisk together the flours, sugar, baking soda, cream of tartar, and salt. 

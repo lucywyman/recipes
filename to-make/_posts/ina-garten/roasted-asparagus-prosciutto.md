@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 pound thick fresh asparagus
 * Olive oil
@@ -18,7 +18,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 400°F.
 2. Cut off and discard the bottom ⅓ of the asparagus. 

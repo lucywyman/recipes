@@ -7,7 +7,7 @@ prep: 5 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ½ box gluten-free pasta (I use [Simple Truth Gluten Free Fusili](http://www.simpletruth.com/products/grains-pastas-sauces/pasta/gluten-free-fusilli/))
 * 1 can full-fat coconut cream
@@ -19,7 +19,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Chop broccoli and chicken into 1-inch cubes. Smaller is better!
 2. Divide olive oil between two sauce pans.  Heat each about 2 minutes.

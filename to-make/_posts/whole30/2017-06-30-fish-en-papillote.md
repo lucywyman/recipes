@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 15 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup chopped seeded tomato
 * 1 small shallot, thinly sliced
@@ -21,7 +21,7 @@ cook: 15 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the over to 425°F
 2. Combine the tomato, shallot, garlic, 1 tablespoon of the olive oil, herbes de Provence and 1/8 teaspoon of the salt in a medium bowl

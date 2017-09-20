@@ -5,7 +5,7 @@ from: Our kitchen
 title: Asparagus, Chicken and Parmesan cream
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 chicken breast of reasonable size, chopped into 1 cubic inch chunks
 * 1 bunch asparagus of reasonable size, also chopped
@@ -20,7 +20,7 @@ title: Asparagus, Chicken and Parmesan cream
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. First, chop chicken and asparagus
 2. Fry chicken and asparagus in olive oil with spices (we use a wok, cause there's a lot of chicken). They take roughly the same time to cook, so we put them in together.

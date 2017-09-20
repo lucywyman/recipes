@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 bottle kefir
 * 1 handful basil
@@ -17,7 +17,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Blend until smooth in a blender
 2. Bottle and save for up to 3 days 

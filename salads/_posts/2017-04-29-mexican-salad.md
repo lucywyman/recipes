@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 bag leafy greens
 * 2 roma tomatoes, diced
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 A note about avocados: Since I cook for 1 person, this salad made for
 about 3-4 meals over the course of 2-3 days. Since avocado doesn't do

@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 35 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup quick oats
 * 2 cans garbanzo or white beans, drained and rinsed (500g after draining)
@@ -22,7 +22,7 @@ cook: 35 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Blend all ingredients very, very well in a food processor. 
 2. Pour into an oiled pan. (10" springform works best!)

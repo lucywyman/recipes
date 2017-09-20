@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Cake
+###### For the Cake
 
 * ½ cup vegetable oil
 * 1 cup all-purpose flour
@@ -24,7 +24,7 @@ cook:
 * ½ cup sugar
 * ½ cup brown sugar
 
-##### For the Frosting
+###### For the Frosting
 
 * 6 ounces cream cheese
 * 3 tablespoons unsalted butter, at room temperature
@@ -34,9 +34,9 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### For the Cake
+###### For the Cake
 
 1. Preheat the oven to 350°F. Brush the top of a muffin pan with vegetable oil and line with paper liners
 2. In a medium bowl, sift together the flour, baking powder, baking soda, cinnamon, ginger, nutmeg, and salt. 
@@ -45,7 +45,7 @@ cook:
 5. Scoop the batter into the prepared tins and bake for 20-25 minutes, until a toothpick comes out clean.
 6. Cool completely and frost
 
-##### For the Frosting
+###### For the Frosting
 
 1. In the bowl of an electric mixer fitted with the paddle attachment cream the cream cheese, butter, maple syrup, and vanilla on medium-low until very smooth
 2. With the mixer on low slowly add the confectioners sugar and mix until smooth.

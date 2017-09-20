@@ -8,7 +8,7 @@ time: 15 minutes
 
 ![Zucchini with Parmesan](/assets/img/fried-zucchini1.jpg)
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 medium zucchini
 * 2 tsp olive oil
@@ -16,7 +16,7 @@ time: 15 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Slice zucchini into thin slices
 2. Heat olive oil in skillet over medium-high heat. 

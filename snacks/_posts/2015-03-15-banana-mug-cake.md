@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2015/01/13/low-fat-banana-breakfast-ca
 time: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 tbsp spelt, white, or oat flour
 * ¼ tsp baking powder
@@ -18,7 +18,7 @@ time: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. For the top, combine: ¼ tsp cinnamon, 2 tsp brown sugar or xylitol or sucanat, 2 tsp overripe mashed banana, tiny pinch salt, 1 tsp buttery spread OR 1 tsp more mashed banana, optional crumbled pecans or walnuts.
 1. Grease a small mug or 1-cup dish, and set aside.

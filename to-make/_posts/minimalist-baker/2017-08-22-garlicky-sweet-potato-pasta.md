@@ -7,9 +7,9 @@ prep: 1 hour 15 minutes
 cook: 15 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Sauce
+###### Sauce
 
 * 1 cup (120g) raw cashews
 * 1 whole head garlic
@@ -20,7 +20,7 @@ cook: 15 minutes
 * 1 ½ - 2 cups (360-480 ml) unsweetened plain almond or rice milk, + more as needed
 * optional: pinch red pepper flake (omit for less spicy)
 
-##### Noodles
+###### Noodles
 
 * 3 large or 4 small-medium sweet potatoes (~525 g), spiralized
 * 1-2 Tbsp (15-30 ml) coconut
@@ -28,9 +28,9 @@ cook: 15 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### Sauce
+###### Sauce
 1. Add cashews to a small mixing bowl and cover with very hot water to soak for 1 hour. Then drain thoroughly and set aside (or soak overnight or 6-8 hours in cool water).
 2. In the meantime preheat oven to 400°F (204°C) and slice off the very top of your whole head of garlic. Place on a piece of foil, drizzle with oil and a pinch of salt and loosely wrap. 
 3. Bake garlic directly on the oven rack for 45 minutes - 1 hour or until fragrant, tender, and slightly golden brown. Then remove from oven to let cool.

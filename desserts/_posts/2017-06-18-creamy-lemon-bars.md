@@ -7,9 +7,9 @@ prep: 1 hour
 cook: 45 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Filling
+###### Filling
 
 * 1 cup (120 g) raw cashews
 * 1 cup (240 g) coconut cream (the hardened portion at the top of full-fat coconut milk)
@@ -20,7 +20,7 @@ cook: 45 minutes
 * ¼ cup (60 ml) maple syrup, plus more to taste
 * optional: 2 Tbsp (14 g) organic powdered sugar, for topping
 
-##### Crust
+###### Crust
 
 * 1 cup (90 g) gluten-free oats
 * 1 cup (112 g) almonds
@@ -31,7 +31,7 @@ cook: 45 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Add raw cashews to a mixing bowl and cover with boiling hot water. Let rest for 1 hour (uncovered). Then drain thoroughly.
 2. In the meantime, preheat oven to 350° F (176° C) and line an 8x8 inch baking dish with parchment paper.

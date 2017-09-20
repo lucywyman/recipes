@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 2 carrots, sliced
 1 medium yellow onion, diced
@@ -24,7 +24,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a wok, saute the onion, carrots, and broccoli in the oil over medium 
 heat until the onions become translucent

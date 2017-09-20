@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 cups strawberries, hulled and halved
 * drizzle of olive oil
@@ -25,7 +25,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the middle of the oven and preheat oven to 375° F. Grease a 9x5-inch baking pan with non-stick baking spray.
 2. Line with parchment paper so that two flaps of paper hang over the

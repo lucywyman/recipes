@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 10 eggs
 * ¼ cup heavy cream
@@ -23,7 +23,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Preheat the oven to 350°F and grease an 8x8 (or 9x9) glass baking dish
 1. In a large bowl, whisk together the: 

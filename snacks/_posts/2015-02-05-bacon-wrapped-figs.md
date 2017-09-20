@@ -5,7 +5,7 @@ from: Our Kitchen
 time: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * Dates or Figs -- we buy them seedless, which makes them easy to cut
 * Bacon
@@ -13,7 +13,7 @@ time: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Preheat oven to 350*F
 1. Fill dates with cheese of choice.  We generally do this by cutting them open, smearing cream cheese on them, the rolling them back up.

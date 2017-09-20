@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ¼ cup plus 2 tablespoons gluten-free multi-purpose flour (I used King Arthur Flour Blend)
 * ¼ cup plus 2 tablespoons superfine sugar
@@ -21,7 +21,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the upper third of the oven and preheat the oven to 350°F. Line two cupcakes pans with paper liners and set aside.
 2. In a small bowl whisk together and then sift the flour, cornstarch, and ¼ cup plus 2 tablespoons sugar. Set aside.

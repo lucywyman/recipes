@@ -6,9 +6,9 @@ fromurl: http://thepioneerwoman.com/cooking/2010/04/hot-cross-buns/
 time: 3 hours
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-#### #Buns:
+##### #Buns:
 
 * 2 cups Whole Milk
 * ½ cup Canola Oil
@@ -23,12 +23,12 @@ time: 3 hours
 * 1 teaspoon Cinnamon
 * Spices: Cardamom, Nutmeg, Allspice (optional)
 
-#### #Glaze:
+##### #Glaze:
 
 * 1 whole Egg White
 * Splash Of Milk
 
-#### #Icing:
+##### #Icing:
 
 * 1 whole Egg White
 * Powdered Sugar
@@ -36,9 +36,9 @@ time: 3 hours
 
 <br>
 
-#### Directions:
+##### Directions:
 
-#### #Buns:
+##### #Buns:
 
 1. Combine 2 cups milk, canola oil, and ½ cup sugar in a saucepan. 
 2. Stir and heat until very warm but not boiling. 
@@ -55,7 +55,7 @@ time: 3 hours
 13. Mix glaze ingredients and dip buns into it, then place back on cookie sheet.
 14. Bake buns for 20 minutes, or until deep golden brown
 
-#### #Icing:
+##### #Icing:
 
 15. In the meantime, mix the icing ingredients, adding sugar and milk as necessary. 
 16. Using a ziploc bag as an icing piper (snip off one corner and fill with icing), and pipe icing on in a criss-cross over the buns.  

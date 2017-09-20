@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 12 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ¾ cup butter, softened
 * 1 cup sugar
@@ -24,7 +24,7 @@ cook: 12 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a large bowl, cream butter and sugar until light and fluffy. 
 2. Beat in egg and molasses. 

@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * Olive oil
 * 1 cup chopped sweet onion
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 425°F
 2. Heat 3 tablespoons of olive oil in a medium (10") pan. 

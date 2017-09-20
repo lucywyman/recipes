@@ -7,7 +7,7 @@ prep: 2 minutes
 cook: 10 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 2 cups milk of choice
 2½ tablespoons granulated sugar
@@ -16,7 +16,7 @@ cook: 10 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place milk in a medium saucepan over medium-low heat. Warm to steaming and add the sugar and chopped chocolate. 
 2. Whisk until sugar is dissolved and chocolate is completely melted. 

@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Cake
+###### For the Cake
 
 * 2 medium beets, unpeeled but trimmed of their greens
 * 1 teaspoon vegetable oil
@@ -26,7 +26,7 @@ cook:
 * 1 teaspoon salt
 * 1 ¼ cups buttermilk
 
-##### For the Frosting
+###### For the Frosting
 
 * 1 cup (2 sticks) unsalted butter, softened
 * 8 ounces (1 brick) cream cheese, softened
@@ -39,9 +39,9 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-#### To Make the Cake
+##### To Make the Cake
 1. Place a rack in the center and upper third of the oven.  Preheat oven to 375°F.
 2. Thoroughly wash beets under running water, and trim their leaves,
 leaving about ½ inch of stem.  Place clean beets in a piece of foil.
@@ -85,7 +85,7 @@ Remove cakes from the oven and allow to rest for 10 minutes.  Invert
 cakes onto a cooling rack to cool completely before frosting and
 assembling the cake.
 
-#### To make the Frosting
+##### To make the Frosting
 
 In the bowl of an electric stand mixer, fitted with a paddle
 attachment, beat cream cheese for 30 seconds, until pliable and

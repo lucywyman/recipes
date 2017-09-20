@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2¼ cups white whole wheat flour or whole wheat pastry flour
 * 2 teaspoons baking powder
@@ -21,7 +21,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 350 degrees F.  Butter and flour the loaf pan and muffin tins.
 2. Whisk the flour, baking powder and salt together in a small bowl and set aside.

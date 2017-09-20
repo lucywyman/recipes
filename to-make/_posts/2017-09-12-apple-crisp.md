@@ -7,15 +7,15 @@ prep: 10 minutes
 cook: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Apples
+###### Apples
 
 * 5 cups of peeled, sliced apples
 * ¼ cup brown sugar
 * 2 tsp cinnamon
 
-##### Topping
+###### Topping
 
 * 1 cup ground almonds
 * ⅔ cup brown sugar
@@ -24,7 +24,7 @@ cook: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 350°F.
 2. Mix apples, sugar and cinnamon in a microwave safe bowl. Cook apple mixture in the microwave for 5 minutes.

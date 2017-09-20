@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 6 ounces bittersweet chocolate (chopped) 
 * 2 tablespoons Armagnac or Cognac 
@@ -19,7 +19,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Melt the chocolate, liquor, and coffee together in the top of a double boiler. 
 2. Once melted, add the pinch of salt and remove from the heat. 

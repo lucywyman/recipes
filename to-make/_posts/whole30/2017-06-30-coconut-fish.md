@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Fish
+###### For the Fish
 
 * 2 cod or sea bass fillets, cut about ½" thick (5-6 ounces)
 * 1/8 teaspoon salt
@@ -19,7 +19,7 @@ cook:
 * ¼ cup finely chopped shallots
 * 1 tablespoon coconut oil, melted
 
-##### For the Vegetables
+###### For the Vegetables
 
 * 1 tablespoon coconut oil
 * 1 bunch fresh broccolini, trimmed, or 1 cup broccoli florets
@@ -36,11 +36,11 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 Preheat over to 425°F
 
-##### Make the Fish
+###### Make the Fish
 
 1. Line a baking sheet with parchment paper
 2. Rinse the fish and pat dry. Place the fish on the prepared baking sheet
@@ -50,7 +50,7 @@ Preheat over to 425°F
 6. Spoon the coconut mixture evenly on top of the fish fillets.
 7. Bake the fist for 8-11 minutes, until topping is browned
 
-##### Make the Vegetables
+###### Make the Vegetables
 
 1. Heat the coconut oil in a wok or large nonstick skillet over medium heat
 2. Add the broccolini, cover and cook for 2 minutes. 

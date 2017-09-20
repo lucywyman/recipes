@@ -5,13 +5,13 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Sep 2017 08:01:09 -0700</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2017 08:01:09 -0700</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2017 08:26:15 -0700</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2017 08:26:15 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Carrot Ginger Coconut Soup</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 tablespoons olive oil&lt;/li&gt;
@@ -26,7 +26,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Heat olive oil in a large saucepan over medium heat.&lt;/li&gt;
@@ -49,7 +49,7 @@
     
       <item>
         <title>Kale Apple Soup</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1 large bunch kale (about 10 ounces)&lt;/li&gt;
@@ -65,7 +65,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;p&gt;Wash the kale and remove the bottom inch of stem. Chop roughly into 1-inch pieces.&lt;/p&gt;
 
@@ -92,7 +92,7 @@
     
       <item>
         <title>The Best Hot Cereal</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;3/4 cup water&lt;/li&gt;
@@ -109,7 +109,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;p&gt;In a small pot, add orange rind to water and bring to a boil.
 Add cereal, salt, cinnamon, and nutmeg and reduce heat. Stir while cooking and add the soy milk a tablespoon at a time when liquid has been fully absorbed by the cereal.
@@ -126,9 +126,9 @@ When the cereal is done, about 6 minutes, add vanilla extract, butter, and maple
     
       <item>
         <title>Herb-crusted Pork Loin</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
-&lt;h5 id=&quot;for-the-pork&quot;&gt;For the Pork&lt;/h5&gt;
+&lt;h6 id=&quot;for-the-pork&quot;&gt;For the Pork&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2lb pork tenderloin&lt;/li&gt;
@@ -142,7 +142,7 @@ When the cereal is done, about 6 minutes, add vanilla extract, butter, and maple
   &lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;for-the-sauce&quot;&gt;For the Sauce&lt;/h5&gt;
+&lt;h6 id=&quot;for-the-sauce&quot;&gt;For the Sauce&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 lemons, zested and juiced&lt;/li&gt;
@@ -152,7 +152,7 @@ When the cereal is done, about 6 minutes, add vanilla extract, butter, and maple
   &lt;li&gt;2 tablespoons butter&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;for-the-veggies&quot;&gt;For the Veggies&lt;/h5&gt;
+&lt;h6 id=&quot;for-the-veggies&quot;&gt;For the Veggies&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1.5 lbs asparagus (this was about 3 bunches), tough ends cut off&lt;/li&gt;
@@ -164,7 +164,7 @@ When the cereal is done, about 6 minutes, add vanilla extract, butter, and maple
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;p&gt;Preheat oven to 425°F
 Make the herb paste - Place herbs, parsley, garlic (yes, all 10!), salt, pepper and lemon zest in a food processor and pulse until it becomes very coarse. Add oil and scrape down the sides if necessary, pulse until just combined. 
@@ -186,7 +186,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
     
       <item>
         <title>Broccoli Cheddar Soup</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;½ cup cheddar cheese&lt;/li&gt;
@@ -200,7 +200,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Steam the broccoli or cauliflower until soft. I typically put the veg in a container with about a tablespoon of water in the microwave for 5 minutes&lt;/li&gt;
@@ -221,7 +221,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
     
       <item>
         <title>Super-Seeded Pumpkin Cake Bread</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1/2 cup (1 stick) unsalted butter, at room temperature&lt;/li&gt;
@@ -241,7 +241,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
   &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;for-the-topping&quot;&gt;For the topping&lt;/h5&gt;
+&lt;h6 id=&quot;for-the-topping&quot;&gt;For the topping&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1/4 cup coarsely chopped walnuts&lt;/li&gt;
@@ -254,7 +254,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Place a rack in the center of the oven and preheat to 350°F. Grease a 9x5 loaf pan.&lt;/li&gt;
@@ -280,7 +280,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
     
       <item>
         <title>Cauliflower Blueberry Smoothie</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 Tbsp almond butter&lt;/li&gt;
@@ -295,7 +295,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;p&gt;Blend! Pour!&lt;/p&gt;
 </description>
@@ -310,7 +310,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
     
       <item>
         <title>Chicken Zoodles</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 medium chicken breasts, cut into ½” pieces&lt;/li&gt;
@@ -323,7 +323,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Heat a large heavy-duty pan to medium/high heat. Add olive oil and minced garlic. Cook garlic for 30 seconds to 1 minute or until fragrant. Be careful not to burn the garlic.&lt;/li&gt;
@@ -342,7 +342,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
     
       <item>
         <title>Roasted Fall Vegetable Soup</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;3 medium leeks&lt;/li&gt;
@@ -363,7 +363,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Position a rack in the middle of the oven and preheat to 400°F.&lt;/li&gt;
@@ -387,9 +387,9 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
     
       <item>
         <title>Gluten-Free Apple Crisp</title>
-        <description>&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h4&gt;
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
 
-&lt;h5 id=&quot;apples&quot;&gt;Apples&lt;/h5&gt;
+&lt;h6 id=&quot;apples&quot;&gt;Apples&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;5 cups of peeled, sliced apples&lt;/li&gt;
@@ -397,7 +397,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
   &lt;li&gt;2 tsp cinnamon&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;topping&quot;&gt;Topping&lt;/h5&gt;
+&lt;h6 id=&quot;topping&quot;&gt;Topping&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1 cup ground almonds&lt;/li&gt;
@@ -408,7 +408,7 @@ Cut your pork loin into 1/2 inch slices. To assemble your plates, place about 4 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;directions&quot;&gt;Directions:&lt;/h4&gt;
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Preheat oven to 350°F.&lt;/li&gt;

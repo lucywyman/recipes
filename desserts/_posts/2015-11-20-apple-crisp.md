@@ -7,9 +7,9 @@ prep: 20 minutes
 cook: 1 hour
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-#### #Filling:
+##### #Filling:
 
 * 8 medium-large apples
 * 2 tbsp lemon juice
@@ -20,7 +20,7 @@ cook: 1 hour
 * optional: ¾ tsp fresh grated ginger or ½ tsp ground ginger
 * optional: pinch nutmeg
 
-#### #Topping:
+##### #Topping:
 
 * 1 cup rolled oats
 * 1 cup all purpose flour
@@ -33,7 +33,7 @@ cook: 1 hour
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 350°F.
 2. Peel apples, quarter, remove cores, and use a paring knife to thinly slice lengthwise.

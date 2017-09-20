@@ -6,7 +6,7 @@ fromurl: http://jekyllrb.com
 time: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * [Ruby Version Manager](https://rvm.io/rvm/install)
 * Ruby
@@ -15,9 +15,9 @@ time:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-#### #If you don't already have ruby:
+##### #If you don't already have ruby:
 
 1. Install the [Ruby Version Manager](https://rvm.io/rvm/install). To do this, 
 I would copy-paste the 'Install RVM Stable with Ruby' instructions, which is 
@@ -32,7 +32,7 @@ I'll recommend here, but I believe 2.2.1 is also popular. Then run
 3. Install the current version of rubygems (the ruby package manager): 
 ``$ rvm rubygems current``
 
-#### #If you already have ruby (or just installed it):
+##### #If you already have ruby (or just installed it):
 
 4. Jekyll is just a ruby gem: ``$ gem install jekyll``
 5. ``$ jekyll new [SITENAME]``. This will automatically 

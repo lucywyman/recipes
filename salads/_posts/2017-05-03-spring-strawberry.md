@@ -7,7 +7,7 @@ prep: 5 minutes
 cook: 0 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
         
 * 6 heaping cups of leafy greens (I like spinach)
@@ -25,7 +25,7 @@ cook: 0 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Toss together all of the salad ingredients. Sprinkle with salt and pepper.
 2. In a small mason jar combine honey, mustard, salt and pepper,

@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2012/09/09/no-bake-peanut-butter-pie/
 time: 1 hour
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup peanut butter or allergy-friendly alternative (230g) 
 * 3 medium bananas (300g) 
@@ -17,7 +17,7 @@ time: 1 hour
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Blend everything together very, very well. (I used a Vita-mix for this.) 
 2. Pour into a prepared pie crust or springform pan--this pie can easily be crustless!--and freeze until firm. (If not using the coconut oil, just chill in the fridge instead.) 

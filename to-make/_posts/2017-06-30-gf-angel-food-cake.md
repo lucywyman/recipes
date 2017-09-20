@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 12 large egg whites, room temperature
 * 1 teaspoon fresh lemon juice
@@ -19,7 +19,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 350ºF and adjust the rack to the middle position.
 2. Place the egg whites and lemon juice in the bowl of a standing mixer. Whisk the egg mixture on medium-high until foamy, about 30 seconds. 

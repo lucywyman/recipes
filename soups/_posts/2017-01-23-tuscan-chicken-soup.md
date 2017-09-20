@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 45 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 tbsp olive oil
 * 1 onion, peeled and chopped
@@ -29,7 +29,7 @@ cook: 45 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat the oil in a large saucepan. Add the onion and cook for 8 minutes on a low-medium heat, stirring occasionally until softened.
 2. Add the garlic and thyme and cook for a further 2 minutes. 

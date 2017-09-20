@@ -6,9 +6,9 @@ fromurl: http://www.skinnytaste.com/2008/04/mixed-baby-greens-with-strawberries-
 time: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-#### #For the dressing:
+##### #For the dressing:
 
 * 1 tbsp red wine vinegar
 * 1 tbsp cider vinegar
@@ -18,7 +18,7 @@ time: 5 minutes
 * ½ tbsp poppy seeds
 
 
-#### #For the salad:
+##### #For the salad:
 
 * 5 oz mixed baby greens
 * ¼ cup slivered almond
@@ -28,7 +28,7 @@ time: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place all the dressing ingredients in a small jar and shake.
 2. Combine the salad ingredients in a big salad bowl and toss with dressing or you can divide the ingredients equally between four plates. 

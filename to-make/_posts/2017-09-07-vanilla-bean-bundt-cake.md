@@ -7,9 +7,9 @@ prep: 20 minutes
 cook: 45 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Cake
+###### For the Cake
 
 * 3 cups all-purpose flour
 * 1 teaspoon baking powder
@@ -22,7 +22,7 @@ cook: 45 minutes
 * small splash almond extract
 * 1 cup buttermilk
 
-##### For the Praline Topping
+###### For the Praline Topping
 
 * ½ cup lightly packed light brown sugar
 * 6 tablespoons unsalted butter
@@ -33,9 +33,9 @@ cook: 45 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### To make the cake
+###### To make the cake
 
 1. Place a rack in the center of the oven and preheat oven to 350°F.
 2. Generously grease a bundt pan, dust it with flour, and knock out the excess flour.
@@ -50,7 +50,7 @@ cook: 45 minutes
 11. Remove from the oven and allow to cool in the pan for 45 minutes to an hour.
 12. Invert cake onto a sire rack and allow to cool completely.
     
-##### To make the praline topping
+###### To make the praline topping
 
 1. In a medium saucepan over medium-low heat combine brown sugar, butter, heavy cream, and salt. Stir until the mixture is melted, well combined, and smooth, about 4 minutes.
 2. Remove from heat and stir in vanilla and pecans. Allow to cool slightly until the consistency is thick and spoonable. Spoon over cooled cake and allow to rest until the praline sets.

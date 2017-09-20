@@ -7,7 +7,7 @@ prep: 1 minute
 cook: 3 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 heaped teaspoon peeled and finely chopped fresh turmeric
 * 1 teaspoon peeled and roughly chopped ginger
@@ -18,7 +18,7 @@ cook: 3 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Combine turmeric, ginger, sugar, coconut oil and a pinch of
 sea salt in a powerful blender.

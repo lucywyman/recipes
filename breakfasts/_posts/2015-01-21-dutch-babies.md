@@ -6,7 +6,7 @@ prep: 10 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ⅓ cup of butter (maybe a little less)
 * 4 eggs
@@ -15,7 +15,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 400*
 2. Put butter in a large, slope-sided pan, and stick the whole thing in the oven to melt while preheating (don't let the butter burn!)

@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 10 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 tablespoons rice vinegar
 * 2 tablespoons coconut aminos
@@ -24,7 +24,7 @@ cook: 10 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a small bowl mix the vinegar, coconut aminos, garlic, ginger, red pepper flakes, and salt. Set aside.
 2. Heat the coconut oil in a large skillet or wok over medium-high heat

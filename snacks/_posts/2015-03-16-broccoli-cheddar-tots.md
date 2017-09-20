@@ -6,7 +6,7 @@ fromurl: http://iamafoodblog.com/cheddar-cheese-broccoli-tots/
 time: 35 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 12 ounces broccoli
 * 1 large egg
@@ -17,7 +17,7 @@ time: 35 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 400°F. Line a baking sheet with parchment paper and set aside.
 2. Blanch the broccoli in boiling water for 1 minute then immediately shock with cold tap water or an ice bath. Drain very, very well.

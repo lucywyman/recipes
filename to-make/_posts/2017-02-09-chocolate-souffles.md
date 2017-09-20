@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ¼ cup unsalted butter, at room temperature plus extra for the
 * ramekins
@@ -23,7 +23,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat oven to 325° F. Coat four 6-ounce ramekins with butter
 and sprinkle the insides with granulated sugar. 

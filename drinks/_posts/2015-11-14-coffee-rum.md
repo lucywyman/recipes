@@ -7,7 +7,7 @@ prep: 2 minutes
 cook: 1 minute
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup coffee
 * 1 tbsp kahlua
@@ -16,5 +16,5 @@ cook: 1 minute
 
 <br>
 
-#### Directions:
+##### Directions:
 1. Mix and enjoy!

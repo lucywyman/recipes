@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 cups whole milk
 * 1 tablespoon brown sugar
@@ -18,7 +18,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place the milk and brown sugar in a medium saucepan and bring just to simmer.
 2. Off the heat, whisk in the rest of the ingredients.

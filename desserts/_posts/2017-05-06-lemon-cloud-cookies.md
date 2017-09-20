@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 ½ cups all-purpose flour
 * ¾ cup cornstarch
@@ -21,7 +21,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 325° F.
 2. Combine the flour, cornstarch, baking powder and salt. Set aside.

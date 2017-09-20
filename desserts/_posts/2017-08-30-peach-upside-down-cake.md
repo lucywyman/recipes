@@ -7,9 +7,9 @@ prep: 20 minutes
 cook: 25 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Cake
+###### For the Cake
 
 * 200g soft butter, plus extra for greasing
 * 200g self-raising flour
@@ -20,7 +20,7 @@ cook: 25 minutes
 * 3 ripe peaches
 * 85g brown sugar
 
-##### For the Filling
+###### For the Filling
 
 * ½ pint whipping cream
 * ⅓ cup powdered sugar
@@ -28,9 +28,9 @@ cook: 25 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### For the Cake
+###### For the Cake
 
 1. Preheat the oven to 350°F / 180°C. Grease 2 2x20cm round cake tins.
 2. Sift the flour and baking powder into a large bowl, then tip in all the other sponge ingredients. 
@@ -40,7 +40,7 @@ cook: 25 minutes
 6. Tip half the cake mix over the peaches and the other half into the second tin. 
 7. Bake for 20-25 mins until cooked and golden – the tin containing the peaches may take 5-10 mins longer than the other. Leave to cool on a wire rack while you make the filling.
 
-##### For the Filling
+###### For the Filling
 
 1. Whisk the whipping cream in an electric mixer until frothy, about 2-3 minutes. 
 2. Add the vanilla and powdered sugar while the mixer is going

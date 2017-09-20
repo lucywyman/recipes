@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2012/05/13/ridiculously-easy-chocolate
 prep: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 tbsp cocoa powder or cacao powder
 * ½ cup raw cashews (or almonds, walnuts, pecans, or macadamia nuts)
@@ -16,7 +16,7 @@ prep: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Combine all ingredients in a food processor and blend. Then transfer to an 8-in baking dish or aluminum pan 
 2. Profit

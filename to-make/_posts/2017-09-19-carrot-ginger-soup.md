@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 tablespoons olive oil
 * 1 medium onion, diced
@@ -21,7 +21,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat olive oil in a large saucepan over medium heat.  
 2. Add onions and saute until onions are translucent, about 4 minutes.  

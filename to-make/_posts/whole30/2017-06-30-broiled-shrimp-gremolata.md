@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 12 ounces shrimp, peeled and deveined, tails removed (duh?)
 * EVOO
@@ -20,7 +20,7 @@ cook: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the broiler to high and line a large rimmed baking sheet with aluminum foil (or don't, if you're lazy like me).
 2. Rinse the shrimp and pat them dry with paper

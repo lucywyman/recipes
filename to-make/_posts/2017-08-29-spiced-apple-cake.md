@@ -7,15 +7,15 @@ prep: 30 minutes
 cook: 60 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Sauteed Apples
+###### Sauteed Apples
 
 * 2 tart apples (about 1 pound)
 * 2 Tablespoons butter
 * 2 Tablespoons sugar
 
-##### Cake
+###### Cake
 
 * 12 Tablespoons butter, at room temperature
 * 1 cup packed light brown sugar
@@ -33,11 +33,11 @@ cook: 60 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 Preheat the oven to 350°F and place a rack in the center of the oven.  Butter and flour an 8-inch spring form pan and set aside.
 
-##### For the Apples
+###### For the Apples
 
 1. Peel, core and dice the apples into ¼-inch cubes.  
 2. Melt the butter in a saute pan over medium heat until butter beings to bubble. 
@@ -45,7 +45,7 @@ Preheat the oven to 350°F and place a rack in the center of the oven.  Butter a
 4. Add the sugar and continue to cook for 2 minutes.  Turn the heat to low and cook the apples, uncovered for 4-5 minutes until they are softened.  
 5. Remove from heat and allow to cool.  You’ll only use the sauteed apples for the recipe so you can discard any liquids that may have accumulated.
 
-##### For the Cake
+###### For the Cake
 
 1. Cream the butter, sugar and spices in a stand mixer fit with a paddle attachment until light in color and fluffy.  This may take 6 to 8 minutes.  Stop the mixer occasionally, to scrape down the sides of the bowl and continue beating until mixture is light and fluffy.
 2. Add the egg yolks one at a time and continue beating until fluffy and glossy.

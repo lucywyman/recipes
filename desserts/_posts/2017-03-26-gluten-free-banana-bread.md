@@ -7,9 +7,9 @@ prep: 20 minutes
 cook: 40 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Banana Bread
+###### For the Banana Bread
 
 * ½ cup unsalted butter, melted, browned and cooled slightly
 * 2 cups gluten-free all-purpose flour (I used King Arthur
@@ -26,14 +26,14 @@ cook: 40 minutes
 * 1 teaspoon pure vanilla extract
 * ¼ cup buttermilk
 
-##### For the Crumble
+###### For the Crumble
 
 * 3 tablespoons cold, unsalted butter, cut into ½-inch cubes
 * ½ cup gluten-free all-purpose flour
 * 3 tablespoons packed light brown sugar
 * 3 tablespoons old-fashioned oats
 
-##### For the Salted Caramel
+###### For the Salted Caramel
 
 * 2 tablespoons butter
 * ½ cup cream
@@ -43,7 +43,7 @@ cook: 40 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the center of the oven and preheat to 350° F. Grease and flour a 9×5-inch loaf pan and set aside.
 2. Melt butter in a saucepan over medium heat. Butter will begin to foam

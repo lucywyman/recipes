@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 4 tablespoons (½ stick) unsalted butter
 * 1 small onion, finely chopped
@@ -19,7 +19,7 @@ cook: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Get out a big soup pot -- the soup will start out voluminous because mushrooms have a lot of water, and will boil down
 2. Heat the butter in the pot over medium-high heat. 

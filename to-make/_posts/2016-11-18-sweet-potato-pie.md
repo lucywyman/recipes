@@ -7,9 +7,9 @@ prep: 30 minutes
 cook: 1 hour
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-#####For the Crust:
+######For the Crust:
 
 * ½ cup (4 ounces) cold unsalted butter, cut into small cubes
 * 1½ cup all-purpose flour
@@ -17,7 +17,7 @@ cook: 1 hour
 * ½ teaspoon salt
 * ⅓ cup cold buttermilk
 
-#####For the Filling:
+######For the Filling:
 
 * 2 cups mashed cooked sweet potatoes, from 2 medium sweet potatoes
 * ¾ cup packed brown sugar
@@ -33,9 +33,9 @@ cook: 1 hour
 
 <br>
 
-#### Directions:
+##### Directions:
 
-#####To make the pie crust
+######To make the pie crust
 1. In a medium bowl whisk together flour, sugar, and salt. 
 2. Add cold, cubed butter and, using your fingers (or a potato
 masher), work the butter into the flour mixture. 
@@ -58,7 +58,7 @@ of the pan Fold the edges under and crimp with your fingers or a fork.
 11. Cover it with plastic wrap and refrigerate it for a minimum of 30
 minutes and a maximum of 3 hours.
 
-#####To make the filling
+######To make the filling
 1. Preheat the oven to 375° F. Place a rack in the upper third of
 the oven.
 2. First peel the sweet potatoes. Dice the sweet

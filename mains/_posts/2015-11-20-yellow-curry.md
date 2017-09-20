@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 19oz block of firm or extra-firm tofu
 * 2 tbsp soy sauce
@@ -25,16 +25,16 @@ cook: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
-#### #Tofu:
+##### #Tofu:
 0. Start rice if you're making it -- bring 1 part rice and 2 parts water to boil, then cover with lid and simmer for 40-50 minutes.
 1. Dice the tofu into large cubes, approximately ½-inch square.
 2. Place the tofu in a medium-sized frying pan on the stove top on high heat.
 3. Add in the soy sauce, oil, and Sriracha sauce or cayenne.
 4. Fry on all sides until lightly browned. Remove from heat.
 
-#### #Curry:
+##### #Curry:
 1. Prep and chop all vegetables.
 2. Bring 2 cups of water to a boil in a large stock pot on the stove.
 3. Place potatoes in pot and allow to boil until not quite soft, about 5 minutes.

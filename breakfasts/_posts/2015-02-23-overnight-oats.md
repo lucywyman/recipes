@@ -7,7 +7,7 @@ prep: 5 minutes prep
 cook: Overnight
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ½ cup rolled oats
 * 1/8 tsp salt
@@ -20,7 +20,7 @@ cook: Overnight
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a small mason jar or lidded container, stir together all dry ingredients. Add remaining ingredients and stir well. 
 2. Cover the container and let sit overnight. 

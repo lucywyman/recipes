@@ -5,7 +5,7 @@ from: All Recipes Magazine
 time: 4 ½ hours
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * Two large carrots, peeled and diced.
 * 4 ribs celery, sliced
@@ -22,7 +22,7 @@ time: 4 ½ hours
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place carrots, celery, onion, thyme, cloves, pepper and salt into the slow cooker. 
 2. Put chicken on top, leaving breasts whole, and pour chicken stock and water over them.

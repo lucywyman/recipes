@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 15 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 yams or sweet potatoes
 * oil or oil spray
@@ -15,7 +15,7 @@ cook: 15 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Poke a few holes around each potato with a fork. 
 2. **If using the microwave**: wrap the potatoes loosely in paper towels and cook 14 minutes. 

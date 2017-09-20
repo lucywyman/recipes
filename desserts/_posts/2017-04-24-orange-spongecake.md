@@ -11,9 +11,9 @@ Note: The original recipe calls for the orange buttercream, but I was
 out of eggs so just coated the cake in the orange syrup described
 here. The orange syrup was lovely, but do what sounds good to you!
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Cake
+###### For the Cake
 * A round cake pan, 9½"
 * Electric mixer
 * ⅔ cup granulated sugar
@@ -24,7 +24,7 @@ here. The orange syrup was lovely, but do what sounds good to you!
 * ¾ cup cake flour
 * 1 tbsp granulated sugar
 
-##### For the Orange Buttercream
+###### For the Orange Buttercream
 * 6 tbsp unsalted butter
 * 1⅔ cups granulated sugar
 * 2 eggs
@@ -34,7 +34,7 @@ here. The orange syrup was lovely, but do what sounds good to you!
 * 1 tbsp orange liquer (I didn't have this and it turned out OK)
 * Cold water
 
-##### For Orange Glaze
+###### For Orange Glaze
 
 * 1 cup sugar
 * ½ cup water
@@ -44,9 +44,9 @@ here. The orange syrup was lovely, but do what sounds good to you!
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### For the Cake
+###### For the Cake
 
 1. Preheat oven to 350°F
 2. Grease the cake pan and measure out ingredients
@@ -65,7 +65,7 @@ line of shrinkage from the edge of the pan.
 13. Let cool for 6-8 minutes. Run a knife around the edge of the pan,
 reverse the cake on a rack. Then flip the cake back over.
 
-##### For the Orange Buttercream
+###### For the Orange Buttercream
 
 1. Place all the ingredients (except cold water) in a saucepan and
 beat with a whisk over low heat. The mixture should thicken "like
@@ -74,7 +74,7 @@ on its surface as it heated will begin to subside.
 2. Set the saucepan in cold water and beat for 3-4 minutes until
 filling is cool.
 
-##### For the Orange Syrup
+###### For the Orange Syrup
 
 1. Combine the sugar and ½ cup water in a small saucepan. 
 2. Bring to a boil; stir until sugar has dissolved. 

@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3/4 cup water 
 * 1/4 cup Bob's Red Mill 7 Grain Hot Cereal 
@@ -22,7 +22,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 In a small pot, add orange rind to water and bring to a boil.
 Add cereal, salt, cinnamon, and nutmeg and reduce heat. Stir while cooking and add the soy milk a tablespoon at a time when liquid has been fully absorbed by the cereal.

@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 4 servings of Tilapia (4-4oz. filets), thawed
 * ½ cup of coarsely crushed almonds
@@ -20,7 +20,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. First, prep the almond topping by placing ½ cup of whole or slivered almonds in a food processor. 
 2. Process the almonds until they become flour-like and are finely ground. 

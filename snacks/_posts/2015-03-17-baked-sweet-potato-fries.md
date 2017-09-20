@@ -6,7 +6,7 @@ fromurl: http://www.skinnytaste.com/2008/06/baked-sweet-potato-fries.html
 time: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 medium sweet potatoes, washed
 * 1 tbsp olive oil
@@ -15,7 +15,7 @@ time: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Preheat oven to 425°F and spray a cooking sheet with non-stick spray.
 1. Slice each potato into ½ inch thick strips. 

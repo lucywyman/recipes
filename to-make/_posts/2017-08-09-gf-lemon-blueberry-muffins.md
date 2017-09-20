@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Batter
+###### Batter
 
 * 1 ½ cups Bob's Red Mill Gluten Free Biscuit and Baking Mix
 * ½ cup sugar
@@ -21,7 +21,7 @@ cook:
 * juice of one lemon
 * 1 cup fresh blueberries
 
-##### Streusel
+###### Streusel
 
 * 6 Tablespoons unsalted butter
 * 1 ½ cup gluten free all-purpose flour
@@ -29,7 +29,7 @@ cook:
 * ¼ teaspoon salt
 * ⅓ cup oats
 
-##### Lemon Glaze
+###### Lemon Glaze
 
 * 1 ½ cups powdered sugar
 * ½ teaspoon vanilla bean paste
@@ -37,7 +37,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. First, make the streusel by placing the butter in a small saucepan over medium-low heat. Once the butter is melted, stir in all other ingredients with a fork. Stir until evenly distributed and set aside.
 2. Preheat oven to 350°F and grease a muffin tin. 

@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 15 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 tbsp olive oil
 * 1 small onion, chopped
@@ -20,7 +20,7 @@ cook: 15 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Fully cook rice as instructed, and chill for ~30 minutes.
 1. Add the olive oil to a large nonstick skillet set over medium heat. 

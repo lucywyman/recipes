@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 60 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1/2 cup (1 stick) unsalted butter, at room temperature
 * 2 cups all-purpose flour
@@ -25,7 +25,7 @@ cook: 60 minutes
 * 1/3 cup buttermilk
 * 2 teaspoons vanilla extract
 
-##### For the topping
+###### For the topping
 
 * 1/4 cup coarsely chopped walnuts
 * 1/4 cup coarsely chopped pecans
@@ -36,7 +36,7 @@ cook: 60 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the center of the oven and preheat to 350°F. Grease a 9x5 loaf pan.
 2. In a medium bowl whisk together the flour, baking soda, baking powder, pumpkin pie spice, cinnamon, nutmeg, cardamom, salt, and pepper. Set aside.

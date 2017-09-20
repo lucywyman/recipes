@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 12 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 tilapia or any white fish filets
 * 3 tablespoons olive oil
@@ -24,7 +24,7 @@ cook: 12 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the upper third of the oven and preheat oven to 375° F. Line a baking sheet with parchment paper and lightly grease with nonstick cooking spray.
 2. Sprinkle fish with olive oil, lime juice, and a good sprinkling of salt and pepper. Brush with your hands or a brush to make sure the fish is coated.

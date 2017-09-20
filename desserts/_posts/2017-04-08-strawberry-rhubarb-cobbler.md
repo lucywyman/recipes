@@ -7,9 +7,9 @@ prep: 30 minutes
 cook: 40 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Biscuits
+###### For the Biscuits
 
 * 1 ½ cups all-purpose flour, plus more to roll out dough
 * ⅓ cup yellow cornmeal
@@ -21,7 +21,7 @@ cook: 40 minutes
 * chunks
 * ¾ cup cold buttermilk
 
-##### For the Cobbler
+###### For the Cobbler
 
 * 4 cups 1-inch rhubarb chunks
 * 3 cups strawberry chunks
@@ -31,7 +31,7 @@ cook: 40 minutes
 * ¼ teaspoon freshly grated nutmeg
 * ½ teaspoon orange zest and squeeze of orange juice
 
-##### For the Honeyed Cream
+###### For the Honeyed Cream
 
 * 1 ½ cups heavy whipping cream
 * 3 tablespoons honey
@@ -40,7 +40,7 @@ cook: 40 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the upper third of the oven and preheat oven to 375°F.
 2. To make the biscuits, in a medium bowl whisk together flour, cornmeal, baking powder, baking soda, salt, and sugar. 

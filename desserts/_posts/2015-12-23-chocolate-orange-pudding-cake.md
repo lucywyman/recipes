@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 tablespoon unsalted butter, room temperature for brushing baking dish
 * ½ cup plus 1 tablespoon granulated sugar, divided
@@ -21,7 +21,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the upper third of the oven and preheat oven to 350°F.
 2. Lightly brush a 2-quart baking dish with butter and dust the bottom and sides with granulated sugar. Set aside.

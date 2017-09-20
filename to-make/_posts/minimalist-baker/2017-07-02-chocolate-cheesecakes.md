@@ -7,16 +7,16 @@ prep: 30 minutes
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Crust
+###### Crust
 
 * 1 cup packed dates, pitted (if dry, soak in warm water for 10 minutes then drain)
 * 1½ cups raw walnuts (or sub almonds or rolled oats)
 * 3 Tbsp unsweetened cocoa or cacao powder
 * Pinch sea salt
 
-##### Filling
+###### Filling
 
 * 1½ cups raw cashews (soaked in water 4-6 hours, then drained OR pour boiling hot water over the cashews, soak for 1 hour, then drain and blend as instructed)
 * 1 large lemon, juiced (scant ¼ cup)
@@ -25,7 +25,7 @@ cook:
 * 7 ounces dairy-free dark chocolate (chopped and melted over a double boiler or in microwave in 30 second increments)
 * ¼ cup maple syrup or agave nectar (or honey if not vegan)
 
-##### Optional Toppings
+###### Optional Toppings
 
 * Dairy-free peanut butter cups
 * Peanut butter sauce
@@ -36,7 +36,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Add dates to a food processor and blend until small bits remain and it forms into a ball. Remove and set aside.
 2. Next add nuts, salt and cocoa powder and process into a meal. Then add dates back in and blend until a loose dough forms - it should stick together when you squeeze a bit between your fingers. If it's too dry, add a few more dates through the spout while processing. If too wet, add more almond or walnut meal.
@@ -48,7 +48,7 @@ cook:
 8. Once set, run a butter knife along the edge and gently remove by tugging on the tabs in an upward motion. They should pop right out. If they aren't quite set, pop them in the freezer for 15-20 minutes and they should come out easily.
 9. Top with a touch of coconut whipped cream and fresh berries, or as is! See notes for storage.
 
-##### Notes
+###### Notes
 
 * Peanut Butter Sauce Recipe: ¼ cup Salted natural peanut butter + 1 Tbsp sweetener + ½ Tbsp melted coconut oil. Whisk to combine and warm if desired.
 * These store well in the fridge for a few days, and in the freezer for up to a few weeks! Unlike my other cheesecake flavors, these stay firm at room temperature for hours, so if you’re taking this to a party, you’re good to go!

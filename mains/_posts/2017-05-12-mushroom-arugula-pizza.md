@@ -7,16 +7,16 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Crust
+###### For the Crust
 
 * 6 tablespoons (3 ounces) lukewarm water
 * ½ teaspoon active-dry or instant yeast
 * 1 cup (5 ounces) unbleached all-purpose flour
 * ¾ teaspoons salt 
 
-##### For the Pizza
+###### For the Pizza
 
 * 3 tablespoons extra-virgin olive oil
 * 4 cups trimmed and sliced wild mushrooms
@@ -27,9 +27,9 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### For the Crust
+###### For the Crust
 
 1. Set the oven to 500°F or as hot as it will go and let it heat for at least half an hour before making the pizza. If you have a pizza stone, put it in the lower-middle part of the oven now. 
 2. Combine the water and yeast in a mixing bowl, and stir to dissolve the yeast. The mixture should look like thin miso soup. 

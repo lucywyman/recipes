@@ -7,7 +7,7 @@ prep: 1 minute
 cook: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup nut butter of choice
 * ¼ cup honey
@@ -15,7 +15,7 @@ cook: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a large bowl combine peanut butter and honey.
 2. Add in protein powder. It should come together into a ball. Batter will be slightly dry.

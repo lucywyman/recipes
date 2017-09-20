@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 4 cups Silk Unsweetened Almondmilk
 * 3 teaspoons ground cinnamon
@@ -21,7 +21,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a large slow cooker, combine all ingredients except the coconut cream and stir.
 2. Cover and cook on low for two hours, whisking every now and again to combine the ingredients.

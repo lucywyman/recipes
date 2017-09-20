@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 45 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 cups water
 * 1 cup rice
@@ -20,7 +20,7 @@ cook: 45 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a medium saucepan over medium heat, bring 2 cups of water to a boil. 
 2. Stir in rice and salt. Turn the heat to low and simmer the rice, covered, until all of the water is absorbed. Set aside.

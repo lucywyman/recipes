@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 4 tablespoons unsalted butter
 * ¼ cup buttermilk
@@ -24,7 +24,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Melt butter in a small saucepan over medium-low heat.  As the butter melts it will begin to crackle and pop.  That’s the water evaporating out of the butter.  
 2. Continue to cook the butter until the crackling subsides and the butter begins to brown a bit.  The butter will smell nutty.  

@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 15-ounce (425 g) cans pumpkin puree (not pumpkin pie filling)
 * ⅔ cup (128 g) sugar of choice
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Add all ingredients to a large saucepan or pot over medium-high heat and stir to combine.
 2. Once it begins bubbling, reduce heat to low and simmer. You’re looking for a frequent bubble, so if there isn’t much going on at the surface, increase heat to medium-low heat. If bubbling too vigorously, reduce heat to low.

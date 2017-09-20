@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 medium chicken breasts, cut into ½" pieces 
 * 2 tablespoons olive oil 
@@ -18,7 +18,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat a large heavy-duty pan to medium/high heat. Add olive oil and minced garlic. Cook garlic for 30 seconds to 1 minute or until fragrant. Be careful not to burn the garlic.
 2. Add chicken, red pepper flakes and salt & pepper. Cook chicken for 5-6 minutes or until golden and cooked through.

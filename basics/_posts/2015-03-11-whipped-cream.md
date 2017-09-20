@@ -5,7 +5,7 @@ from: Our Kitchen
 prep: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup Heavy cream (will provide about tripple the volume in whipped cream)
 * Optional: vanilla (or other flavors!)
@@ -13,7 +13,7 @@ prep: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place inredients in a bowl big enough that whipping the cream won't overflow
 2. Mix the ingredients on medium speed (I usually do 3 on our 5-speed mixer) for 3-4 minutes. Sometimes it takes longer than that -- be patient!  Whipped cream is ready when stiff peaks start to form.

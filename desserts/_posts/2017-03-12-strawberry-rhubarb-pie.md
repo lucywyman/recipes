@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Crust
+###### For the Crust
 
 * 2 ½ cup all-purpose flour
 * 2 tablespoons sugar
@@ -17,7 +17,7 @@ cook:
 * 1 cup (2 sticks) unsalted butter, cold, cut into cubes
 * ½ cup cold buttermilk
 
-##### For the Filling
+###### For the Filling
 
 * 3 cups ½-inch thick sliced rhubarb (about 1 pound)
 * 1 pound strawberries, hulled and sliced in half
@@ -29,9 +29,9 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### To make the crust
+###### To make the crust
 1. In a medium bowl, whisk together flour, sugar and salt. 
 2. Add cold, cubed butter and, using your fingers, work the butter into the flour mixture. 
 3. Quickly break the butter down into the flour mixture. Some butter pieces will be the size of oat flakes; some will be the size of peas. 
@@ -41,12 +41,12 @@ cook:
 7. Divide the dough in two and gently knead into two disks. 
 8. Wrap each disk in plastic wrap and refrigerate for 1 hour. Allowing the dough to rest in the refrigerator will help rechill the butter and distribute the moisture.
 
-##### To make the filling
+###### To make the filling
 1. In a medium bowl, toss together rhubarb, strawberries, sugars, cornstarch, salt, and lemon juice.  
 2. Toss until all of the fruit is covered in a coating of sugar and cornstarch.  The cornstarch will disappear and the sugars will begin to make juice with the fruit.
 3. Allow to rest at room temperature while you make the topping.
 
-##### To assemble
+###### To assemble
 1. To assemble the pie, on a well-floured surface, roll the bottom crust 1/8″ thick and about 12″ in diameter. Transfer it to a pie pan. 
 2. Trim the edge almost even with the edge of the pan.
 3. Spoon filling into piecrust.

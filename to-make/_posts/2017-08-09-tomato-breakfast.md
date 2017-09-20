@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 4 thick slices of tomato (¼- to ½-inch thick)
 * Olive oil
@@ -19,7 +19,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Set your oven's broiler on high with a rack a few inches below the broiler element. 
 2. Drizzle the tomato slices with a bit of olive oil, coating both sides, and season with salt and pepper. 

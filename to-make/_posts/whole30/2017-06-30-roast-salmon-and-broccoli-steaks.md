@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 25 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ½ cup fresh basil leaves
 * ½ cup parsley leaves
@@ -22,7 +22,7 @@ cook: 25 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 400°F
 2. Combine the basil, parsley, 4 tablespoons of the oil, lemon juice, ½ teaspoon salt, ½ teaspoon pepper, and lemon zest in a blender or food processor. Cover and pulse until smooth. 

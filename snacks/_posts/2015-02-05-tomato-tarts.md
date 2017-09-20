@@ -8,7 +8,7 @@ time: 30 minutes
 
 <img alt='Tomato tarts' src='/assets/img/tomato-slice.png' class='no-border' style='max-width: 300px;'/>
 
-#### Ingredients:
+##### Ingredients:
 
 * ½ 17.3 ounce package frozen puff pastry sheets (1 sheet), thawed
 * 1 ½ tablespoons finely shredded Parmesan cheese
@@ -19,7 +19,7 @@ time: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 400° F. Line a baking sheet with parchment paper; set aside.
 2. On a lightly floured surface, unfold pastry. Cut into 9 squares. 

@@ -7,7 +7,7 @@ prep: 30 minutes
 cook: 15 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 cups all-purpose flour
 * ⅓ cup granulated sugar
@@ -23,7 +23,7 @@ cook: 15 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the upper third of the oven and preheat oven to 400°F.  Line a baking sheet with parchment paper and set aside.
 2. In a mixing bowl sift together flour, sugar, lavender, baking powder, baking soda, and salt. 

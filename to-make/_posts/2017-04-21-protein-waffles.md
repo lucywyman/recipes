@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ¾ cup applesauce
 * 4 eggs, whisked
@@ -23,7 +23,7 @@ cook: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Whisk together applesauce, eggs, vanilla extract, and coconut oil.
 2. Add tapioca flour and whisk until combined. Then add protein powder and whisk again to combine. 

@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 25 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 10 ounces almond paste
 * 1 cup (198g) sugar
@@ -20,7 +20,7 @@ cook: 25 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place two racks in the center and upper third of the oven and preheat oven to 325°F.  Line two baking sheets with parchment paper and set aside.
 2. In a small bowl, mix together granulated sugar, orange zest, and scraped vanilla seeds.  Use your fingers to works the zest and vanilla into the sugar, creating a fragrant, moist sugar.

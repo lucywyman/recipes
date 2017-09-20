@@ -5,7 +5,7 @@ time: 6 ½ hours
 from: All Recipes Magazine
 ---
 
-#### Ingredients
+##### Ingredients
 
 * 2 ½ lbs. boneless skinless chicken breast (we just use one breast of moderate size)
 * 1 can condensed cream of celery soup
@@ -20,7 +20,7 @@ from: All Recipes Magazine
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Coat slow cooker with non-stick spray, set to low.
 2. Season chicken with salt and pepper and place (whole) into the slow cooker.

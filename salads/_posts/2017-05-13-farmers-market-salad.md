@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 5 cups arugula
 * 1 radish, thinly sliced
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Prepare the chicken, and chop vegetables
 2. Toss all ingredients until evenly distributed and coated. 

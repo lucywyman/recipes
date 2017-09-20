@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1½ cups all-purpose flour
 * 1½ cups whole wheat flour
@@ -23,7 +23,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Put racks in the center and upper third of the oven and preheat the
 oven to 400°F. Line 2 baking sheets with parchment paper and set

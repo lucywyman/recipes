@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 10 tablespoons plus 1 tablespoon unsalted butter, room temperature, divided
 * ⅔ cup unsweetened cocoa powder, plus 1 tablespoon for dusting
@@ -23,7 +23,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 350°F and position a rack in the center of the oven.
 2. Using a pastry brush, spread 1 tablespoon of the softened butter over the bottom and side of a 9-inch springform pan and sprinkle with 1 tablespoon cocoa powder to lightly coat it. Holding the pan over the sink, move it in a circular motion to distribute the cocoa evenly over the buttered surfaces, discarding any excess into the sink. Set aside.

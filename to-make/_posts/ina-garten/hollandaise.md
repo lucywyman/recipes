@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 extra-large egg yolks
 * 1½ tablespoons lemon juice
@@ -18,7 +18,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Melt the butter in a small saucepan until it is sizzling hot
 1. Place the yolks, lemon juice, salt, and pepper in a blender and process on low for about 15 seconds.

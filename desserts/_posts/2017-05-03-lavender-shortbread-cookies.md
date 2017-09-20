@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 tablespoon dried lavender blossoms
 * ½ cup plus 1 tablespoon sugar
@@ -19,7 +19,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a medium bowl, whisk together flour and salt.  Set aside.
 2. In a small spice grinder (I use my cleaned out coffee grinder) to

@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2013/05/28/crispy-healthy-baked-zucchi
 time: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2-3 zucchinis, sliced
 * ¼ cup flour
@@ -17,7 +17,7 @@ time: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 420F. Lightly grease a cooling rack, place it on a baking tray, and set aside. 
 2. Set up an assembly line: flour and spices in one bowl, milk in another, and breadcrumbs in a third. 

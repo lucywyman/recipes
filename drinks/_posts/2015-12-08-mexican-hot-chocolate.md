@@ -7,7 +7,7 @@ prep: 2 seconds
 cook: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3½ cups sugar
 * 2¼ cups unsweetened cocoa powder
@@ -17,11 +17,11 @@ cook: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Whisk to combine the sweetener, cocoa, cinnamon, salt and cayenne pepper, and store in airtight containers (I use mason jars).
 
-#### #Hot Chocolate:
+##### #Hot Chocolate:
 
 1. Add 2 tablespoons of the cocoa mix for every one cup of milk.
 2. To serve, warm favorite milk in a saucepan over medium heat and stir in hot cocoa mix. Serve with whipped cream!

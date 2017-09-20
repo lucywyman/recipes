@@ -4,7 +4,7 @@ title: Pumpkin Bread
 time: 90 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1¾ cup white whole wheat flour
 * 1 teaspoon baking soda
@@ -27,7 +27,7 @@ time: 90 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Position a rack in the lower third of the oven and preheat the oven to 350° F. 
 2. Spray a 9x5 inch loaf pan with non-stick cooking spray. Set aside.

@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 25 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 large onion, chopped
 * 2 tablespoons extra virgin olive oil
@@ -20,7 +20,7 @@ cook: 25 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Sauté onion with olive oil until fragrant, about 4 minutes.
 2. Add asparagus pieces and season with salt and pepper, then cook, stirring, 5 minutes.

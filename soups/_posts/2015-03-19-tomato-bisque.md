@@ -6,7 +6,7 @@ fromurl: http://foodnetwork.com/recipes/rachael-ray/quick-creamy-tomato-soup-rec
 time: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 15oz containers vegetable (or chicken) broth
 * 1 28oz can crushed tomatoes
@@ -16,7 +16,7 @@ time: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Combine broth and tomatoes in a medium saucepan over moderate heat (6 or 7 on 1-10 scale).
 2. When soup begins to bubble (5-10 minutes), stir in cream and reduce heat to low (3).

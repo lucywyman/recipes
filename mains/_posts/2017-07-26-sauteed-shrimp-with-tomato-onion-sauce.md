@@ -7,7 +7,7 @@ prep: 5 minutes
 cook: 10 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ~10 oz raw shrimp
 * 7-8 grape or cherry tomatoes, diced
@@ -19,7 +19,7 @@ cook: 10 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Chop the veggies
 1. Combine all ingredients in a medium sized bowl

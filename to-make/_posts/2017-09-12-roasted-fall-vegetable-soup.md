@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 medium leeks
 * 3 medium parsnips, peeled and cut crosswise into ½-inch pieces
@@ -26,7 +26,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Position a rack in the middle of the oven and preheat to 400°F.
 2. Trim off the dark green sections from the leeks and save for making vegetable stock. Halve the pale green and white sections lengthwise. Rinse under cold running water, pat dry, and cut crosswise into ½-inch pieces.

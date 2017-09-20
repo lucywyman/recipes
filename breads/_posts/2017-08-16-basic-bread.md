@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 35-40 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 5.5g sugar
 * 1 1/8 teaspoons active dry or instant yeast
@@ -18,7 +18,7 @@ cook: 35-40 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Add the sugar and yeast to the warm water and let them dissolve.
 2. Gradually add the salt and flour to the liquid and mix thoroughly until the dough pulls from the sides of the bowl.
@@ -32,7 +32,7 @@ cook: 35-40 minutes
 10. Turn the heat off and allow the bread to remain in the oven for 5 more minutes. Remove from the oven and cool the bread on a rack.
 11. Store, well-wrapped, for 2 days on the counter. Freeze for up to a month. 
 
-##### To bake quickly
+###### To bake quickly
 
 1. Right after you shape them and give them a 10 minute rest, lightly slash the tops three or more times diagonally and brush with cold water. Place on a middle rack in your cold oven.
 2. Turn the heat to 400°F, and bake for 35 to 40 minutes, until the crust is golden brown and the loaf sounds hollow when you thump it.

@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup (16 tablespoons) unsalted butter, softened to room temperature
 * 1 cup light brown sugar, packed
@@ -25,7 +25,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 1. Line two baking sheets with parchment paper and set aside.
 2. Place half the butter (8 tablespoons) in a medium skillet. Melt the
 butter over medium heat, swirling it in the pan occasionally. It’ll

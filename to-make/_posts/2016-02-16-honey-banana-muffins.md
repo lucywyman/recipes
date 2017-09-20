@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 20-22 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 cups white whole-wheat flour
 * 1 teaspoon baking powder
@@ -25,7 +25,7 @@ cook: 20-22 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 350° F. Line a muffin pan with paper liners and set aside.
 2. In a medium bowl, whisk together flour, baking powder, baking soda, salt, and cinnamon. Set aside.

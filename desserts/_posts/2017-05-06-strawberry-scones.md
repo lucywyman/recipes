@@ -7,7 +7,7 @@ prep: 12 minutes
 cook: 10 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 cups all-purpose flour
 * 1 tablespoon baking powder
@@ -21,7 +21,7 @@ cook: 10 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place a rack in the upper third of the oven and preheat oven to 425°F. Line a baking sheet with a Silpat or parchment paper and set aside.
 2. In a medium bowl, whisk together flour, baking powder, salt, and sugar.  Set aside.

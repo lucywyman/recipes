@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 6-8 heirloom tomatoes, quartered
 * 1 small sweet onion, quartered
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 0. Preheat the oven to 425 degrees F. 
 1. Quarter the tomatoes, dice the onion, mince the garlic

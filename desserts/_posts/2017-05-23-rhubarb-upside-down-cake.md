@@ -11,7 +11,7 @@ To be perfectly honest, this is more of a large rhubarb-topped scone than an
 upside down cake, but I'm perfectly OK with that. Best eaten warm, with fresh
 whipped cream!
 
-#### Ingredients:
+##### Ingredients:
 
 * ¾lb. rhubarb (4-5 medium-large stalks), trimmed and cut into 1½" pieces on an angle
 * 1½ cups sugar
@@ -27,7 +27,7 @@ whipped cream!
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Heat oven to 375°F. 
 2. Combine rhubarb, 1 cup sugar, 4 tbsp butter, lemon juice, vanilla, and 1⁄4 tsp salt in a 9" skillet over medium heat. Cast iron works best, as you can put it directly in the oven, but I used a regular nonstick pan then transferred into a cake pan for baking and it came out just fine. 

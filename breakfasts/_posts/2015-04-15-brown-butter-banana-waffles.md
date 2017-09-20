@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup all-purpose flour
 * 1 cup whole wheat flour
@@ -25,7 +25,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat a waffle iron. 
 2. Into a large bowl, sift together flour, brown sugar, baking powder, salt, cinnamon, and nutmeg. Set aside.

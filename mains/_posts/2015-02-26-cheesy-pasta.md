@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2015/0½7/five-minute-cheesy-baked-pas
 time: 35 minutes
 ---
 
-####  Ingredients:
+#####  Ingredients:
 
 * 6 oz penne (2 cups), whole-grain or gluten-free if desired
 * 1 (14.5 oz) can tomato sauce
@@ -18,7 +18,7 @@ time: 35 minutes
 
 <br>
 
-####  Directions:
+#####  Directions:
 
 1. Cook penne six minutes in salted boiling water. 
 2. Drain fully, but do not rinse. 

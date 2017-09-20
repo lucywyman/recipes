@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 Tbsp. soy sauce
 * ½ tsp. rice vinegar
@@ -22,7 +22,7 @@ cook: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Combine the soy sauce, vinegar, sugar and cornstarch in a small bowl. 
 2. Whisk vigorously to combine. Set aside.

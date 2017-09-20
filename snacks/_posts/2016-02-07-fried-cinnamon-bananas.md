@@ -7,7 +7,7 @@ prep: 5 minutes
 cook: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 overripe banana
 * 1 tbsp sugar
@@ -17,7 +17,7 @@ cook: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Slice bananas into fairly thick rounds (~½ inch thick)
 2. In a small bowl combine the sugar, cinnamon, and nutmeg

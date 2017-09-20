@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 1 hour
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2¼ cups pumpkin puree (about 1 small can or ½ large can)
 * 1 carrot, cut into thin rounds
@@ -24,7 +24,7 @@ cook: 1 hour
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 450°F
 2. Peel the husk and silk from the corn, dice the potatoes, chop the carrot and onion, and peel + devein the shrimp if they aren't already

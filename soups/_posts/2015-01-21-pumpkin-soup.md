@@ -6,7 +6,7 @@ fromurl: http://www.thecomfortofcooking.com/2012/12/creamy-pumpkin-soup.html
 time: 45 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 cups chicken broth
 * 1 tsp salt
@@ -23,7 +23,7 @@ time: 45 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a large pot, combine everything but parmesan and milk.
 2. Bring to boil

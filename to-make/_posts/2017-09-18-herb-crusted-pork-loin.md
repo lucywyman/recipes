@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Pork
+###### For the Pork
 
 * 2lb pork tenderloin
 * 1 cup of finely chopped herbs (I chose thyme, sage, and rosemary)
@@ -21,7 +21,7 @@ cook:
 * 1/2 teaspoon pepper
 * 1/4 teaspoon salt
 
-##### For the Sauce
+###### For the Sauce
 
 * 2 lemons, zested and juiced
 * 2 tablespoons olive oil
@@ -29,7 +29,7 @@ cook:
 * 1/3 cup white wine
 * 2 tablespoons butter
 
-##### For the Veggies
+###### For the Veggies
 
 * 1.5 lbs asparagus (this was about 3 bunches), tough ends cut off
 * 2 lbs small new potatoes, halved
@@ -39,7 +39,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 Preheat oven to 425°F
 Make the herb paste - Place herbs, parsley, garlic (yes, all 10!), salt, pepper and lemon zest in a food processor and pulse until it becomes very coarse. Add oil and scrape down the sides if necessary, pulse until just combined. 

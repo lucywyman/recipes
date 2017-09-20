@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 cup rolled oats
 * 6 tablespoons (60g) hemp hearts
@@ -22,7 +22,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 Preheat an electric or stovetop griddle.
 While griddle is preheating, place all of the pancake ingredients

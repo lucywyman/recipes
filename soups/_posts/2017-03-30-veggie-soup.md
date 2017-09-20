@@ -7,7 +7,7 @@ prep: 20 minutes
 cook: 40 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 tbsp olive oil
 * 1 medium zucchini, diced
@@ -21,7 +21,7 @@ cook: 40 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 0. Chop the vegetables! I always forget to do this
 1. Sauté the onion and garlic in the olive oil on medium heat for 5 minutes,
 until translucent. 

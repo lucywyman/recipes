@@ -6,7 +6,7 @@ fromurl: http://chocolatecoveredkatie.com/2014/09/28/healthy-peanut-butter-fudge
 time: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ½ cup peanut butter or allergy-friendly alternative (110g)
 * 1 large banana (150g) (Can sub with ⅔ cup coconut butter)
@@ -16,7 +16,7 @@ time: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. If peanut butter is not stir-able, gently heat until you are able to easily stir it. 
 2. Either combine all ingredients in a small blender until completely smooth, OR mash the banana and stir together ingredients very patiently by hand until completely smooth. 

@@ -6,7 +6,7 @@ fromurl: http://www.recipechatter.com/healthier-thai-yellow-curry-recipe/
 time: 30 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2- 3 cups milk of choice
 * 3- 4 tablespoons curry powder
@@ -25,7 +25,7 @@ time: 30 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Cut all your veggies. 
 2. Saute the onion and 2 cloves chopped garlic in ½ tsp olive oil in a large pot over medium heat. 

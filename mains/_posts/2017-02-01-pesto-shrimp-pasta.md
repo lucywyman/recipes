@@ -7,9 +7,9 @@ prep: 20 minutes
 cook: 10 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### Pesto
+###### Pesto
 * 2 cups fresh basil
 * ½ cup olive oil
 * ½ cup shredded Romano or Parmesan-Reggiano cheese
@@ -17,14 +17,14 @@ cook: 10 minutes
 * 3 teaspoons minced garlic
 * Salt and pepper to taste
 
-##### Pasta
+###### Pasta
 * 1 cup shrimp, fully cooked and cut into ¼ inch chunks
 * 2 cups grape tomatoes, cut into quarters
 * 1 box pasta (we use gluten free)
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a blender or food processor, combine all pesto ingredients
 2. Move the pesto into a pot on low heat, adding the tomatoes and

@@ -7,7 +7,7 @@ prep: 15 minutes
 cook: 25 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ¾ cup pitted dates
 * ¾ cup almond butter (or nut/seed butter of choice)
@@ -26,7 +26,7 @@ cook: 25 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 350°F. Lightly grease an 8-inch x 8-inch pan or line with foil.
 2. In a medium bowl, place the dates; pour in enough hot water to cover. Let sit for 10 minutes. Drain dates.

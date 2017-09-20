@@ -11,7 +11,7 @@ time: 1 hour
 <br>
 
 
-#### Ingredients:
+##### Ingredients:
 
 * 9 ounces semisweet chocolate, finely chopped
 * 6 tablespoons unsalted butter, cut into cubes
@@ -20,7 +20,7 @@ time: 1 hour
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 350° F. Arrange four 1-cup ovenproof mugs or 8-ounce ramekins in a baking pan or roasting pan.
 2. Melt the chocolate and butter together in a double boiler set over barely simmering water. Whisk occasionally until smooth. Remove from heat and set aside.

@@ -10,7 +10,7 @@ cook:
 This is a mild version of classic guacamole. Feel free to add cayenne,
 red pepper, or other spices for more heat!
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 ripe, medium-sized avocados
 * 2 small-medium roma tomatoes
@@ -19,7 +19,7 @@ red pepper, or other spices for more heat!
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Dice the tomatoes and onion, making pieces relatively small.
 2. Pit and peel the avocados, putting the avocado meat in a bowl.

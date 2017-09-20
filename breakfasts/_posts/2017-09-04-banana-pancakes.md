@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 large banana, ripe
 * 2 large eggs, farm fresh preferred
@@ -18,7 +18,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Simply put the ingredients into a high speed blender and blend until smooth. If you don't have a blender, in a large bowl you can mash the banana with the back of a fork and beat the eggs into it until well combined and smooth (no chunks of banana).
 2. Heat a nonstick skillet or crepe pan to medium/low heat, grease the pan well with coconut oil and pour about ¼ cup of the mixture in at a time.

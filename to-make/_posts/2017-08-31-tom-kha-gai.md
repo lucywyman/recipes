@@ -7,7 +7,7 @@ prep: 5 minutes
 cook: 3-7 hours
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 3 14-oz. cans coconut milk
 * 4 cups vegetable broth
@@ -24,7 +24,7 @@ cook: 3-7 hours
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place all ingredients, except the fresh cilantro and mushrooms, into the slow cooker, and cook on high for 3-4 hours, or on low for 6-7.
 2. Add the mushrooms during the last 20 minutes of cooking, and top with cilantro when serving.

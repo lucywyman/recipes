@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 Tbsp almond butter
 * 1 ½ cups frozen cauliflower
@@ -20,6 +20,6 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 Blend! Pour!

@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 medium butternut squash, chopped into cubes
 * 1 large yellow onion, cut into 4 wedges
@@ -22,7 +22,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Pre-heat oven to 400°F while you chop all the veggies and fruit.
 2. Line 2 baking sheets with parchment paper, and toss the squash, onions, pears, and garlic with olive oil. 

@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 tbsp olive oil
 * 2 small boneless, skinless chicken breasts, patted dry
@@ -22,7 +22,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the oven to 400°F, with a rack in the middle position. 
 2. In a large high-sided sauté pan, heat the oil over medium-high heat until it shimmers. 

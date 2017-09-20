@@ -254,11 +254,11 @@
     
     
     <button class='btn' onclick="print()">Print this Recipe</button>
-	#### Ingredients:
+	##### Ingredients:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 
 </div>

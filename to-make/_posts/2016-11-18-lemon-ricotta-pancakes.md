@@ -7,7 +7,7 @@ prep: 3 minutes
 cook: 5 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ¾ cup ricotta
 * 3 large eggs
@@ -23,7 +23,7 @@ cook: 5 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 1. In a blender, combine ricotta, eggs, lemon juice, water and lemon zest.
 Blend until well mixed, about 10 seconds.
 

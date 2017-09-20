@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 tbsp extra-virgin olive oil
 * ½ cup onion, diced
@@ -20,7 +20,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. In a cast iron skillet, add the extra virgin olive oil over medium heat.
 2. Add sweet potato and cook for 2-3 minutes.  In case you need, add a few tablespoons of water or ¼ cup to help steam the sweet potato.

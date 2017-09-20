@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 35 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 4 cups loosely packed (~450 g) finely grated russet potatoes (~3 potatoes)
 * 1 tsp minced garlic
@@ -20,7 +20,7 @@ cook: 35 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat oven to 375°F (190°C) and arrange a rack in the center of the oven. Generously grease a standard muffin tin with oil of choice.
 2. Add finely grated potatoes to a large mixing bowl with garlic, parsley, corn, butter, cornstarch, salt and pepper and stir to thoroughly combine.

@@ -7,7 +7,7 @@ prep: 10 minutes
 cook: 20 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2 tablespoons margarine
 * 1 cup onion, chopped
@@ -22,7 +22,7 @@ cook: 20 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Melt margarine and cook onion and garlic.
 2. Stir in the curry, salt, and pepper and cook for one minute.

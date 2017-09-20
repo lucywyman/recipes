@@ -6,7 +6,7 @@ fromurl: http://deliciouslyella.com/guest-recipe-raw-cherry-and-chocolate-fudge/
 time: 40 minutes
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * ½ cup nut-butter
 * ½ cup coconut oil
@@ -18,7 +18,7 @@ time: 40 minutes
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Put the nut butter and coconut oil in the food processor and mix for 1 minute or so. 
 2. Add chocolate powder, then put in the rest of the ingredients (apart from the cherries) and whizz for a few minutes until totally gooey. 

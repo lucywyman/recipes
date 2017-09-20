@@ -7,9 +7,9 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
-##### For the Doughnuts
+###### For the Doughnuts
 
 * 1 cup all-purpose flour
 * ¾ teaspoon baking powder
@@ -25,7 +25,7 @@ cook:
 * 1 teaspoon pure vanilla extract
 * ½ cup peeled and grated fresh apple
 
-##### For the Glaze
+###### For the Glaze
 
 * 1½ cups powdered sugar
 * pinch of salt
@@ -35,9 +35,9 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
-##### For the Doughnuts
+###### For the Doughnuts
 1. Place a rack in the upper third of the oven and preheat oven to 350°F.  Lightly grease a doughnut pan and set aside.
 2. In a medium bowl, whisk together flour, baking powder, baking soda, salt, spices, and brown sugar.  Set aside.
 3. In a small saucepan over medium-low heat melt all of the butter (including the butter needed for the glaze).  Butter will begin to crackle and pop as it melts.  That’s the water melting out of the butter.  Once the water has evaporated the butter will quiet down and begin to brown.  Keep an eye on it, it browns quickly.  The butter will begin to smell nutty.  Remove from heat and immediately transfer browned butter (brown bits and all) to a small bowl.
@@ -50,7 +50,7 @@ cook:
 10. Remove from the oven and allow to cool in the pan before inverting onto a wire rack to cool completely.
 
 
-##### For the Glaze
+###### For the Glaze
 
 1. In a medium bowl whisk together the powdered sugar and salt.  
 2. Add 2 tablespoons of browned butter, vanilla extract, and 2 tablespoons milk.  Whisk to combine.  Add more milk to make the glaze more spreadable.

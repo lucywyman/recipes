@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 2½ pounds Yukon gold potatoes
 * Salt and pepper
@@ -17,7 +17,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Preheat the over to 425°F
 2. Cut the potatoes in 1½" chunks and place in a large saucepan

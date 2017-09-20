@@ -7,7 +7,7 @@ prep:
 cook: 
 ---
 
-#### Ingredients:
+##### Ingredients:
 
 * 1 avocado
 * 2 medium carrots, chopped
@@ -21,7 +21,7 @@ cook:
 
 <br>
 
-#### Directions:
+##### Directions:
 
 1. Place all ingredients into a high speed blender and blend to a smooth and creamy texture.
 2. Heat over medium heat, stirring occasionally. Enjoy!
