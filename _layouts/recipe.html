@@ -2,18 +2,19 @@
 layout: default
 ---
 <div class='recipe print'>
-	<h3 id='results'>Search Results</h3>
-	<ul class='results' id='results-container'></ul>
-    <h2 class='title'>{{ page.title }}</h2>
-	<hr><br>
-    {% if page.time %}
-    <p>Total time: {{ page.time }}</p>
-    {% endif %}
+  <h2 class='title'>{{ page.title }}</h2><br>
+  <hr><br>
+  <center>
     {% if page.from %}
-    <p>From: 
-    {% if page.fromurl %}<a href='{{ page.fromurl }}'>{{ page.from }}</a>   
-    {% else %}{{ page.from}}{% endif %}
-    {% endif %}
-    <button class='btn' onclick="print()">Print this Recipe</button>
-	{{ content }}
+    <h5>From: 
+      {% if page.fromurl %}<a href='{{ page.fromurl }}'>{{ page.from }}</a>   
+      {% else %}
+      {{page.from}}
+      {% endif %} • 
+      {% endif %}
+      <a href='#' onclick="print()">Print this Recipe</a></h5></center>
+
+  <h4 id='results'>Search Results</h4>
+  <ul class='results' id='results-container'></ul>
+  {{ content }}
 </div>

@@ -9,7 +9,7 @@ cook: 1 hour
 
 ##### Ingredients:
 
-######For the Crust:
+###### For the Crust:
 
 * ½ cup (4 ounces) cold unsalted butter, cut into small cubes
 * 1½ cup all-purpose flour
@@ -17,7 +17,7 @@ cook: 1 hour
 * ½ teaspoon salt
 * ⅓ cup cold buttermilk
 
-######For the Filling:
+###### For the Filling:
 
 * 2 cups mashed cooked sweet potatoes, from 2 medium sweet potatoes
 * ¾ cup packed brown sugar
@@ -35,7 +35,7 @@ cook: 1 hour
 
 ##### Directions:
 
-######To make the pie crust
+###### To make the pie crust
 1. In a medium bowl whisk together flour, sugar, and salt. 
 2. Add cold, cubed butter and, using your fingers (or a potato
 masher), work the butter into the flour mixture. 
@@ -58,36 +58,27 @@ of the pan Fold the edges under and crimp with your fingers or a fork.
 11. Cover it with plastic wrap and refrigerate it for a minimum of 30
 minutes and a maximum of 3 hours.
 
-######To make the filling
+###### To make the filling
 1. Preheat the oven to 375° F. Place a rack in the upper third of
 the oven.
-2. First peel the sweet potatoes. Dice the sweet
-potatoes into large, 3-inch chunks. Place potato pieces in a large
-pot and cover with cool water. Place over medium high heat and bring
-to a boil. Reduce heat to medium and simmer until the potatoes are
-tender throughout, about 20 minutes. Test the doneness of the
-potatoes using a thin knife. If the knife meets any resistance,
-simmer the potatoes a bit longer.
-
-Drain into a colander.
-
-In the same large pot place cooked potato pieces, the packed brown
+2. First peel the sweet potatoes. Dice the sweet potatoes into large, 3-inch chunks. 
+3. Place potato pieces in a large pot and cover with cool water. Place over medium high heat and bring
+to a boil. 
+4. Reduce heat to medium and simmer until the potatoes are tender throughout, about 20 minutes. Test the doneness of the
+potatoes using a thin knife. If the knife meets any resistance, simmer the potatoes a bit longer.
+5. Drain into a colander.
+6. If you have a blender available, place cooked potato pieces, the packed brown
 sugar, all of the spices, salt, butter, and half of the evaporated
-milk. Cook on low flame, using a potato masher to mash the potatoes
-and they cook. Simmer for about 5 minutes. Make sure that the
-mixture is as smooth as possible. I used an immersion blender to
-completely smooth the mixture. Once mixture is smooth and fragrant,
-remove from fire and let cool in pot.
-
-In a medium bowl, whisk together the remaining evaporated milk,
-granulated sugar, eggs, and vanilla extract. Whisk well. Pour the
-egg mixture into the warm sweet potato mixture.
-
-Pour the prepared filling into the pie crust. Place on a baking sheet
-and bake for 10 minutes at 375° F. Reduce the heat to 325
-degrees F and cook until cooked through, about 45 to 50 minutes.
-
-To test the pie for doneness lightly shake the baking sheet. If the
+milk in it and blend. 
+7. If not, place ingredients in the same pot and either use and immersion blender, potato masher, or fork to mash the potatoes as they cook.
+8. Cook on low flame, simmer for about 5 minutes. 
+9. In a medium bowl, whisk together the remaining evaporated milk,
+granulated sugar, eggs, and vanilla extract. Whisk well. 
+10. Pour the egg mixture into the warm sweet potato mixture.
+11. Pour the prepared filling into the pie crust. 
+12. Place on a baking sheet and bake for 10 minutes at 375° F. 
+13. Reduce the heat to 325° F and cook until cooked through, about 45 to 50 minutes.
+14. To test the pie for doneness lightly shake the baking sheet. If the
 center of the pie has a wavy jiggle it needs more time in the oven.
 If the center of the pie has a lighter, more structured jiggle, it’s
 done! 

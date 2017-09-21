@@ -1,6 +1,22 @@
 [
 	
 	{
+		"title"    : "Joy the baker",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/cinnamon-rolls.html",
+		"date"     : "2017-09-20 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Carrot Ginger Tofu Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/carrot-ginger-tofu-soup.html",
+		"date"     : "2017-09-20 00:00:00 -0700"
+	} ,
+	
+	{
 		"title"    : "Carrot Ginger Coconut Soup",
 		"category" : "",
 		"tags"     : "",
@@ -206,14 +222,6 @@
 		"tags"     : "",
 		"url"      : "/tomato-soup.html",
 		"date"     : "2017-08-18 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Basic Bread",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/basic-bread.html",
-		"date"     : "2017-08-16 00:00:00 -0700"
 	} ,
 	
 	{
@@ -461,14 +469,6 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/strawberry-scones.html",
-		"date"     : "2017-05-06 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Lemon Cloud Cookies",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/lemon-cloud-cookies.html",
 		"date"     : "2017-05-06 00:00:00 -0700"
 	} ,
 	
@@ -873,22 +873,6 @@
 	} ,
 	
 	{
-		"title"    : "Healthy Marshmallow Fluff",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/marshmallow-frosting.html",
-		"date"     : "2015-05-01 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Healthy Cinnamon Roll Cake",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/cinnamon-roll-cake.html",
-		"date"     : "2015-05-01 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Brown Butter and Banana Waffles",
 		"category" : "",
 		"tags"     : "",
@@ -1093,14 +1077,6 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/bacon-wrapped-figs.html",
-		"date"     : "2015-02-05 00:00:00 -0800"
-	} ,
-	
-	{
-		"title"    : "Healthy Peanut Butter Pie",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/peanut-butter-pie.html",
 		"date"     : "2015-02-05 00:00:00 -0800"
 	} ,
 	
