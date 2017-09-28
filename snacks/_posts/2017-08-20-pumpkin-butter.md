@@ -9,18 +9,25 @@ cook:
 
 ##### Ingredients:
 
-* 2 15-ounce (425 g) cans pumpkin puree (not pumpkin pie filling)
-* ⅔ cup (128 g) sugar of choice
+* 1 15-ounce (425 g) cans pumpkin puree (not pumpkin pie filling)
 * ¼ cup (60 ml) maple syrup (Grade A is best)
-* ½ cup (120 ml) pure unsweetened apple juice
-* ½ lemon, juiced (1 Tbsp or 15 ml)
-* 2½ tsp pumpkin pie spice
+* 2 tsp pumpkin pie spice
 * ½ tsp ground cinnamon
 * pinch sea salt
 
 <br>
 
 ##### Directions:
+
+###### In the Microwave:
+
+The minimalist baker version calls for about 20 minutes on the stove, but I usually end up just microwaving it for about 5. It still gets rid of the squashy flavor, though the texture isn't quite the same!
+
+1. Add all ingredients to a microwave safe bowl and stir thoroughly
+2. Microwaving for 2-3 minutes, stopping to stir every minute
+3. Enjoy!
+
+###### The Minimalist Baker Way
 
 1. Add all ingredients to a large saucepan or pot over medium-high heat and stir to combine.
 2. Once it begins bubbling, reduce heat to low and simmer. You’re looking for a frequent bubble, so if there isn’t much going on at the surface, increase heat to medium-low heat. If bubbling too vigorously, reduce heat to low.

@@ -26,16 +26,7 @@ cook:
 ##### Directions:
 
 0. Preheat the oven to 350°F and grease an 8x8 (or 9x9) glass baking dish
-1. In a large bowl, whisk together the: 
-    * eggs
-    * cream
-    * 4 oz. of the goat cheese
-    * 2 Tbs. of the basil
-    * the lemon zest
-    * the salt
-    * the red pepper flakes
-    * black pepper
-Set aside.
+1. In a large bowl, whisk together the: eggs, cream, 4 oz. of the goat cheese, 2 Tbs. of the basil, the lemon zest, the salt, the red pepper flakes, black pepper. Set aside.
 2. In a small saucepan, melt 1 tbsp of coconut oil. Add the corn and cook until soft, about 5 minutes
 3. Add the corn to the egg mixture and pour into the greased baking dish
 4. Bake at 350° for 15 minutes, until the edges are just starting to set

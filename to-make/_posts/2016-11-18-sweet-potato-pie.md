@@ -36,6 +36,7 @@ cook: 1 hour
 ##### Directions:
 
 ###### To make the pie crust
+
 1. In a medium bowl whisk together flour, sugar, and salt. 
 2. Add cold, cubed butter and, using your fingers (or a potato
 masher), work the butter into the flour mixture. 
@@ -59,6 +60,7 @@ of the pan Fold the edges under and crimp with your fingers or a fork.
 minutes and a maximum of 3 hours.
 
 ###### To make the filling
+
 1. Preheat the oven to 375° F. Place a rack in the upper third of
 the oven.
 2. First peel the sweet potatoes. Dice the sweet potatoes into large, 3-inch chunks. 

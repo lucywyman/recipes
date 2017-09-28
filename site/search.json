@@ -1,7 +1,79 @@
 [
 	
 	{
-		"title"    : "Joy the baker",
+		"title"    : "Roasted Squash and Arugula Salad",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/arugula-squash-salad.html",
+		"date"     : "2017-09-27 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Sweet Potato Rolls",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/sweet-potato-rolls.html",
+		"date"     : "2017-09-26 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Masala Chai Tea",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/masala-chai-tea.html",
+		"date"     : "2017-09-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Cinnamon Swirl Bread",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/cinnamon-swirl-bread.html",
+		"date"     : "2017-09-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Chai Apple Cider",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/chai-apple-cider.html",
+		"date"     : "2017-09-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Acorn Squash Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/acorn-squash-soup.html",
+		"date"     : "2017-09-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Spice Latte",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pumpkin-spice-latte.html",
+		"date"     : "2017-09-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Apple Pull-Apart Bread",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/apple-pull-apart-bread.html",
+		"date"     : "2017-09-23 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Pancakes",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pumpkin-pancakes.html",
+		"date"     : "2017-09-23 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Cinnamon Rolls",
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/cinnamon-rolls.html",
@@ -62,14 +134,6 @@
 		"tags"     : "",
 		"url"      : "/super-seeded-pumpkin-cake-bread.html",
 		"date"     : "2017-09-17 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Cauliflower Blueberry Smoothie",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/cauliflower-smoothie.html",
-		"date"     : "2017-09-15 00:00:00 -0700"
 	} ,
 	
 	{
@@ -265,14 +329,6 @@
 	} ,
 	
 	{
-		"title"    : "Coconut Crusted Fish",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/coconut-crusted-fish.html",
-		"date"     : "2017-08-01 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Sauteed Shrimp with Tomato and Onion",
 		"category" : "",
 		"tags"     : "",
@@ -349,14 +405,6 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/curried-carrot-sweet-potato-soup.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Coconut-crusted Fish",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/coconut-fish.html",
 		"date"     : "2017-06-30 00:00:00 -0700"
 	} ,
 	
@@ -529,14 +577,6 @@
 	} ,
 	
 	{
-		"title"    : "Vanilla Waffles!",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/protein-waffles.html",
-		"date"     : "2017-04-21 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Chocolate Beet Cake",
 		"category" : "",
 		"tags"     : "",
@@ -582,14 +622,6 @@
 		"tags"     : "",
 		"url"      : "/strawberry-rhubarb-pie.html",
 		"date"     : "2017-03-12 00:00:00 -0800"
-	} ,
-	
-	{
-		"title"    : "Protein Pancakes",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/protein-pancakes.html",
-		"date"     : "2017-02-21 00:00:00 -0800"
 	} ,
 	
 	{

@@ -7,6 +7,8 @@ prep: 10 minutes
 cook: 5 minutes
 ---
 
+**Note**: 09/22/2017 this made me feel kind of sick? I ate it last night without incident, but it really upset my stomach this morning.
+
 ##### Ingredients:
 
 * 2 cups (240 g) carrots, chopped

@@ -35,7 +35,7 @@ cook: 60 minutes
 
 ##### Directions:
 
-Preheat the oven to 350°F and place a rack in the center of the oven.  Butter and flour an 8-inch spring form pan and set aside.
+Preheat the oven to 350°F and place a rack in the center of the oven.  Butter and flour a bundt pan and set aside.
 
 ###### For the Apples
 
@@ -55,5 +55,5 @@ Preheat the oven to 350°F and place a rack in the center of the oven.  Butter a
 6. Add the rest of the dry ingredients and mix until no traces remain.  
 7. Fold in the cooked apples with a rubber spatula.  The cake batter will be thick.
 8. Spread the cake batter into the prepared pan and distribute evenly.  Take a knife and run it in a singular circular motion through the batter 1-inch from the edge of the pan.  This will help the cake to rise evenly.  
-9. Sprinkle the cake with the raw or granulated sugar and bake for 60-70 minutes or until a toothpick inserted in the center of the cake comes out clean.  
-10. Allow to cool for 10 minutes before removing the sides of the spring form pan.
+9. Sprinkle the cake with the raw or granulated sugar and bake for 50-60 minutes or until a toothpick inserted in the center of the cake comes out clean. 
+10. Allow to cool for 10 minutes before removing the sides of the bundt pan

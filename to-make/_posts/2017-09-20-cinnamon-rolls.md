@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title: Joy the baker
-from: 
-fromurl: 
+title: Cinnamon Rolls
+from: Joy the Baker
+fromurl: http://joythebaker.com/2016/12/king-arthur-flour-cream-cheese-cinnamon-rolls/
 prep: 
 cook: 
 ---
@@ -11,7 +11,7 @@ cook:
 
 ###### For the Rolls
 
-* 3/4 cup lukewarm milk
+* ¾ cup lukewarm milk
 * 1 large egg
 * 1 large egg yolk
 * ½ cup (8 tablespoons) unsalted butter, softened
@@ -25,7 +25,7 @@ cook:
 
 * ¼ cup finely chopped walnuts
 * ¼ cup finely chopped pecans
-* 1/3 cup unsalted butter, softened
+* ⅓ cup unsalted butter, softened
 * 1 cup brown sugar, packed
 * 3 tablespoons ground cinnamon
 * 8 ounces cream cheese, softened and divided (3 tablespoons set aside for the icing)

@@ -5,6 +5,7 @@ $sans: "Helvetica", sans-serif;
 $light: #fff;
 $dark: #444;
 $blue: #051E55;
+$link: #9CC7E4;
 $yellow: #EEDC1B;
 $menu-y: 50;
 $footer-y: 100;
@@ -49,10 +50,10 @@ h1, h2, h3, h4 {
 }
 
 a {
-color: $blue;}
+color: $link;}
 
 a:hover {
-	color: rgba($blue, .7);
+	color: rgba($link, .7);
 }
 
 ol {
