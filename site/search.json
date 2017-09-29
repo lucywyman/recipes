@@ -1,6 +1,30 @@
 [
 	
 	{
+		"title"    : "Kale Salad with Pecorino and Lemon",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/simple-kale-salad.html",
+		"date"     : "2017-09-28 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Kale and Goat Cheese Fritatta Cups",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/kale-frittata-cups.html",
+		"date"     : "2017-09-28 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Broccoli Kale Caesar",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/broccoli-kale-caesar.html",
+		"date"     : "2017-09-28 00:00:00 -0700"
+	} ,
+	
+	{
 		"title"    : "Roasted Squash and Arugula Salad",
 		"category" : "",
 		"tags"     : "",
