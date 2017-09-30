@@ -11,11 +11,11 @@ That's right, we're going there. It's officially fall, and for those who like me
 
 ##### Ingredients:
 
-* 2 tablespoons canned pumpkin
+* 2 tablespoonspoons canned pumpkin
 * 1 teaspoon pumpkin pie spice
-* 1 tablespoon maple syrup (or sweetener of choice. Sugar, honey, agave, dates, all work!)
+* 1 tablespoonspoon maple syrup (or sweetener of choice. Sugar, honey, agave, dates, all work!)
 * 1 cup milk of choice
-* 1 to 2 shots espresso, about 1/4 cup, or 8 oz extra strong coffee
+* 1 to 2 shots espresso, about ¼ cup, or 8 oz extra strong coffee
 * 1 teaspoon coconut oil (optional)
 * Whipped cream (optional)
 

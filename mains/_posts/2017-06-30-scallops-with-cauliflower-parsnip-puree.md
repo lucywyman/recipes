@@ -14,14 +14,14 @@ cook: 20 minutes
 * 2 medium parsnips, peeled, trimmed, and chopped (~1 cup)
 * ½ cup chicken broth
 * ¼ cup full-fat coconut milk
-* 2 tablespoons ghee
+* 2 tablespoonspoons ghee
 * Salt and pepper
 
 ###### For the Scallops
 * 10 large scallops
 * Salt and pepper
-* 1 tablespoon EVOO
-* 1 tablespoon ghee (or more EVOO)
+* 1 tablespoonspoon EVOO
+* 1 tablespoonspoon ghee (or more EVOO)
 * Chopped dill
 
 <br>
@@ -31,7 +31,7 @@ cook: 20 minutes
 ###### Make the Puree
 1. Pour 1" of water into a pot fitted with a steamer basket.
 2. Place the cauliflower florets and parsnips in the steamer basket, cover the pot, and bring to a boil.
-3. Reduce the heat and steam until the vegetables are fall-apart soft, about 15 minutes
+3. Reduce the heat and steam until the vegetablespoons are fall-apart soft, about 15 minutes
 4. Transfer to a blender
 5. Add the broth, coconut milk, and ghee. 
 6. Blend until smooth and season with salt and pepper

@@ -39,8 +39,8 @@ here. The orange syrup was lovely, but do what sounds good to you!
 * 1 cup sugar
 * ½ cup water
 * ¾ cup orange juice
-* 1 tablespoon cornstarch
-* 2 tablespoons unsalted butter
+* 1 tablespoonspoon cornstarch
+* 2 tablespoonspoons unsalted butter
 
 <br>
 

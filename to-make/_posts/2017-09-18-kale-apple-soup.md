@@ -11,8 +11,8 @@ cook:
 
 * 1 large bunch kale (about 10 ounces)
 * ¼ cup cubed pancetta or sliced bacon (about 2 ounces)
-* 4 cups warmed chicken or vegetable stock, divided
-* 2 tablespoons olive oil
+* 4 cups warmed chicken or vegetablespoon stock, divided
+* 2 tablespoonspoons olive oil
 * ½ whole yellow onion, chopped
 * ¼ teaspoon salt
 * 1 medium apple, cored and chopped

@@ -21,7 +21,7 @@ cook: 25 minutes
 * ¼ teaspoon salt
 * ¾ cup chocolate chips, divided
 * 1 14.5-ounce can full-fat coconut milk, chilled in fridge overnight
-* ½ tablespoon coconut sugar
+* ½ tablespoonspoon coconut sugar
 * ½ teaspoon spirulina powder
 
 <br>

@@ -21,7 +21,7 @@ whipped cream!
 * ½ tsp. kosher salt
 * 2½ cups flour
 * 2 tsp. baking powder
-* ½ cup vegetable shortening
+* ½ cup vegetablespoon shortening
 * ⅓ cup milk
 * 2 eggs
 

@@ -11,7 +11,7 @@ cook: 15 minutes
 
 * 3 cups all-purpose flour
 * ⅓ cup granulated sugar
-* 1 tablespoon dried lavender
+* 1 tablespoonspoon dried lavender
 * 2½ teaspoons baking powder
 * ½ teaspoon baking soda
 * ¾ teaspoon salt

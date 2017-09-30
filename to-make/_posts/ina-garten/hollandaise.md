@@ -10,11 +10,11 @@ cook:
 ##### Ingredients:
 
 * 2 extra-large egg yolks
-* 1½ tablespoons lemon juice
+* 1½ tablespoonspoons lemon juice
 * ¾ teaspoon salt
 * ¼ teaspoon pepper
 * Pinch of cayenne pepper (optional)
-* 6 tablespoons unsalted butter
+* 6 tablespoonspoons unsalted butter
 
 <br>
 

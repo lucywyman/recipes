@@ -9,7 +9,7 @@ time: 30 minutes
 ##### Ingredients:
 
 * 2- 3 cups milk of choice
-* 3- 4 tablespoons curry powder
+* 3- 4 tablespoonspoons curry powder
 * ½ teaspoon salt 
 * 1 onion, chopped
 * 2 tbsp minced garlic (3-5 cloves)

@@ -19,7 +19,7 @@ cook:
 * ⅔ cup granulated sugar
 * ⅔ cup sour cream or full fat yogurt
 * ½ cup olive oil
-* 2 tablespoons fresh lemon juice
+* 2 tablespoonspoons fresh lemon juice
 * 1 teaspoon pure vanilla extract
 * powdered sugar for topping
 

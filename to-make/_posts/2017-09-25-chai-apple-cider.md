@@ -16,9 +16,9 @@ cook:
 * 6 whole cardamom pods
 * 4 whole black peppercorns
 * 1 whole star anise
-* 1/2 whole vanilla bean, sliced in half lengthwise
+* ½ whole vanilla bean, sliced in half lengthwise
 * 1 cup whipped cream (store-bought or homemade)
-* 1 tablespoon maple syrup
+* 1 tablespoonspoon maple syrup
 * Ground cinnamon, for topping 
 
 <br>

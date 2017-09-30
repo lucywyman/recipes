@@ -12,14 +12,14 @@ cook: 20 minutes
 * 2 acorn squash
 * 2 tbsp butter
 * 1 onion, chopped
-* 3/4 tsp salt
-* 1/2 tsp smoked paprika
-* 1/4 tsp allspice
-* 1/4 tsp cinnamon
+* ¾ tsp salt
+* ½ tsp smoked paprika
+* ¼ tsp allspice
+* ¼ tsp cinnamon
 * 1/8 tsp nutmeg
 * 1/8 tsp cayenne pepper, optional
 * 5 cups broth (I like chicken)
-* 1/4 cup cream
+* ¼ cup cream
 
 <br>
 

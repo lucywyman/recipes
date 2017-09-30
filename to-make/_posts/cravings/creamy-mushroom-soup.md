@@ -9,11 +9,11 @@ cook: 30 minutes
 
 ##### Ingredients:
 
-* 4 tablespoons (½ stick) unsalted butter
+* 4 tablespoonspoons (½ stick) unsalted butter
 * 1 small onion, finely chopped
 * 6 cloves garlic, minced
 * 3 pounds assorted mushrooms, trimmed and chopped
-* 1 tablespoon fresh thyme or ½ tablespoon dried
+* 1 tablespoonspoon fresh thyme or ½ tablespoonspoon dried
 * Salt and pepper
 * 2 cups low-sodium chicken broth
 

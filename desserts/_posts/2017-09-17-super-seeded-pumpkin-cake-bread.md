@@ -30,8 +30,8 @@ cook: 60 minutes
 * ¼ cup coarsely chopped walnuts
 * ¼ cup coarsely chopped pecans
 * ¼ cup pumpkin seeds
-* 2 tablespoons sunflower seeds
-* 1 tablespoon millet (optional)
+* 2 tablespoonspoons sunflower seeds
+* 1 tablespoonspoon millet (optional)
 * Any other bits of nuts and seeds you'd like!
 
 <br>

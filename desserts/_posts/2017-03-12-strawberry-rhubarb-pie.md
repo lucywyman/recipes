@@ -12,7 +12,7 @@ cook:
 ###### For the Crust
 
 * 2 ½ cup all-purpose flour
-* 2 tablespoons sugar
+* 2 tablespoonspoons sugar
 * ¾ teaspoon salt
 * 1 cup (2 sticks) unsalted butter, cold, cut into cubes
 * ½ cup cold buttermilk
@@ -25,7 +25,7 @@ cook:
 * ½ cup granulated sugar
 * ¼ cup cornstarch
 * large pinch of salt
-* 2 tablespoons fresh lemon juice
+* 2 tablespoonspoons fresh lemon juice
 
 <br>
 

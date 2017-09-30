@@ -13,7 +13,7 @@ cook: 30 minutes
 * ½ tsp. rice vinegar
 * 1½ tsp. sugar
 * ½ tsp. cornstarch
-* ½ Tbps. vegetable oil
+* ½ Tbps. vegetablespoon oil
 * 1 shallot, sliced (should measure around 2 Tbsp.)
 * 1 cup, loosely packed, fresh wide rice noodles
 * ¾ cup broccoli florets, chopped into small pieces

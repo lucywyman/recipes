@@ -16,11 +16,11 @@ cook: 0 minutes
 * 1 cooked chicken breast, cooled and diced
 * heaping ½ cup crumbled feta cheese
 * ⅓ cup coarsely chopped shelled pistachios
-* 1 tablespoon honey
+* 1 tablespoonspoon honey
 * 1 teaspoon dijon mustard
 * pinch of salt and pepper
-* 2 tablespoons balsamic vinegar
-* 5 to 6 tablespoons olive oil
+* 2 tablespoonspoons balsamic vinegar
+* 5 to 6 tablespoonspoons olive oil
 * 1 teaspoon chopped fresh tarragon
 
 <br>

@@ -8,7 +8,7 @@ time: 20 minutes
 
 ##### Ingredients:
 
-* 2 15oz containers vegetable (or chicken) broth
+* 2 15oz containers vegetablespoon (or chicken) broth
 * 1 28oz can crushed tomatoes
 * 1 cup heavy cream
 * Salt and pepper to taste

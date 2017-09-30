@@ -13,7 +13,7 @@ cook:
 * Olive oil
 * Salt and pepper
 * 1 medium ear of corn, with the husk still on
-* ½ tablespoon unsalted butter
+* ½ tablespoonspoon unsalted butter
 * 4 large eggs, beaten
 * 2 ounces goat cheese 
 

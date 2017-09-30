@@ -19,7 +19,7 @@ cook: 5 minutes
 * ⅛ teaspoon white pepper
 * 1 Tablespoon fresh ginger root
 * ⅓ cup (70 g) light silken tofu
-* 2 cups (480 ml) low sodium vegetable broth
+* 2 cups (480 ml) low sodium vegetablespoon broth
 
 <br>
 

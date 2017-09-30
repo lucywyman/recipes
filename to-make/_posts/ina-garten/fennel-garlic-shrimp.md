@@ -9,12 +9,12 @@ cook:
 
 ##### Ingredients:
 
-* 6 tablespoons olive oil
+* 6 tablespoonspoons olive oil
 * 1 cup chopped fennel bulb, fronds reserved
-* 3 tablespoons minced garlic
+* 3 tablespoonspoons minced garlic
 * ¼ teaspoon red pepper flakes
 * 1 pound (16-20) shrimp, peeled with tail on
-* 1 tablespoon chopped flat-leaf parsley
+* 1 tablespoonspoon chopped flat-leaf parsley
 * 1 teaspoon fleur de sel
 * ½ teaspoon black pepper
 
@@ -28,4 +28,4 @@ cook:
 4. Add the shrimp to the pan and toss with the fennel and olive oil.
 5. Spread the shrimp in one layer and cook over medium heat for 2 minutes on one side. 
 6. Turn the shrimp and cook for 2 more minutes on the other side, until pink and cooked through.
-7. Off the heat, sprinkle with parsley and 1 tablespoon of chopped fennel fronds, and season with salt and pepper.
+7. Off the heat, sprinkle with parsley and 1 tablespoonspoon of chopped fennel fronds, and season with salt and pepper.

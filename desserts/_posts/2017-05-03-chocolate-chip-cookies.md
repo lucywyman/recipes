@@ -9,7 +9,7 @@ cook:
 
 ##### Ingredients:
 
-* 1 cup (16 tablespoons) unsalted butter, softened to room temperature
+* 1 cup (16 tablespoonspoons) unsalted butter, softened to room temperature
 * 1 cup light brown sugar, packed
 * 2 teaspoons vanilla extract
 * 1 teaspoon molasses
@@ -27,7 +27,7 @@ cook:
 
 ##### Directions:
 1. Line two baking sheets with parchment paper and set aside.
-2. Place half the butter (8 tablespoons) in a medium skillet. Melt the
+2. Place half the butter (8 tablespoonspoons) in a medium skillet. Melt the
 butter over medium heat, swirling it in the pan occasionally. It’ll
 foam and froth as it cooks, and start to crackle and pop. 
 3. Once the crackling stops, keep a close eye on the melted butter,
@@ -55,7 +55,7 @@ for at least 30 minutes.
 13. About 15 minutes before you’re ready to begin
 baking, place racks in the center and upper third of the oven and
 preheat your oven to 350°F.
-14. Scoop the dough in 2 tablespoon-sized balls onto the prepared baking
+14. Scoop the dough in 2 tablespoonspoon-sized balls onto the prepared baking
 sheets. Leave about 2″ between the cookies; they’ll spread as they
 bake.
 15. Sprinkle the cookies with sea salt, to taste — as much or as little as

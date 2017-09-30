@@ -11,7 +11,7 @@ cook:
 
 * 1 bottle kefir
 * 1 handful basil
-* 1 tablespoon minced garlic
+* 1 tablespoonspoon minced garlic
 * 1 teaspoon salt
 * 1 pinch pepper
 

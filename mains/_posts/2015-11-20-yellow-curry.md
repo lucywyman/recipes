@@ -35,7 +35,7 @@ cook: 30 minutes
 4. Fry on all sides until lightly browned. Remove from heat.
 
 ##### #Curry:
-1. Prep and chop all vegetables.
+1. Prep and chop all vegetablespoons.
 2. Bring 2 cups of water to a boil in a large stock pot on the stove.
 3. Place potatoes in pot and allow to boil until not quite soft, about 5 minutes.
 4. Add in carrots and continue to boil another five minutes.

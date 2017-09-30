@@ -9,13 +9,13 @@ cook: 10 minutes
 
 ##### Ingredients:
 
-* 3/4 cup water
+* ¾ cup water
 * 2-4 whole green cardamom pods, smashed
 * 1-2 thin slices fresh ginger
 * 1 1-inch cinnamon stick
 * 1 piece star anise
-* 3/4 cup milk
-* 1 1/2 teaspoons loose black tea leaves
+* ¾ cup milk
+* 1 ½ teaspoons loose black tea leaves
 * Sweetener, to taste (I prefer honey or maple syrup)
 
 

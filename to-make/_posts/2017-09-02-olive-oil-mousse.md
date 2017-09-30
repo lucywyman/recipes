@@ -10,11 +10,11 @@ cook:
 ##### Ingredients:
 
 * 6 ounces bittersweet chocolate (chopped) 
-* 2 tablespoons Armagnac or Cognac 
-* 2 tablespoons very strong brewed coffee or espresso 
+* 2 tablespoonspoons Armagnac or Cognac 
+* 2 tablespoonspoons very strong brewed coffee or espresso 
 * 4 large eggs, separated 
 * ½ cup olive oil 
-* 2 tablespoons sugar 
+* 2 tablespoonspoons sugar 
 * Pinch of sea salt 
 
 <br>

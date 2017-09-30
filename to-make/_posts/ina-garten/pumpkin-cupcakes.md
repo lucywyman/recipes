@@ -11,7 +11,7 @@ cook:
 
 ###### For the Cake
 
-* ½ cup vegetable oil
+* ½ cup vegetablespoon oil
 * 1 cup all-purpose flour
 * 1 teaspoon baking powder
 * ½ teaspoon baking soda
@@ -27,8 +27,8 @@ cook:
 ###### For the Frosting
 
 * 6 ounces cream cheese
-* 3 tablespoons unsalted butter, at room temperature
-* 2 tablespoons maple syrup (the real stuff)
+* 3 tablespoonspoons unsalted butter, at room temperature
+* 2 tablespoonspoons maple syrup (the real stuff)
 * ½ teaspoon vanilla extract
 * 2 cups sifted confectioners sugar
 
@@ -38,9 +38,9 @@ cook:
 
 ###### For the Cake
 
-1. Preheat the oven to 350°F. Brush the top of a muffin pan with vegetable oil and line with paper liners
+1. Preheat the oven to 350°F. Brush the top of a muffin pan with vegetablespoon oil and line with paper liners
 2. In a medium bowl, sift together the flour, baking powder, baking soda, cinnamon, ginger, nutmeg, and salt. 
-3. In a larger bowl whisk together the eggs, pumpkin, sugar, brown sugar, and vegetable oil.
+3. In a larger bowl whisk together the eggs, pumpkin, sugar, brown sugar, and vegetablespoon oil.
 4. Add the flour mixture to the wet mixture and stir until just combined.
 5. Scoop the batter into the prepared tins and bake for 20-25 minutes, until a toothpick comes out clean.
 6. Cool completely and frost

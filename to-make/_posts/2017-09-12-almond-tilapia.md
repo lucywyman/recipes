@@ -15,7 +15,7 @@ cook: 20 minutes
 * salt (to-taste)
 * pepper (to-taste)
 * ½ lemon wedge
-* 1.5 tablespoons + .5 tablespoons EVOO
+* 1.5 tablespoonspoons + .5 tablespoonspoons EVOO
 
 
 <br>
@@ -26,7 +26,7 @@ cook: 20 minutes
 2. Process the almonds until they become flour-like and are finely ground. 
 3. Add ½ cup more of almonds and coarsely chop, enough so that the larger pieces will stick to the fish. 
 4. Add in salt and pepper to taste and give it one last spin. Transfer onto a large plate.
-5. Next, preheat a large skillet with about 1.5 tablespoons of olive oil to medium heat. 
+5. Next, preheat a large skillet with about 1.5 tablespoonspoons of olive oil to medium heat. 
 6. Prep tilapia by slicing each fillet in half or thirds. The tilapia might already have a natural cut in it, so feel free to follow that line.
 7. Rub each slice with olive oil on both sides. This will help the almond crust stick to the fish. Then, coat the the fish in the almond topping on both sides.
 8. Transfer fish onto skillet. Sprinkle with additional salt and let cook for about 5 or 6 minutes or until the almonds begin to brown. Then flip and cook for an additional 5 or 6 minutes.

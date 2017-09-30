@@ -12,7 +12,7 @@ cook:
 ###### For the Cake
 
 * 2 medium beets, unpeeled but trimmed of their greens
-* 1 teaspoon vegetable oil
+* 1 teaspoon vegetablespoon oil
 * 6 ounces (¾ cup) unsalted butter, softened, plus more for greasing
 * the pans
 * 1 cup packed brown sugar
@@ -31,7 +31,7 @@ cook:
 * 1 cup (2 sticks) unsalted butter, softened
 * 8 ounces (1 brick) cream cheese, softened
 * 4 to 5 cups powdered sugar, sifted
-* 2 tablespoons finely grated beets, mashed with a fork
+* 2 tablespoonspoons finely grated beets, mashed with a fork
 * 1 teaspoon pure vanilla extract or scrapings of one vanilla bean pod
 * 1-2 teaspoons milk, depending on desired consistency
 * ½ teaspoon fresh lemon juice
@@ -45,14 +45,14 @@ cook:
 1. Place a rack in the center and upper third of the oven.  Preheat oven to 375°F.
 2. Thoroughly wash beets under running water, and trim their leaves,
 leaving about ½ inch of stem.  Place clean beets in a piece of foil.
-Drizzle with just a bit of vegetable oil.  Seal up foil.  Place on a
+Drizzle with just a bit of vegetablespoon oil.  Seal up foil.  Place on a
 baking sheet in the oven.  Roast until beets are tender when pierced
 with a knife, about 1 hour.
 3. Remove the beets from the oven.  Open the foil and allow beets to cool
 completely.  Beets will be easy to peel (just using a paring knife)
 once completely cooled.
 4. Using a box grater, grate the peeled beets on the finest grating
-plane.  Measure ¾ cup of grated beets for the cake and 2 tablespoons
+plane.  Measure ¾ cup of grated beets for the cake and 2 tablespoonspoons
 for the frosting.  Set aside.
 5. Reduce the oven temperature to 350°F.  Use butter to grease
 two 8 or 9-inch round baking pans.  Trace a piece of parchment paper

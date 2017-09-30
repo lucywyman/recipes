@@ -10,16 +10,16 @@ cook:
 ##### Ingredients:
 
 * 1 cup (8 oz) warm water
-* 1 tablespoon active dry yeast
+* 1 tablespoonspoon active dry yeast
 * 1 cup (8 oz) milk, whole, 2%, or skim
-* 1/4 cup (2 oz) unsalted butter, melted
+* ¼ cup (2 oz) unsalted butter, melted
 * 2 teaspoons salt
-* 51/2 - 6 cups (1 lb 11.5 oz - 1 lb 14 oz) all-purpose flour
+* 5½ - 6 cups (1 lb 11.5 oz - 1 lb 14 oz) all-purpose flour
 
 ###### Filling:
 
-* 1/2 cup granulated white sugar
-* 1 1/2 tablespoons cinnamon
+* ½ cup granulated white sugar
+* 1 ½ tablespoonspoons cinnamon
 * 1 large egg beaten with 2 teaspoons warm water
 
 
@@ -29,10 +29,10 @@ cook:
 
 1. Pour a cup of 70°-80° water into the bowl of a standing mixer or large mixing bowl. Sprinkle the yeast over top. Give it a few minutes, then stir to fully dissolve the yeast into the water.
 2. Stir the milk, melted butter, and salt into the water. 
-3. Add 51/2 cups of the flour and stir to form a shaggy dough. 
+3. Add 5½ cups of the flour and stir to form a shaggy dough. 
 4. Knead in your mixer on low speed with a dough hook or knead by hand for 8-10 minutes to form a smooth, slightly tacky dough. 
 6. Check the dough halfway through; if it's very sticky (think: bubble gum), add a little more flour. The dough is ready when it forms a ball without sagging and quickly springs back when poked.
-7. Toss a few tablespoons of flour to absorb any residual moisture from when they were plumped. With the mixer on gradually add them to the bowl and continue kneading until they are evenly distributed.
+7. Toss a few tablespoonspoons of flour to absorb any residual moisture from when they were plumped. With the mixer on gradually add them to the bowl and continue kneading until they are evenly distributed.
 8. If kneading by hand, turn the dough out onto your work surface and pat it into an oval. Fold the dough like a letter. Pat it into an oval again and fold it again. Knead the dough by hand for a few minutes
 9. Return the dough to the bowl and cover. Let the dough rise in a warm place until doubled in bulk, about an hour. 
 10. Meanwhile, combine the sugar and cinnamon in a small bowl and beat together the egg and water in a second bowl.

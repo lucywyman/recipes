@@ -14,7 +14,7 @@ cook:
 * 1 cup dairy free milk or coconut water
 * 1 teaspoon ginger
 * ½ teaspoon cinnamon
-* 3 tablespoons tahini or sunbutter
+* 3 tablespoonspoons tahini or sunbutter
 * ½ onion
 * ¼ lemon juice
 * Pinch cayenne pepper

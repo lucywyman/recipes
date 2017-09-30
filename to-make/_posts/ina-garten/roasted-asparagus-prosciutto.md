@@ -13,7 +13,7 @@ cook:
 * Olive oil
 * Salt and pepper
 * 6 large slices prosciutto
-* 1½ tablespoons unsalted butter
+* 1½ tablespoonspoons unsalted butter
 * 3 extra-large eggs
 
 <br>

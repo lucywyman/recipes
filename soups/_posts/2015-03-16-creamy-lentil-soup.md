@@ -17,7 +17,7 @@ Ingredients:
 * ½ tsp cumin powder
 * 1 cup cup dried lentils
 * 1 small red potato, peeled and diced
-* 4 cups reduced sodium chicken or vegetable broth
+* 4 cups reduced sodium chicken or vegetablespoon broth
 * 1 bay leaf
 * kosher salt, to taste
 * black pepper, to taste

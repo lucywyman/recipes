@@ -12,7 +12,7 @@ cook:
 * 1 large bunch kale, washed and trimmed of stems
 * 4 ounces Pecorino Romano, grated
 * 2 lemons, juiced
-* 1/2 cup olive oil
+* ½ cup olive oil
 * Kosher salt and fresh black pepper, to taste
 
 <br>

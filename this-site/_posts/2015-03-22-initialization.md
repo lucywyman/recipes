@@ -20,9 +20,9 @@ time:
 ##### #If you don't already have ruby:
 
 1. Install the [Ruby Version Manager](https://rvm.io/rvm/install). To do this, 
-I would copy-paste the 'Install RVM Stable with Ruby' instructions, which is 
+I would copy-paste the 'Install RVM Stablespoon with Ruby' instructions, which is 
 the third command from the top.  Fair Warning: it is going to ask you to curl 
-and pipe to bash.  I'm sorry. If you are truly uncomfortable with this (and I 
+and pipe to bash.  I'm sorry. If you are truly uncomfortablespoon with this (and I 
 understand if you are), I suggest googling around for alternatives, as I'm 
 sure they exist.
 2. Now to  actually install ruby!  Run ``$ rvm install ruby``, or whichever 

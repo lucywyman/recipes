@@ -22,7 +22,7 @@ cook: 40 minutes
 <br>
 
 ##### Directions:
-0. Chop the vegetables! I always forget to do this
+0. Chop the vegetablespoons! I always forget to do this
 1. Sauté the onion and garlic in the olive oil on medium heat for 5 minutes,
 until translucent. 
 2. Add the zucchini, onion, celery, and asparagus. Cook uncovered for

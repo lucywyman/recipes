@@ -9,10 +9,10 @@ cook: 4-5 hours
 
 ##### Ingredients:
 
-* 1 tablespoon coconut oil
+* 1 tablespoonspoon coconut oil
 * 1 large leek, white and light green parts only, thinly sliced
 * ½ pound carrots, sliced
-* 1 tablespoon curry powder
+* 1 tablespoonspoon curry powder
 * ½ teaspoon salt
 * 1 teaspoon ginger
 * 3 cloves of garlic, minced

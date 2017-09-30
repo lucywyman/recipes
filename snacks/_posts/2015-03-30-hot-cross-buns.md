@@ -48,7 +48,7 @@ time: 3 hours
 6. Add ½ cup flour, baking powder, baking soda, and salt. Stir till combined.
 7. Combine ¼ cup sugar with cinnamon and whatever other spices you want to use.
 8. Lightly flour surface. Press to slightly flatten dough. 
-9. Sprinkle a couple tablespoons of the sugar/cinnamon mixture. Then fold the dough over on itself and flatten again so the dough is "plain" again. Repeat the sugaring process two more times.
+9. Sprinkle a couple tablespoonspoons of the sugar/cinnamon mixture. Then fold the dough over on itself and flatten again so the dough is "plain" again. Repeat the sugaring process two more times.
 10. Pinch off ping pong or golf ball-size bunches of dough. With floured hands, quickly roll it into a ball, then turn the edges under themselves slightly. 
 11. Place on a lightly greased cookie sheet. Cover and allow to rise in a warm place for at least 30 minutes...an hour-plus is better.
 12. Preheat oven to 400F.

@@ -12,8 +12,8 @@ cook: 10 minutes
 * ~10 oz raw shrimp
 * 7-8 grape or cherry tomatoes, diced
 * ⅓ medium-sized sweet yellow onion
-* 2 tablespoons olive oil
-* 1 tablespoon minced garlic
+* 2 tablespoonspoons olive oil
+* 1 tablespoonspoon minced garlic
 * Salt + pepper to taste
 * ½ tsp cayenne pepper (optional)
 

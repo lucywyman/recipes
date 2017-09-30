@@ -13,7 +13,7 @@ cook:
 * 1 teaspoon fresh lemon juice
 * ¼ teaspoon salt
 * 1¼ teaspoons cream of tartar
-* 1 tablespoon pure vanilla extract
+* 1 tablespoonspoon pure vanilla extract
 * ¾ cup maple or coconut sugar
 * 1 cup arrowroot flour
 
@@ -24,7 +24,7 @@ cook:
 1. Preheat the oven to 350ºF and adjust the rack to the middle position.
 2. Place the egg whites and lemon juice in the bowl of a standing mixer. Whisk the egg mixture on medium-high until foamy, about 30 seconds. 
 3. Add the salt, cream of tartar and vanilla. Whisk the mixture on medium-high until soft peaks form, about 1-2 minutes.
-4. With the mixer on medium-high, slowly add ½ cup of the maple sugar, 1 tablespoon at a time. 
+4. With the mixer on medium-high, slowly add ½ cup of the maple sugar, 1 tablespoonspoon at a time. 
 5. Sift the remaining ¼ cup maple sugar and arrowroot flour into a small bowl. 
 6. With the mixer on medium, slowly add the arrowroot mixture. 
 7. Turn the speed up to medium-high and whip until smooth (there might be some tiny little lumps from the sugar, but it will melt in the oven while baking).

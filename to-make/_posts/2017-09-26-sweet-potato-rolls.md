@@ -9,12 +9,12 @@ cook:
 
 ##### Ingredients:
 
-* 3/4 cup (6 ounces) warm water
-* 1 scant tablespoon (1 package) active dry yeast
+* ¾ cup (6 ounces) warm water
+* 1 scant tablespoonspoon (1 package) active dry yeast
 * 1 cup (9 ounces) mashed sweet potatoes (see Recipe Notes below)
 * 1 cup (8.5 ounces) milk, whole or 2% preferably
-* 1/4 cup (2 ounces) unsalted butter, melted
-* 2 tablespoons light brown sugar
+* ¼ cup (2 ounces) unsalted butter, melted
+* 2 tablespoonspoons light brown sugar
 * 2 teaspoons kosher salt
 * 4 cups (20 ounces) all-purpose flour 
 

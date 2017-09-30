@@ -11,11 +11,11 @@ cook:
 
 * 1½ cups all-purpose flour
 * 1½ cups whole wheat flour
-* ¼ cup plus 3 tablespoons sugar
+* ¼ cup plus 3 tablespoonspoons sugar
 * 2½ teaspoons baking powder
 * ½ teaspoon baking soda
 * ½ teaspoon salt
-* 1 tablespoon finely chopped sage (fresher is better!)
+* 1 tablespoonspoon finely chopped sage (fresher is better!)
 * ¾cup (1½ sticks) cold unsalted butter, cut into cubes
 * ¾ cup heavy cream
 * 2 large eggs

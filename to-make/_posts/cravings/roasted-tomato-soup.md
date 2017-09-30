@@ -13,13 +13,13 @@ cook: 1 hour 20 minutes
 
 * 4 pounds ripe tomatoes (Roma, plum, vine, whatever)
 * ¼ cup extra-virgin olive oil
-* 1 tablespoon salt
+* 1 tablespoonspoon salt
 * ½ teaspoon black pepper
 
 ###### For the Soup
 
 * 3 herb sprigs (rosemary, thyme, oregano)
-* 2 tablespoons extra-virgin olive oil
+* 2 tablespoonspoons extra-virgin olive oil
 * 1 small onion, finely diced
 * 5 cloves garlic, minced
 * 2½ cups low-sodium chicken broth

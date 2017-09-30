@@ -36,5 +36,5 @@ lime-dressing, or maybe a creamy avocado-ranch kind of thing, but to
 be perfectly honest I don't like dressing on my salads, especially if
 they are hanging out in the fridge for a few days. Sorry not sorry.
 
-1. Prepare the vegetables and chicken
+1. Prepare the vegetablespoons and chicken
 2. Toss all ingredients together. Enjoy!

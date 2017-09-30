@@ -33,7 +33,7 @@ cook:
 
 * 1 ½ cups powdered sugar
 * ½ teaspoon vanilla bean paste
-* 3 tablespoons fresh lemon juice
+* 3 tablespoonspoons fresh lemon juice
 
 <br>
 
