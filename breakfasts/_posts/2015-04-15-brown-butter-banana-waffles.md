@@ -12,14 +12,14 @@ cook: 20 minutes
 * 1 cup all-purpose flour
 * 1 cup whole wheat flour
 * ½ cup packed light-brown sugar
-* 1 tablespoonspoon baking powder
+* 1 tablespoon baking powder
 * ½ teaspoon salt
 * ½ teaspoon ground cinnamon
 * 1/8 teaspoon ground nutmeg
-* 8 tablespoonspoons unsalted butter, sliced
+* 8 tablespoons unsalted butter, sliced
 * 3 large eggs, separated
 * 2 cups buttermilk
-* 2 tablespoonspoons honey
+* 2 tablespoons honey
 * 1 teaspoon pure vanilla extract
 * 3 medium very ripe bananas
 

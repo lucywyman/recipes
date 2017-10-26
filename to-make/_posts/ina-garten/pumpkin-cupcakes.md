@@ -27,8 +27,8 @@ cook:
 ###### For the Frosting
 
 * 6 ounces cream cheese
-* 3 tablespoonspoons unsalted butter, at room temperature
-* 2 tablespoonspoons maple syrup (the real stuff)
+* 3 tablespoons unsalted butter, at room temperature
+* 2 tablespoons maple syrup (the real stuff)
 * ½ teaspoon vanilla extract
 * 2 cups sifted confectioners sugar
 

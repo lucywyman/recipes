@@ -9,8 +9,8 @@ cook:
 
 ##### Ingredients:
 
-* 1 tablespoonspoon dried lavender blossoms
-* ½ cup plus 1 tablespoonspoon sugar
+* 1 tablespoon dried lavender blossoms
+* ½ cup plus 1 tablespoon sugar
 * 1 cup (2 sticks) unsalted butter, at room temperature
 * 2 ½ cup all-purpose flour
 * ¼ teaspoon salt
@@ -23,7 +23,7 @@ cook:
 
 1. In a medium bowl, whisk together flour and salt.  Set aside.
 2. In a small spice grinder (I use my cleaned out coffee grinder) to
-grind up 1 tablespoonspoon lavender and 1 tablespoonspoon sugar. Grind it up!
+grind up 1 tablespoon lavender and 1 tablespoon sugar. Grind it up!
 You could also use a mortar and pestle to grind the sugar and lavender
 together.
 3. In the bowl of an electric stand mixer, fitted with a paddle

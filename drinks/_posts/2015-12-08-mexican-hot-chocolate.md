@@ -23,5 +23,5 @@ cook: 5 minutes
 
 ##### #Hot Chocolate:
 
-1. Add 2 tablespoonspoons of the cocoa mix for every one cup of milk.
+1. Add 2 tablespoons of the cocoa mix for every one cup of milk.
 2. To serve, warm favorite milk in a saucepan over medium heat and stir in hot cocoa mix. Serve with whipped cream!

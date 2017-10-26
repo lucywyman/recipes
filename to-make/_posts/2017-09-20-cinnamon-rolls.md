@@ -14,10 +14,10 @@ cook:
 * ¾ cup lukewarm milk
 * 1 large egg
 * 1 large egg yolk
-* ½ cup (8 tablespoonspoons) unsalted butter, softened
+* ½ cup (8 tablespoons) unsalted butter, softened
 * 3 cups King Arthur Unbleached All-Purpose Flour, plus more for dusting
 * 2 ¼ teaspoons Red Star Platinum, Active Dry or Quick Rise yeast
-* 2 tablespoonspoons light brown sugar
+* 2 tablespoons light brown sugar
 * ¾ teaspoon salt
 * ½ teaspoon vanilla extract
 
@@ -27,14 +27,14 @@ cook:
 * ¼ cup finely chopped pecans
 * ⅓ cup unsalted butter, softened
 * 1 cup brown sugar, packed
-* 3 tablespoonspoons ground cinnamon
-* 8 ounces cream cheese, softened and divided (3 tablespoonspoons set aside for the icing)
+* 3 tablespoons ground cinnamon
+* 8 ounces cream cheese, softened and divided (3 tablespoons set aside for the icing)
 
 ###### For the Icing
 
-* remaining 3 tablespoonspoons of softened cream cheese
+* remaining 3 tablespoons of softened cream cheese
 * 1 cup confectioners' sugar or glazing sugar
-* 1 ½ tablespoonspoons milk
+* 1 ½ tablespoons milk
 
 
 <br>

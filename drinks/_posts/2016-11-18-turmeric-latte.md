@@ -11,7 +11,7 @@ cook: 3 minutes
 
 * 1 heaped teaspoon peeled and finely chopped fresh turmeric
 * 1 teaspoon peeled and roughly chopped ginger
-* 1 tablespoonspoon sugar of choice
+* 1 tablespoon sugar of choice
 * 2 teaspoons coconut oil
 * pinch sea salt
 * 1 cup milk of choice

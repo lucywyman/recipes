@@ -23,7 +23,7 @@ cook:
 ##### Directions:
 
 1. In a cast iron skillet, add the extra virgin olive oil over medium heat.
-2. Add sweet potato and cook for 2-3 minutes.  In case you need, add a few tablespoonspoons of water or ¼ cup to help steam the sweet potato.
+2. Add sweet potato and cook for 2-3 minutes.  In case you need, add a few tablespoons of water or ¼ cup to help steam the sweet potato.
 3. Add the onion and garlic and cook for another 6-7 minutes, until starting to brown.
 4. Add shrimp and cook for 2-3 minutes, or until they turn pink.
 5. Turn the heat to low and add kale, stirring until wilted.

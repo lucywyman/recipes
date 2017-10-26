@@ -14,8 +14,8 @@ cook:
 * 1 carrot, cut into match sticks
 * Chevre
 * 1 chicken breast, cooked and diced
-* 3 tablespoonspoons olive oil
-* 1 tablespoonspoon lemon juice
+* 3 tablespoons olive oil
+* 1 tablespoon lemon juice
 * Salt and pepper to taste
 
 <br>

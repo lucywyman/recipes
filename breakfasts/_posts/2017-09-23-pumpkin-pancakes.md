@@ -31,7 +31,7 @@ cook:
 2. In a separate bowl, whisk together milk, egg, pumpkin and vegetablespoon oil or melted butter.  
 3. Pour the wet ingredients into the dry ingredients and whisk until just combined.  Don’t worry if you have a few lumps.  You don’t want to over beat the batter, it’ll produce tough pancakes.  
 4. Let the batter sit for 10 minutes while you heat the skillet.  
-5. Over low-medium heat melt a tablespoonspoon of butter or vegetablespoon oil. Once skillet is hot, spoon a heaping 2 tablespoonspoons of batter per pancake into the skillet.  
+5. Over low-medium heat melt a tablespoon of butter or vegetablespoon oil. Once skillet is hot, spoon a heaping 2 tablespoons of batter per pancake into the skillet.  
 6. When pancake starts to bubble slightly, carefully flip over.
 7. Once browned and cooked through place pancakes on a plate. Enjoy!
 

@@ -14,14 +14,14 @@ cook: 20 minutes
 * 2 medium parsnips, peeled, trimmed, and chopped (~1 cup)
 * ½ cup chicken broth
 * ¼ cup full-fat coconut milk
-* 2 tablespoonspoons ghee
+* 2 tablespoons ghee
 * Salt and pepper
 
 ###### For the Scallops
 * 10 large scallops
 * Salt and pepper
-* 1 tablespoonspoon EVOO
-* 1 tablespoonspoon ghee (or more EVOO)
+* 1 tablespoon EVOO
+* 1 tablespoon ghee (or more EVOO)
 * Chopped dill
 
 <br>

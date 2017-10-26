@@ -29,7 +29,7 @@ cook: 1 hour
 * 1 ¼ cup (10 ounces) evaporated milk, divided
 * ⅓ cup granulated sugar
 * 3 large eggs
-* 1 tablespoonspoon pure vanilla extract
+* 1 tablespoon pure vanilla extract
 
 <br>
 

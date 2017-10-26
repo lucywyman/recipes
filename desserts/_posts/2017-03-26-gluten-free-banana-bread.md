@@ -28,18 +28,18 @@ cook: 40 minutes
 
 ###### For the Crumble
 
-* 3 tablespoonspoons cold, unsalted butter, cut into ½-inch cubes
+* 3 tablespoons cold, unsalted butter, cut into ½-inch cubes
 * ½ cup gluten-free all-purpose flour
-* 3 tablespoonspoons packed light brown sugar
-* 3 tablespoonspoons old-fashioned oats
+* 3 tablespoons packed light brown sugar
+* 3 tablespoons old-fashioned oats
 
 ###### For the Salted Caramel
 
-* 2 tablespoonspoons butter
+* 2 tablespoons butter
 * ½ cup cream
 * 1 cup sugar (brown or white)
 * 1 pinch sea salt
-* 1 tablespoonspoon vanilla extract
+* 1 tablespoon vanilla extract
 
 <br>
 

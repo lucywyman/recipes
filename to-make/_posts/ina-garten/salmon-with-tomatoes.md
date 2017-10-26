@@ -14,8 +14,8 @@ cook:
 * 2 teaspoons minced garlic (2 cloves)
 * 2 cups (1 pint) cherry or grape tomatoes, halved lengthwise
 * Salt and pepper
-* 1½ tablespoonspoons balsamic vinegar
-* 1½ tablespoonspoons julienne basil leaves
+* 1½ tablespoons balsamic vinegar
+* 1½ tablespoons julienne basil leaves
 * 1 (2 pound) salmon fillet, cut in 4 pieces
 
 <br>
@@ -23,7 +23,7 @@ cook:
 ##### Directions:
 
 1. Preheat the oven to 425°F
-2. Heat 3 tablespoonspoons of olive oil in a medium (10") pan. 
+2. Heat 3 tablespoons of olive oil in a medium (10") pan. 
 3. Add the onion and saute over medium-low heat for 5 minutes, stirring occasionally.
 4. Add the garlic and saute for 1 more minute
 5. Stir in the tomatoes, 1 teaspoon salt, and ½ teaspoon pepper and cook over medium-low heat for 10 to 15 minutes, stirring occasionally, until the liquid evaporates and the tomato sauce thickens slightly. 

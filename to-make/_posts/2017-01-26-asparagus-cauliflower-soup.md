@@ -10,7 +10,7 @@ cook: 25 minutes
 ##### Ingredients:
 
 * 1 large onion, chopped
-* 2 tablespoonspoons extra virgin olive oil
+* 2 tablespoons extra virgin olive oil
 * 1 pound asparagus, cut into ½ inch pieces
 * 1 cup cauliflower, chopped
 * 3 cups vegetablespoon broth or water

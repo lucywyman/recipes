@@ -41,7 +41,7 @@ cook: 15 minutes
 8. Transfer sauce to a large, rimmed pan or pot and heat over medium-low heat until it just starts to bubble. Whisk as it heats, as it will thicken. 
 9. Once bubbling reduce heat to low and simmer to keep warm. The sauce will thicken, so thin with more almond or rice milk as needed.
 10. Heat a separate large rimmed skillet or pot over medium heat. 
-11. Once hot, add 1-2 Tbsp oil and add potato noodles. Season with a pinch of salt and toss with tongs to coat. Cover to let steam. I added a couple of tablespoonspoons of water to my pan to help them steam. But be careful not to add too much or it can make the noodles soggy. You need just a little moisture to help them soften. Continue cooking, gently tossing occasionally until tender.
+11. Once hot, add 1-2 Tbsp oil and add potato noodles. Season with a pinch of salt and toss with tongs to coat. Cover to let steam. I added a couple of tablespoons of water to my pan to help them steam. But be careful not to add too much or it can make the noodles soggy. You need just a little moisture to help them soften. Continue cooking, gently tossing occasionally until tender.
 12. Add your sweet potatoes to your sauce and gently toss to combine. If adding kale or other add-ins, add at this time.
 13. Serve as is or garnish with fresh parsley, crispy chickpeas, kale chips, vegan parmesan, or red pepper flake.
 T

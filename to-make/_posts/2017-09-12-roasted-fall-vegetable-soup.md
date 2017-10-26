@@ -17,8 +17,8 @@ cook:
 * 1 medium celery root, peeled and cut into ½-inch cubes
 * 2 shallots, peeled and quartered
 * 8 garlic cloves, thinly sliced
-* 1 ½ tablespoonspoons chopped fresh thyme leaves, or 2 teaspoons dried
-* 3 tablespoonspoons olive oil
+* 1 ½ tablespoons chopped fresh thyme leaves, or 2 teaspoons dried
+* 3 tablespoons olive oil
 * Salt
 * Freshly ground black pepper
 * 5 cups vegetablespoon stock or canned low-sodium broth

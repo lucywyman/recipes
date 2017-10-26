@@ -15,12 +15,12 @@ cook:
 1 14 oz can coconut cream (or milk)
 1 regular sized can pumpkin puree
 1 cup chicken stock
-2 tablespoonspoons oil of choice (I use olive)
+2 tablespoons oil of choice (I use olive)
 1 teaspoon ground ginger 
 1 teaspoon crushed garlic
 1 teaspoon coriander
-½ tablespoonspoon turmeric powder
-1 tablespoonspoon curry powder
+½ tablespoon turmeric powder
+1 tablespoon curry powder
 
 <br>
 

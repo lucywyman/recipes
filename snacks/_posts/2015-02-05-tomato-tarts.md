@@ -11,7 +11,7 @@ time: 30 minutes
 ##### Ingredients:
 
 * ½ 17.3 ounce package frozen puff pastry sheets (1 sheet), thawed
-* 1 ½ tablespoonspoons finely shredded Parmesan cheese
+* 1 ½ tablespoons finely shredded Parmesan cheese
 * 3 ounces salted fresh mozzarella cheese, very thinly sliced (8 or 9 slices)
 * 1 large roma tomato, thinly sliced (8 or 9 slices)
 * Salt and ground black pepper

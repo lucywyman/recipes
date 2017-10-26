@@ -11,8 +11,8 @@ cook:
 
 * 6-8 heirloom tomatoes, quartered
 * 1 small sweet onion, quartered
-* 3 tablespoonspoons extra virgin olive oil
-* 2 tablespoonspoons fresh thyme leaves
+* 3 tablespoons extra virgin olive oil
+* 2 tablespoons fresh thyme leaves
 * kosher salt and pepper
 * 1 cup whole milk, plus more to thin
 * ⅓ cup basil pesto, homemade or store-bought

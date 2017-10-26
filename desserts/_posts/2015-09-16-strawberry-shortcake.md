@@ -22,7 +22,7 @@ Directions:
 1. Preheat oven to 350 F
 2. Mix bisquick, water, and half of sugar in a medium bowl. The mixture 
    should have the consistency of wet cookie dough -- if it's too watery, 
-   add tablespoonspoons of bisquick until desired consistency is achieved.
+   add tablespoons of bisquick until desired consistency is achieved.
 3. Add 2 cups of the strawberries, careful not to crush them. Don't overmix!
 4. Pour into greased pan and bake for 15 minutes.
 5. For topping, mix remaining sugar and strawberries and place in the refrigerator

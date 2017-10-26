@@ -17,7 +17,7 @@ cook: 20-22 minutes
 * 4 large ripe bananas (about 1¾ cup mashed)
 * ¼ cup packed light brown sugar
 * ¼ cup honey
-* 1 tablespoonspoon coconut oil, melted and cooled
+* 1 tablespoon coconut oil, melted and cooled
 * 1 large egg
 * 1 teaspoon pure vanilla extract
 * ¼ cup natural creamy peanut butter

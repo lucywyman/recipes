@@ -25,8 +25,8 @@ cook: 45 minutes
 ###### For the Praline Topping
 
 * ½ cup lightly packed light brown sugar
-* 6 tablespoonspoons unsalted butter
-* 3 tablespoonspoons heavy cream
+* 6 tablespoons unsalted butter
+* 3 tablespoons heavy cream
 * ½ teaspoon salt
 * 1 teaspoon pure vanilla extract
 * 1 cup coarsely chopped pecan halves, some halves left whole

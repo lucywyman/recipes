@@ -10,7 +10,7 @@ cook: 10 minutes
 ##### Ingredients:
 
 * 1 tilapia filet
-* 1 tablespoonspoon olive oil
+* 1 tablespoon olive oil
 * 2 teaspoons garlic (optional)
 * Salt and pepper to taste
 * 4-6 grape or cherry tomatoes

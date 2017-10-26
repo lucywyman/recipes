@@ -1,6 +1,110 @@
 [
 	
 	{
+		"title"    : "Angel Food Cupcakes",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/angel-food-cupcakes.html",
+		"date"     : "2017-10-26 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Mushroom Barley Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/mushroom-barley-soup.html",
+		"date"     : "2017-10-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Spicy Tomato and Shrimp Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/spicy-tomato-shrimp-soup.html",
+		"date"     : "2017-10-23 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Chicken Zoodle Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/chicken-zoodle-soup.html",
+		"date"     : "2017-10-23 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Chicken Taco Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/chicken-taco-soup.html",
+		"date"     : "2017-10-23 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Farmer&#39;s Market Curry",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/farmers-market-curry.html",
+		"date"     : "2017-10-22 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Arugula Hazelnut Salad",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/arugula-hazelnut-salad.html",
+		"date"     : "2017-10-22 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Rose, Orange, and Cardamom Mini Layer Cakes",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/rose-orange-cardamom-mini-cakes.html",
+		"date"     : "2017-10-18 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Pie",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pumpkin-pie.html",
+		"date"     : "2017-10-16 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Muffins",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pumpkin-muffins.html",
+		"date"     : "2017-10-16 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Creamy Broccoli and Kale Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/kale-broccoli-soup.html",
+		"date"     : "2017-10-16 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Apple Pie",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/apple-pie.html",
+		"date"     : "2017-10-16 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Waffles",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pumpkin-waffles.html",
+		"date"     : "2017-10-02 00:00:00 -0700"
+	} ,
+	
+	{
 		"title"    : "Kale Salad with Pecorino and Lemon",
 		"category" : "",
 		"tags"     : "",
@@ -57,14 +161,6 @@
 	} ,
 	
 	{
-		"title"    : "Chai Apple Cider",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chai-apple-cider.html",
-		"date"     : "2017-09-25 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Acorn Squash Soup",
 		"category" : "",
 		"tags"     : "",
@@ -77,6 +173,14 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/pumpkin-spice-latte.html",
+		"date"     : "2017-09-25 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Chai Apple Cider",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/chai-apple-cider.html",
 		"date"     : "2017-09-25 00:00:00 -0700"
 	} ,
 	
@@ -169,7 +273,7 @@
 	} ,
 	
 	{
-		"title"    : "Roasted Fall Vegetable Soup",
+		"title"    : "Roasted Fall Vegetablespoon Soup",
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/roasted-fall-vegetable-soup.html",
@@ -181,14 +285,6 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/apple-crisp.html",
-		"date"     : "2017-09-12 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Almond Encrusted Tilapia",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/almond-tilapia.html",
 		"date"     : "2017-09-12 00:00:00 -0700"
 	} ,
 	
@@ -334,14 +430,6 @@
 		"tags"     : "",
 		"url"      : "/cherry-tomato-frittata.html",
 		"date"     : "2017-08-12 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Scrambled Eggs with Fresh Corn, Goat Cheese &amp; Tomatoes",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/tomato-breakfast.html",
-		"date"     : "2017-08-09 00:00:00 -0700"
 	} ,
 	
 	{

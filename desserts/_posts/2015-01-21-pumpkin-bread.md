@@ -23,7 +23,7 @@ time: 90 minutes
 * 1½ teaspoons vanilla extract
 * ½ teaspoon orange extract
 * ¼ cup apple cider
-* 3 tablespoonspoons pepitas
+* 3 tablespoons pepitas
 
 <br>
 

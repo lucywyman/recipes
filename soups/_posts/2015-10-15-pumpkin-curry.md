@@ -9,7 +9,7 @@ cook: 20 minutes
 
 ##### Ingredients:
 
-* 2 tablespoonspoons margarine
+* 2 tablespoons margarine
 * 1 cup onion, chopped
 * 2 cloves garlic, crushed
 * 2 teaspoons curry powder

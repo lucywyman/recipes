@@ -10,7 +10,7 @@ cook:
 ##### Ingredients:
 
 * 1 cup (8 oz) warm water
-* 1 tablespoonspoon active dry yeast
+* 1 tablespoon active dry yeast
 * 1 cup (8 oz) milk, whole, 2%, or skim
 * ¼ cup (2 oz) unsalted butter, melted
 * 2 teaspoons salt
@@ -19,7 +19,7 @@ cook:
 ###### Filling:
 
 * ½ cup granulated white sugar
-* 1 ½ tablespoonspoons cinnamon
+* 1 ½ tablespoons cinnamon
 * 1 large egg beaten with 2 teaspoons warm water
 
 
@@ -32,7 +32,7 @@ cook:
 3. Add 5½ cups of the flour and stir to form a shaggy dough. 
 4. Knead in your mixer on low speed with a dough hook or knead by hand for 8-10 minutes to form a smooth, slightly tacky dough. 
 6. Check the dough halfway through; if it's very sticky (think: bubble gum), add a little more flour. The dough is ready when it forms a ball without sagging and quickly springs back when poked.
-7. Toss a few tablespoonspoons of flour to absorb any residual moisture from when they were plumped. With the mixer on gradually add them to the bowl and continue kneading until they are evenly distributed.
+7. Toss a few tablespoons of flour to absorb any residual moisture from when they were plumped. With the mixer on gradually add them to the bowl and continue kneading until they are evenly distributed.
 8. If kneading by hand, turn the dough out onto your work surface and pat it into an oval. Fold the dough like a letter. Pat it into an oval again and fold it again. Knead the dough by hand for a few minutes
 9. Return the dough to the bowl and cover. Let the dough rise in a warm place until doubled in bulk, about an hour. 
 10. Meanwhile, combine the sugar and cinnamon in a small bowl and beat together the egg and water in a second bowl.

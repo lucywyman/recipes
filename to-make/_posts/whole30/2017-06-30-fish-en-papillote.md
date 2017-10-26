@@ -12,19 +12,19 @@ cook: 15 minutes
 * 1 cup chopped seeded tomato
 * 1 small shallot, thinly sliced
 * 2 cloves garlic, minced
-* 2 tablespoonspoons EVOO
+* 2 tablespoons EVOO
 * 1 ½ teaspoons herbes de Provence
 * ¼ teaspoon salt
 * 2 halibut or cod fillets (5-6 ounces) (other fish work too!)
 * 1/8 teaspoon black pepper
-* 1 tablespoonspoon chopped fresh parsley
+* 1 tablespoon chopped fresh parsley
 
 <br>
 
 ##### Directions:
 
 1. Preheat the over to 425°F
-2. Combine the tomato, shallot, garlic, 1 tablespoonspoon of the olive oil, herbes de Provence and 1/8 teaspoon of the salt in a medium bowl
+2. Combine the tomato, shallot, garlic, 1 tablespoon of the olive oil, herbes de Provence and 1/8 teaspoon of the salt in a medium bowl
 3. Cut two 12x15" squares of parchment paper.
 4. Rinse the fish and pat dry with towels. Place a fillet on each piece of parchment about 4" from the edge of the shorter sides. 
 5. Sprinkle the fish with remaining salt and pepper. 

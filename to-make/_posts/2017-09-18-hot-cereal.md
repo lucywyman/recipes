@@ -15,15 +15,17 @@ cook:
 * 1 dash kosher salt 
 * 1 dash ground cinnamon 
 * 1 pinch fresh ground nutmeg 
-* 4-5 tablespoonspoons vanilla soy milk 
+* 4-5 tablespoons milk of choice
 * 2 drops vanilla extract 
 * 1 teaspoon butter 
-* 2 tablespoonspoons maple syrup 
+* 1 tablespoon maple syrup 
 
 <br>
 
 ##### Directions:
 
-In a small pot, add orange rind to water and bring to a boil.
-Add cereal, salt, cinnamon, and nutmeg and reduce heat. Stir while cooking and add the soy milk a tablespoonspoon at a time when liquid has been fully absorbed by the cereal.
-When the cereal is done, about 6 minutes, add vanilla extract, butter, and maple syrup. Stir to mix and serve hot.
+1. In a small pot, add orange rind to water and bring to a boil.
+2. Add cereal, salt, cinnamon, and nutmeg and reduce heat. 
+3. Stir while cooking and add the soy milk a tablespoon at a time when liquid has been fully absorbed by the cereal.
+4. When the cereal is done, about 6 minutes, add vanilla extract, butter, and maple syrup. 
+5. Stir to mix and serve hot.

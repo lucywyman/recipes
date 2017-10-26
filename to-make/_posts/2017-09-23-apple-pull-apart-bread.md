@@ -14,7 +14,7 @@ cook:
 * 2 ¼ teaspoon (1 package) active dry yeast
 * ¼ cup warm water, about 105° to 155° F.
 * big pinch of sugar
-* 6 tablespoonspoons granulated sugar
+* 6 tablespoons granulated sugar
 * ¾ cup (1½ sticks) unsalted butter, at room temperature
 * ½ teaspoon ground cardamom
 * ½ teaspoon salt
@@ -39,7 +39,7 @@ cook:
 * ½ teaspoon cinnamon
 * pinch of salt
 * pinch of cardamom
-* 3 tablespoonspoons unsalted butter, at room temperature
+* 3 tablespoons unsalted butter, at room temperature
 * 1 egg and sugar for brushing and topping the dough before baking
 
 <br>

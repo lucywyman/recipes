@@ -9,17 +9,17 @@ cook: 10 minutes
 
 ##### Ingredients:
 
-* 3 tablespoonspoons rice vinegar
-* 2 tablespoonspoons coconut aminos
+* 3 tablespoons rice vinegar
+* 2 tablespoons coconut aminos
 * 2 cloves garlic, thinly sliced
 * 1 teaspoon minced fresh ginger
 * ¼ teaspoon red pepper flakes
 * ¼ teaspoon salt
-* 2 tablespoonspoons coconut oil
+* 2 tablespoons coconut oil
 * 8 ounces shiitake mushrooms, stemmed and sliced
 * 1 pound medium shrimp, peeled and deveined
 * 2 cups snow peas
-* 1 tablespoonspoon toasted sesame oil
+* 1 tablespoon toasted sesame oil
 * ½ cup unsalted cashews, roasted and coarsely chopped
 
 <br>

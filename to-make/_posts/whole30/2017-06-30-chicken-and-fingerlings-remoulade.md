@@ -19,7 +19,7 @@ cook: 45 minutes
 
 ###### For the Potatoes
 
-* 1 tablespoonspoon EVOO
+* 1 tablespoon EVOO
 * 1 clove garlic, minced
 * 1 teaspoon minced rosemary
 * ¼ teaspoon salt

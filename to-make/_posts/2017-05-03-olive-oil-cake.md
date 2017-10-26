@@ -20,13 +20,13 @@ cook:
 * 1 ¼ cup coconut milk
 * 3 large eggs
 * 1 ¼ cup extra virgin olive oil
-* 2 tablespoonspoons grated orange zest
-* 1 tablespoonspoon lemon zest
-* ¼ cup plus 2 tablespoonspoons fresh orange juice
+* 2 tablespoons grated orange zest
+* 1 tablespoon lemon zest
+* ¼ cup plus 2 tablespoons fresh orange juice
 
 ###### For the Frosting
 
-* 8 tablespoonspoons unsalted butter at room temperate
+* 8 tablespoons unsalted butter at room temperate
 * 8 ounce cream cheese at room temp
 * 1 cup icing sugar
 * 2 tsp orange blossom water (or a little extra orange zest)

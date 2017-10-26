@@ -10,7 +10,7 @@ cook:
 ##### Ingredients:
 
 * 2 medium chicken breasts, cut into ½" pieces 
-* 2 tablespoonspoons olive oil 
+* 2 tablespoons olive oil 
 * 4 cloves garlic, minced or crushed 
 * 3 zucchini, spiralized 
 * ½ teaspoon red pepper flakes (optional) 

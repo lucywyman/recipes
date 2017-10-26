@@ -11,14 +11,14 @@ cook:
 
 ###### For the Crust
 
-* 6 tablespoonspoons (3 ounces) lukewarm water
+* 6 tablespoons (3 ounces) lukewarm water
 * ½ teaspoon active-dry or instant yeast
 * 1 cup (5 ounces) unbleached all-purpose flour
 * ¾ teaspoons salt 
 
 ###### For the Pizza
 
-* 3 tablespoonspoons extra-virgin olive oil
+* 3 tablespoons extra-virgin olive oil
 * 4 cups trimmed and sliced wild mushrooms
 * 2 cloves garlic, thinly sliced
 * 10 ounces mozzarella
@@ -35,7 +35,7 @@ cook:
 2. Combine the water and yeast in a mixing bowl, and stir to dissolve the yeast. The mixture should look like thin miso soup. 
 3. Add the flour and salt to the bowl and mix until you've formed a shaggy dough. 
 4. Turn the dough out onto a clean work surface along with any loose flour still in the bowl
-5. Knead until all the flour is incorporated, and the dough is smooth and elastic, about 5 minutes. The dough should still feel moist and slightly tacky. If it's sticking to your hands and countertop like bubble gum, work in more flour, one tablespoonspoon at a time, until it is smooth. 
+5. Knead until all the flour is incorporated, and the dough is smooth and elastic, about 5 minutes. The dough should still feel moist and slightly tacky. If it's sticking to your hands and countertop like bubble gum, work in more flour, one tablespoon at a time, until it is smooth. 
 6. If you have time at this point, you can let the dough rise until you need it or until doubled in bulk (about an hour and a half). After rising, you can use the dough or refrigerate it for up to 3 days.
 7. Cover the dough with the upside-down mixing bowl or a clean kitchen towel while you prepare the pizza toppings. 
 8. Slice the mushrooms, grate the fancy cheese, and mince the garlic

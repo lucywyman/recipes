@@ -17,7 +17,7 @@ cook: 1 hour
 * 1 cup canned coconut milk
 * ¼ tsp each black pepper, cinnamon, nutmeg
 * ½ tsp each thyme, rosemary
-* 1 tablespoonspoon salt
+* 1 tablespoon salt
 * 2 large ears corn
 * 1 bag of shrimp (size?)
 * 3 medium red potatoes, diced

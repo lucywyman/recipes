@@ -9,9 +9,9 @@ cook:
 
 ##### Ingredients:
 
-* 2 tablespoonspoons olive oil
+* 2 tablespoons olive oil
 * 1 medium onion, diced
-* 3 tablespoonspoons minced ginger
+* 3 tablespoons minced ginger
 * ¾ teaspoon ground coriander
 * 4-5 cups diced carrots
 * 3 cups vegetablespoon broth

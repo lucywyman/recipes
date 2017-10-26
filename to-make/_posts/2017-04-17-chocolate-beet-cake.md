@@ -31,7 +31,7 @@ cook:
 * 1 cup (2 sticks) unsalted butter, softened
 * 8 ounces (1 brick) cream cheese, softened
 * 4 to 5 cups powdered sugar, sifted
-* 2 tablespoonspoons finely grated beets, mashed with a fork
+* 2 tablespoons finely grated beets, mashed with a fork
 * 1 teaspoon pure vanilla extract or scrapings of one vanilla bean pod
 * 1-2 teaspoons milk, depending on desired consistency
 * ½ teaspoon fresh lemon juice
@@ -52,7 +52,7 @@ with a knife, about 1 hour.
 completely.  Beets will be easy to peel (just using a paring knife)
 once completely cooled.
 4. Using a box grater, grate the peeled beets on the finest grating
-plane.  Measure ¾ cup of grated beets for the cake and 2 tablespoonspoons
+plane.  Measure ¾ cup of grated beets for the cake and 2 tablespoons
 for the frosting.  Set aside.
 5. Reduce the oven temperature to 350°F.  Use butter to grease
 two 8 or 9-inch round baking pans.  Trace a piece of parchment paper

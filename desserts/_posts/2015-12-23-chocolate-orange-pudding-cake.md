@@ -9,8 +9,8 @@ cook: 20 minutes
 
 ##### Ingredients:
 
-* 1 tablespoonspoon unsalted butter, room temperature for brushing baking dish
-* ½ cup plus 1 tablespoonspoon granulated sugar, divided
+* 1 tablespoon unsalted butter, room temperature for brushing baking dish
+* ½ cup plus 1 tablespoon granulated sugar, divided
 * 1 teaspoon orange zest
 * ½ teaspoon fresh grated nutmeg
 * 6 large eggs, at room temperature, separated

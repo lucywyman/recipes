@@ -12,7 +12,7 @@ cook:
 * 2½ pounds Yukon gold potatoes
 * Salt and pepper
 * 3 ounces pancetta, ½" diced
-* 2 tablespoonspoons olive oil
+* 2 tablespoons olive oil
 * ¼ cup minced flat-leaf parsley (optional)
 
 <br>
@@ -21,7 +21,7 @@ cook:
 
 1. Preheat the over to 425°F
 2. Cut the potatoes in 1½" chunks and place in a large saucepan
-3. Cover the potatoes with 1" of water and add 1 tablespoonspoon of salt. 
+3. Cover the potatoes with 1" of water and add 1 tablespoon of salt. 
 4. Cover and bring the water to a boil
 5. Uncover, lower the heat, and simmer for 10 minutes
 6. Meanwhile, 5 minutes before the potatoes are cooked, place the pancetta on a sheet pan and roast for 5 minutes 

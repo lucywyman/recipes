@@ -14,7 +14,7 @@ time: 1 hour
 ##### Ingredients:
 
 * 9 ounces semisweet chocolate, finely chopped
-* 6 tablespoonspoons unsalted butter, cut into cubes
+* 6 tablespoons unsalted butter, cut into cubes
 * 4 eggs
 * ¼ cup granulated sugar
 

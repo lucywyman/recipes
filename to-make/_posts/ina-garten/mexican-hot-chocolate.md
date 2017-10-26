@@ -10,7 +10,7 @@ cook:
 ##### Ingredients:
 
 * 2 cups whole milk
-* 1 tablespoonspoon brown sugar
+* 1 tablespoon brown sugar
 * 4 ½ ounces bittersweet chocolate, chopped (I like 100% chocolate)
 * ½ teaspoon vanilla extract
 * ¼ teaspoon ground cinnamon
