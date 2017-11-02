@@ -5,9 +5,105 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Oct 2017 08:07:27 -0700</pubDate>
-    <lastBuildDate>Thu, 26 Oct 2017 08:07:27 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2017 13:29:02 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2017 13:29:02 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Pumpkin Pancakes</title>
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
+
+&lt;h5 id=&quot;dry-mix&quot;&gt;Dry mix:&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 cup all-purpose flour&lt;/li&gt;
+  &lt;li&gt;2 tablespoons light brown sugar&lt;/li&gt;
+  &lt;li&gt;1 teaspoon baking powder&lt;/li&gt;
+  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+  &lt;li&gt;1/4 teaspoon kosher salt&lt;/li&gt;
+  &lt;li&gt;2 teaspoons pumpkin pie spice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;wet-mix&quot;&gt;Wet mix:&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 cup buttermilk, shaken&lt;/li&gt;
+  &lt;li&gt;1 large egg&lt;/li&gt;
+  &lt;li&gt;1/4 cup pumpkin puree&lt;/li&gt;
+  &lt;li&gt;2 tablespoons unsalted butter, melted and cooled slightly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In a medium bowl, mix together flours, brown sugar, baking powder,
+baking soda, salt, and spice&lt;/li&gt;
+  &lt;li&gt;In a measuring cup, measure out the buttermilk. Add the egg,
+pumpkin puree, and melted butter; beat until thoroughly combined.&lt;/li&gt;
+  &lt;li&gt;In one batch, add the wet ingredients to the dry ingredients and
+mix until just combined. The batter should have some small to medium
+lumps.&lt;/li&gt;
+  &lt;li&gt;Heat up your griddle (or cast iron skillet) over medium heat and
+brush with 1/2 tablespoon of butter. Scoop the batter, using a
+tablespoon measure on to the warm skillet. Cook for 2-3 minutes, until
+small bubbles form on the surface of the pancake, and then flip.
+Repeat until you’re done with all the batter. Serve with pats of
+butter and warm maple syrup.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 02 Nov 2017 00:00:00 -0700</pubDate>
+        <link>/pumpkin-pancakes.html</link>
+        <guid isPermaLink="true">/pumpkin-pancakes.html</guid>
+        
+        
+        <category>to-make</category>
+        
+      </item>
+    
+      <item>
+        <title>Creamy Mashed Cauliflower</title>
+        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 (16-ounce) packages riced cauliflower, or 1 large head cauliflower&lt;/li&gt;
+  &lt;li&gt;(about 3 pounds)&lt;/li&gt;
+  &lt;li&gt;3 tablespoons unsalted butter&lt;/li&gt;
+  &lt;li&gt;2 cups water&lt;/li&gt;
+  &lt;li&gt;1 teaspoon kosher salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Finely chop the cauliflower (for whole cauliflower only). Halve
+the cauliflower through the stem. Cut a “V” shape around the core to
+remove the core from each half. Finely chop the cauliflower. The
+smaller the pieces, the faster the cauliflower will cook and the
+creamier the finished dish will be.&lt;/li&gt;
+  &lt;li&gt;Sauté the cauliflower. Melt the butter in a 4-quart pot over
+medium-high heat.&lt;/li&gt;
+  &lt;li&gt;Add the cauliflower and sauté, stirring regularly,
+until the cauliflower has lightened in color, 3 to 5 minutes.&lt;/li&gt;
+  &lt;li&gt;Boil until tender. Add the water and salt and bring to a boil.
+Cover and cook until the cauliflower is tender, about 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Reserve the cooking liquid, then drain. Reserve 1/4 cup of the
+cooking liquid. Drain the cauliflower.&lt;/li&gt;
+  &lt;li&gt;Mash or purée. Place the drained cauliflower and reserved cooking
+liquid back in the pot. Blend using an immersion blender to desired
+consistency. Serve hot.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Tue, 31 Oct 2017 00:00:00 -0700</pubDate>
+        <link>/creamy-mashed-cauliflower.html</link>
+        <guid isPermaLink="true">/creamy-mashed-cauliflower.html</guid>
+        
+        
+        <category>to-make</category>
+        
+      </item>
     
       <item>
         <title>Angel Food Cupcakes</title>
@@ -59,7 +155,7 @@
         <guid isPermaLink="true">/angel-food-cupcakes.html</guid>
         
         
-        <category>to-make</category>
+        <category>desserts</category>
         
       </item>
     
@@ -418,69 +514,6 @@
         <pubDate>Wed, 18 Oct 2017 00:00:00 -0700</pubDate>
         <link>/rose-orange-cardamom-mini-cakes.html</link>
         <guid isPermaLink="true">/rose-orange-cardamom-mini-cakes.html</guid>
-        
-        
-        <category>to-make</category>
-        
-      </item>
-    
-      <item>
-        <title>Pumpkin Pie</title>
-        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
-
-&lt;p&gt;http://www.thekitchn.com/how-to-make-classic-pumpkin-pie-for-thanksgiving-197418&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/pumpkin-pie.html</link>
-        <guid isPermaLink="true">/pumpkin-pie.html</guid>
-        
-        
-        <category>to-make</category>
-        
-      </item>
-    
-      <item>
-        <title>Pumpkin Muffins</title>
-        <description>&lt;h5 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1¾ cups all-purpose flour&lt;/li&gt;
-  &lt;li&gt;2 teaspoons baking powder&lt;/li&gt;
-  &lt;li&gt;1 teaspoon cinnamon&lt;/li&gt;
-  &lt;li&gt;½ teaspoon ground ginger&lt;/li&gt;
-  &lt;li&gt;¼ teaspoon nutmeg&lt;/li&gt;
-  &lt;li&gt;¼ teaspoon ground cloves&lt;/li&gt;
-  &lt;li&gt;½ teaspoon salt&lt;/li&gt;
-  &lt;li&gt;6 tablespoons unsalted butter&lt;/li&gt;
-  &lt;li&gt;1⅓ cups light brown sugar&lt;/li&gt;
-  &lt;li&gt;2 large eggs&lt;/li&gt;
-  &lt;li&gt;1⅓ cups pumpkin purée&lt;/li&gt;
-  &lt;li&gt;1 teaspoon vanilla extract&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;directions&quot;&gt;Directions:&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Prep and preheat: Heat the oven to 350°F. Prepare a 12-cup muffin pan (or two 6-cup muffins pans) with liners, or skip the liners and just grease the cups.&lt;/li&gt;
-  &lt;li&gt;Mix the dry ingredients: In a medium bowl, whisk together the flour, baking powder, cinnamon, ginger, nutmeg, cloves, and salt. Set aside.&lt;/li&gt;
-  &lt;li&gt;Cream the butter and sugar: In the bowl of a stand mixer fitted with the paddle attachment, or in a large mixing bowl, cream the butter and sugar until light and fluffy, 1 to 2 minutes.&lt;/li&gt;
-  &lt;li&gt;Add the eggs: Add the eggs one at a time, beating after each addition until combined.&lt;/li&gt;
-  &lt;li&gt;Add the pumpkin purée: Mix in the pumpkin purée and vanilla extract.&lt;/li&gt;
-  &lt;li&gt;Add the dry ingredients: Stir in the dry ingredients, mixing until just combined. Do not overmix.&lt;/li&gt;
-  &lt;li&gt;Divide the batter: Spoon the batter into the prepared muffin cups so they are ¾ of the way full.&lt;/li&gt;
-  &lt;li&gt;Bake the muffins: Place the muffin tin in the oven. Bake for 18 to 22 minutes, until a tester comes out with few crumbs.&lt;/li&gt;
-  &lt;li&gt;Cool the muffins: Let the muffins cool enough to handle, then transfer them to a wire rack to finish cooling.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Mon, 16 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/pumpkin-muffins.html</link>
-        <guid isPermaLink="true">/pumpkin-muffins.html</guid>
         
         
         <category>to-make</category>
