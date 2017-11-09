@@ -1,6 +1,14 @@
 [
 	
 	{
+		"title"    : "Soft Gingerbread Cookies",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/soft-ginger-cookies.html",
+		"date"     : "2017-11-09 00:00:00 -0800"
+	} ,
+	
+	{
 		"title"    : "Pumpkin Pancakes",
 		"category" : "",
 		"tags"     : "",
@@ -37,14 +45,6 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/spicy-tomato-shrimp-soup.html",
-		"date"     : "2017-10-23 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Chicken Zoodle Soup",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chicken-zoodle-soup.html",
 		"date"     : "2017-10-23 00:00:00 -0700"
 	} ,
 	
@@ -110,14 +110,6 @@
 		"tags"     : "",
 		"url"      : "/apple-pie.html",
 		"date"     : "2017-10-16 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Pumpkin Waffles",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/pumpkin-waffles.html",
-		"date"     : "2017-10-02 00:00:00 -0700"
 	} ,
 	
 	{
@@ -249,14 +241,6 @@
 	} ,
 	
 	{
-		"title"    : "Herb-crusted Pork Loin",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/herb-crusted-pork-loin.html",
-		"date"     : "2017-09-18 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Broccoli Cheddar Soup",
 		"category" : "",
 		"tags"     : "",
@@ -270,14 +254,6 @@
 		"tags"     : "",
 		"url"      : "/super-seeded-pumpkin-cake-bread.html",
 		"date"     : "2017-09-17 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Chicken Zoodles",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chicken-zoodles.html",
-		"date"     : "2017-09-13 00:00:00 -0700"
 	} ,
 	
 	{
@@ -777,14 +753,6 @@
 	} ,
 	
 	{
-		"title"    : "Squash, Pear &amp; Ginger Soup",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/squash-pear-ginger-soup.html",
-		"date"     : "2017-01-26 00:00:00 -0800"
-	} ,
-	
-	{
 		"title"    : "Creamy Asparagus Soup",
 		"category" : "",
 		"tags"     : "",
@@ -873,7 +841,7 @@
 	} ,
 	
 	{
-		"title"    : "Honey Banana Muffins",
+		"title"    : "Honey Banana Almond Muffins",
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/honey-banana-muffins.html",

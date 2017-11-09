@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Honey Banana Muffins
+title: Honey Banana Almond Muffins
 from: Two Peas and their Pod
 fromurl: http://www.twopeasandtheirpod.com/peanut-butter-banana-and-honey-muffins/
 prep: 15 minutes
@@ -20,8 +20,9 @@ cook: 20-22 minutes
 * 1 tablespoon coconut oil, melted and cooled
 * 1 large egg
 * 1 teaspoon pure vanilla extract
+* 1/4 teaspoon almond extract (optional)
 * ¼ cup natural creamy peanut butter
-* ½ cup milk of choice
+* ½ cup almond milk (or other non-dairy milk)
 
 <br>
 

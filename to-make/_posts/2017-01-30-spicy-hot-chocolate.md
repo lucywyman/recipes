@@ -9,21 +9,20 @@ cook:
 
 ##### Ingredients:
 
-* 4 cups Silk Unsweetened Almondmilk
-* 3 teaspoons ground cinnamon
-* 1 teaspoon vanilla extract
-* 2 ounces 75% dark chocolate (the darker the better!)
+* 2 cups milk of choice
+* 1 teaspoon ground cinnamon
+* 1/2 teaspoon vanilla extract
+* 1 ounce 75% dark chocolate (the darker the better!)
 * ⅓ cup cocoa powder
 * 1 large pinch cayenne pepper
-* ⅓ cup coconut sugar
+* 1 tablespoons maple syrup
 * 1 pinch sea salt
-* Coconut cream, whipped
+* Coconut cream, whipped (optional)
 
 <br>
 
 ##### Directions:
 
-1. In a large slow cooker, combine all ingredients except the coconut cream and stir.
-2. Cover and cook on low for two hours, whisking every now and again to combine the ingredients.
-3. Once completely melted, ladle into mugs and top with a heaping spoonful of coconut cream. 
-4. Sprinkle with extra cinnamon and shaved chocolate to garnish.
+1. In a medium pot (saucepan?), heat the milk over medium heat for 5-10 minutes, until it's hot to the touch and just on the verge of boiling
+2. Combine the hot milk and other ingredients in a blender on low speed for 1-2 minutes, allowing the milk to froth a bit.
+3. Optional top with whipped cream, cinnamon, or more chocolate!
