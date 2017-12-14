@@ -12,23 +12,23 @@ cook:
 ##### For the cake:
 
 * 3 cups cake flour
-* 1 tablespoon + 1/2 teaspoon baking powder
-* 3/4 teaspoon salt
+* 1 tablespoon + ½ teaspoon baking powder
+* ¾ teaspoon salt
 * 1 tablespoon ground cardamom
 * 1 cup unsalted butter, softened
 * 2 cups granulated sugar
 * Zest of one large orange
 * 1 teaspoon vanilla bean paste
 * 4 large eggs
-* 2/3 cup whole milk
-* 2/3 cup buttermilk
-* 1/4 cup fresh orange juice
+* ⅔ cup whole milk
+* ⅔ cup buttermilk
+* ¼ cup fresh orange juice
 
 ##### For the filling:
-* 1/2 cup unsalted butter, softened
-* 1/4 cup cream cheese
-* 3 1/2 cups powdered sugar, sifted
-* 1/2 teaspoon vanilla extract
+* ½ cup unsalted butter, softened
+* ¼ cup cream cheese
+* 3 ½ cups powdered sugar, sifted
+* ½ teaspoon vanilla extract
 * Zest of half large orange
 * 2 tablespoons fresh orange juice
 
@@ -36,7 +36,7 @@ cook:
 * 6 large egg whites
 * 2 cups granulated sugar
 * 3 cups unsalted butter, softened
-* 1/2 teaspoon vanilla extract
+* ½ teaspoon vanilla extract
 * 1 teaspoon rose extract (or to taste) or 1 tablespoon rose water (or to taste)
 * 1-2 drops pink food coloring (optional) 
 * 
@@ -52,10 +52,10 @@ cook:
 5. Add in the sugar, and cream together the butter and sugar until light and fluffy. 
 6. With the mixer on low, add in the orange zest and vanilla. 
 7. Add in the eggs, one at a time. Stop the mixer and scrape down the sides and bottom of the bowl.
-8. With the mixer on low add in about 1/3 of the flour mixture. 
+8. With the mixer on low add in about ⅓ of the flour mixture. 
 9. Continue to mix while streaming in the milk. 
-10. Add in another 1/3 of the flour followed by the buttermilk and orange juice. 
-11. Add in the remaining 1/3 of the flour until just combined. 
+10. Add in another ⅓ of the flour followed by the buttermilk and orange juice. 
+11. Add in the remaining ⅓ of the flour until just combined. 
 12. Turn mixer up to medium and mix for no longer than one minute to smooth out batter.
 13. Pour batter into the prepared pan and smooth out with a spatula. Bake until the cake is firm, slightly domed, and a cake tester or toothpick inserted in the middle of the cake comes out clean — about 20 to 22 minutes. 
 14. Let cool completely on a wire rack before removing cake from the pan. Alternatively, keep cake in the pan until ready to assemble the mini cakes. 

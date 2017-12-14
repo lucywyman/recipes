@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Healthy Peanut-Butter Fudge
+title: Peanut Butter Fudge
 from: Chocolate-Covered Katie
 fromurl: http://chocolatecoveredkatie.com/2014/09/28/healthy-peanut-butter-fudge/
 time: 5 minutes

@@ -9,17 +9,17 @@ cook:
 
 ##### Ingredients:
 
-* 1 1/2 cups boiling water
+* 1 ½ cups boiling water
 * 1 ounce dried porcini mushrooms
-* 4 tablespoons (1/2 stick) unsalted butter
+* 4 tablespoons (½ stick) unsalted butter
 * 1 medium onion, diced
 * 2 medium stalks celery, diced
 * 2 medium carrots, peeled and diced
 * 1 teaspoon kosher salt
-* 1/4 teaspoon freshly ground black pepper
-* 3/4 cup pearled barley
+* ¼ teaspoon freshly ground black pepper
+* ¾ cup pearled barley
 * 2 tablespoons all-purpose flour
-* 12 ounces cremini mushrooms, stems removed and cut into 1/4-inch-thick slices
+* 12 ounces cremini mushrooms, stems removed and cut into ¼-inch-thick slices
 * 6 cups low-sodium vegetable broth 
 
 <br>

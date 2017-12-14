@@ -1,6 +1,22 @@
 [
 	
 	{
+		"title"    : "Lavender Egg Bread",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/lavender-egg-bread.html",
+		"date"     : "2017-11-19 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Pie with a Speculoos Cookie Crust and Crème Fraîche Swirl",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/speculoos-pumpkin-pie.html",
+		"date"     : "2017-11-10 00:00:00 -0800"
+	} ,
+	
+	{
 		"title"    : "Soft Gingerbread Cookies",
 		"category" : "",
 		"tags"     : "",
@@ -89,14 +105,6 @@
 	} ,
 	
 	{
-		"title"    : "Pumpkin Muffins",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/pumpkin-muffins.html",
-		"date"     : "2017-10-16 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Creamy Broccoli and Kale Soup",
 		"category" : "",
 		"tags"     : "",
@@ -109,6 +117,14 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/apple-pie.html",
+		"date"     : "2017-10-16 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Pumpkin Muffins",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pumpkin-muffins.html",
 		"date"     : "2017-10-16 00:00:00 -0700"
 	} ,
 	
@@ -150,14 +166,6 @@
 		"tags"     : "",
 		"url"      : "/sweet-potato-rolls.html",
 		"date"     : "2017-09-26 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Masala Chai Tea",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/masala-chai-tea.html",
-		"date"     : "2017-09-25 00:00:00 -0700"
 	} ,
 	
 	{
@@ -281,26 +289,10 @@
 	} ,
 	
 	{
-		"title"    : "Skillet Chicken Parmesan",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/skillet-chicken-parmesan.html",
-		"date"     : "2017-09-07 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Whole Wheat Honey Pound Cake",
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/whole-wheat-honey-pound-cake.html",
-		"date"     : "2017-09-04 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Apple Doughnuts",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/apple-baked-doughnuts.html",
 		"date"     : "2017-09-04 00:00:00 -0700"
 	} ,
 	

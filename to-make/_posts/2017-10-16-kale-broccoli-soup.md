@@ -15,7 +15,7 @@ cook:
 * 2 cups roughly chopped kale
 * 1 cup low-sodium vegetable broth
 * 1 medium head broccoli, broken into florets
-* 1/2 cup coconut milk
+* ½ cup coconut milk
 * Salt and pepper, to taste
 * To garnish: Mixed seeds and nuts, fresh parsley or cilantro, and sprouts (optional)
 

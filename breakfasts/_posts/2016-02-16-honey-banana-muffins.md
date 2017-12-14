@@ -7,6 +7,12 @@ prep: 15 minutes
 cook: 20-22 minutes
 ---
 
+I made these muffins after a particularly stressful day of work, and it was
+so satisfying to mash the bananas to a pulp. I added some almond extract and
+almond milk to this recipe to give it an extra-almond kick, and these turned
+out ~amazing~. I highly recommend added a simple oat or nut streussel on top
+as well! Or enjoy plain, warmed and with butter. 
+
 ##### Ingredients:
 
 * 2 cups white whole-wheat flour
@@ -20,7 +26,7 @@ cook: 20-22 minutes
 * 1 tablespoon coconut oil, melted and cooled
 * 1 large egg
 * 1 teaspoon pure vanilla extract
-* 1/4 teaspoon almond extract (optional)
+* ¼ teaspoon almond extract (optional)
 * ¼ cup natural creamy peanut butter
 * ½ cup almond milk (or other non-dairy milk)
 

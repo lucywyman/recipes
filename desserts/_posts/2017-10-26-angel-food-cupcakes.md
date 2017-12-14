@@ -10,13 +10,13 @@ cook:
 ##### Ingredients:
 
 ##### For the Cupcakes
-1/2 cup + 6 tablespoons granulated sugar
+½ cup + 6 tablespoons granulated sugar
 1/8 teaspoon salt
-1/2 cup cake flour, sifted
+½ cup cake flour, sifted
 6 large egg whites, at room temperature
 8 teaspoons warm water
-1/2 teaspoon vanilla extract
-3/4 teaspoons cream of tartar
+½ teaspoon vanilla extract
+¾ teaspoons cream of tartar
 
 ##### For the Coconut Cream
         

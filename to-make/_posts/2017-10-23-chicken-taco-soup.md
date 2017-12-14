@@ -16,8 +16,8 @@ cook:
 * 1 tablespoon ground cumin
 * 2 teaspoons paprika
 * 2 teaspoons dried oregano
-* 1/2 teaspoon kosher salt
-* 1/4 teaspoon freshly ground black pepper
+* ½ teaspoon kosher salt
+* ¼ teaspoon freshly ground black pepper
 * 4 cups (32 ounces) low-sodium chicken broth
 * 1 (15-ounce) can black beans, drained and rinsed
 * 1 (15-ounce) can diced tomatoes
@@ -27,8 +27,8 @@ cook:
 ##### For serving (optional):
 
 * 2 medium scallions, thinly sliced
-* 1/2 cup shredded sharp cheddar cheese
-* 1/2 cup crushed tortilla chips
+* ½ cup shredded sharp cheddar cheese
+* ½ cup crushed tortilla chips
 
 <br>
 

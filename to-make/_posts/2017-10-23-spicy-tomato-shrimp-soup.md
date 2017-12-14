@@ -14,12 +14,12 @@ cook:
 * Kosher salt
 * Freshly ground black pepper
 * 4 cloves garlic, minced
-* 1/4 teaspoon red pepper flakes, plus more as needed
-* 1/4 cup tomato paste
+* ¼ teaspoon red pepper flakes, plus more as needed
+* ¼ cup tomato paste
 * 8 cups unsalted chicken broth
 * 2 cups dry ditalini pasta
-* 1 1/2 pounds uncooked peeled and deveined medium shrimp
-* 1/4 cup loosely packed fresh basil leaves 
+* 1 ½ pounds uncooked peeled and deveined medium shrimp
+* ¼ cup loosely packed fresh basil leaves 
 
 <br>
 

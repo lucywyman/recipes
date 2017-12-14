@@ -31,7 +31,7 @@ medium-high heat.
 until the cauliflower has lightened in color, 3 to 5 minutes.
 4. Boil until tender. Add the water and salt and bring to a boil.
 Cover and cook until the cauliflower is tender, about 10 minutes.
-5. Reserve the cooking liquid, then drain. Reserve 1/4 cup of the
+5. Reserve the cooking liquid, then drain. Reserve ¼ cup of the
 cooking liquid. Drain the cauliflower.
 6. Mash or purée. Place the drained cauliflower and reserved cooking
 liquid back in the pot. Blend using an immersion blender to desired

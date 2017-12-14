@@ -9,10 +9,10 @@ cook: 10 minutes
 
 ##### Ingredients:
 
-2 cups milk of choice
-2½ tablespoons granulated sugar
-4 ounces dark chocolate (65% or higher cocoa content), chopped
-½ teaspoon curry powder
+* 2 cups milk of choice
+* 2½ tablespoons granulated sugar
+* 4 ounces dark chocolate (65% or higher cocoa content), chopped
+* ½ teaspoon curry powder
 
 <br>
 

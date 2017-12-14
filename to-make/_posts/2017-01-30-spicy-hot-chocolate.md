@@ -11,7 +11,7 @@ cook:
 
 * 2 cups milk of choice
 * 1 teaspoon ground cinnamon
-* 1/2 teaspoon vanilla extract
+* ½ teaspoon vanilla extract
 * 1 ounce 75% dark chocolate (the darker the better!)
 * ⅓ cup cocoa powder
 * 1 large pinch cayenne pepper
