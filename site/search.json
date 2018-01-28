@@ -1,6 +1,126 @@
 [
 	
 	{
+		"title"    : "Roasted Carrot and Fennel Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/carrot-fennel-soup.html",
+		"date"     : "2018-01-17 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Orange Bundt Cake",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/orange-bundt-cake.html",
+		"date"     : "2018-01-16 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Spinach Mushroom Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/spinach-mushroom-soup.html",
+		"date"     : "2018-01-02 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Sour Cherry Galette",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/sour-cherry-galette.html",
+		"date"     : "2018-01-02 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Tofu and Broccoli Salad with Peanut Butter Dressing",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pb-tofu-broccoli-salad.html",
+		"date"     : "2018-01-02 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Broccoli and Kale Caesar Salad",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/kale-broccoli-salad.html",
+		"date"     : "2018-01-02 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Butternut Squash Soup With Brown Butter",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/butternut-squash-soup.html",
+		"date"     : "2018-01-02 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Blood Orange Bundt Cake",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/blood-orange-cake.html",
+		"date"     : "2018-01-02 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Kale and Sweet Potato Egg Bake",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/kale-sweet-potato-egg-bake.html",
+		"date"     : "2017-12-31 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Chickpea and Broccoli Soup",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/chickpea-broccoli-soup.html",
+		"date"     : "2017-12-27 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Chocolate Babka Muffins",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/chocolate-babka-muffins.html",
+		"date"     : "2017-12-21 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Flourless Chocolate Cookies",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/flourless-chocolate-cookies.html",
+		"date"     : "2017-12-12 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Rose Pistachio Meringues",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/pistachio-rose-meringues.html",
+		"date"     : "2017-12-08 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Blood Orange and Poppy Polenta Shortbread Cookies",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/orange-poppy-shortbread.html",
+		"date"     : "2017-12-08 00:00:00 -0800"
+	} ,
+	
+	{
+		"title"    : "Horchata Cake",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/horchata-cake.html",
+		"date"     : "2017-12-04 00:00:00 -0800"
+	} ,
+	
+	{
 		"title"    : "Lavender Egg Bread",
 		"category" : "",
 		"tags"     : "",
@@ -9,27 +129,11 @@
 	} ,
 	
 	{
-		"title"    : "Pumpkin Pie with a Speculoos Cookie Crust and Crème Fraîche Swirl",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/speculoos-pumpkin-pie.html",
-		"date"     : "2017-11-10 00:00:00 -0800"
-	} ,
-	
-	{
 		"title"    : "Soft Gingerbread Cookies",
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/soft-ginger-cookies.html",
 		"date"     : "2017-11-09 00:00:00 -0800"
-	} ,
-	
-	{
-		"title"    : "Pumpkin Pancakes",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/pumpkin-pancakes.html",
-		"date"     : "2017-11-02 00:00:00 -0700"
 	} ,
 	
 	{
@@ -54,22 +158,6 @@
 		"tags"     : "",
 		"url"      : "/mushroom-barley-soup.html",
 		"date"     : "2017-10-25 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Spicy Tomato and Shrimp Soup",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/spicy-tomato-shrimp-soup.html",
-		"date"     : "2017-10-23 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Chicken Taco Soup",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chicken-taco-soup.html",
-		"date"     : "2017-10-23 00:00:00 -0700"
 	} ,
 	
 	{
@@ -129,14 +217,6 @@
 	} ,
 	
 	{
-		"title"    : "Kale Salad with Pecorino and Lemon",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/simple-kale-salad.html",
-		"date"     : "2017-09-28 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Kale and Goat Cheese Fritatta Cups",
 		"category" : "",
 		"tags"     : "",
@@ -149,6 +229,14 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/broccoli-kale-caesar.html",
+		"date"     : "2017-09-28 00:00:00 -0700"
+	} ,
+	
+	{
+		"title"    : "Kale Salad with Pecorino and Lemon",
+		"category" : "",
+		"tags"     : "",
+		"url"      : "/simple-kale-salad.html",
 		"date"     : "2017-09-28 00:00:00 -0700"
 	} ,
 	
@@ -265,14 +353,6 @@
 	} ,
 	
 	{
-		"title"    : "Roasted Fall Vegetablespoon Soup",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/roasted-fall-vegetable-soup.html",
-		"date"     : "2017-09-12 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Gluten-Free Apple Crisp",
 		"category" : "",
 		"tags"     : "",
@@ -337,14 +417,6 @@
 	} ,
 	
 	{
-		"title"    : "Garlicky Sweet Potato Pasta",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/garlicky-sweet-potato-pasta.html",
-		"date"     : "2017-08-22 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Orange Vanilla Cloud Cookies",
 		"category" : "",
 		"tags"     : "",
@@ -357,14 +429,6 @@
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/angel-food-cupcakes.html",
-		"date"     : "2017-08-21 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Pumpkin Bars",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/pumpkin-bars.html",
 		"date"     : "2017-08-21 00:00:00 -0700"
 	} ,
 	
@@ -449,70 +513,6 @@
 	} ,
 	
 	{
-		"title"    : "No-Bake Chocolate Cheesecakes",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chocolate-cheesecakes.html",
-		"date"     : "2017-07-02 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Shrimp, Snow Pea, and Shiitake Stir-Fry",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/shrimp-stir-fry.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Roasted Salmon with Broccoli Steaks",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/roast-salmon-and-broccoli-steaks.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Whole30 Pesto",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/pesto.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Fish en Papillote",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/fish-en-papillote.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Curried Carrot and Sweet Potato Soup",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/curried-carrot-sweet-potato-soup.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Chicken and Fingerlings with Celery-Carrot Remoulade",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chicken-and-fingerlings-remoulade.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Broiled Shrimp Gremolata",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/broiled-shrimp-gremolata.html",
-		"date"     : "2017-06-30 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Gluten-Free Angel Food Cake",
 		"category" : "",
 		"tags"     : "",
@@ -550,14 +550,6 @@
 		"tags"     : "",
 		"url"      : "/rhubarb-upside-down-cake.html",
 		"date"     : "2017-05-23 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Kefir Basil Dressing",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/kefir-basil-dressing.html",
-		"date"     : "2017-05-14 00:00:00 -0700"
 	} ,
 	
 	{
@@ -969,14 +961,6 @@
 	} ,
 	
 	{
-		"title"    : "Vegan Strawberry Shortcake",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/strawberry-shortcake.html",
-		"date"     : "2015-09-16 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Raw Chocolate Cherry Fudge",
 		"category" : "",
 		"tags"     : "",
@@ -1113,22 +1097,6 @@
 	} ,
 	
 	{
-		"title"    : "Crumbly Chocolate Pie Crust",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/chocolate-pie-crust.html",
-		"date"     : "2015-03-14 00:00:00 -0700"
-	} ,
-	
-	{
-		"title"    : "Homemade Whipped Cream",
-		"category" : "",
-		"tags"     : "",
-		"url"      : "/whipped-cream.html",
-		"date"     : "2015-03-11 00:00:00 -0700"
-	} ,
-	
-	{
 		"title"    : "Homemade Whipped Cream",
 		"category" : "",
 		"tags"     : "",
@@ -1169,7 +1137,7 @@
 	} ,
 	
 	{
-		"title"    : "Healthy Peanut-Butter Fudge",
+		"title"    : "Peanut Butter Fudge",
 		"category" : "",
 		"tags"     : "",
 		"url"      : "/peanut-butter-fudge.html",
