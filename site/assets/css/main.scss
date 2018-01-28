@@ -4,9 +4,9 @@ $bodybg: #F6FFFA;
 $sans: "Helvetica", sans-serif;
 $light: #fff;
 $dark: #444;
-$blue: #051E55;
-$link: #9CC7E4;
-$yellow: #EEDC1B;
+$navy: #051E55;
+$blue: #0074D9;
+$yellow: #FFDC00;
 $menu-y: 50;
 $footer-y: 100;
 
@@ -50,10 +50,10 @@ h1, h2, h3, h4 {
 }
 
 a {
-color: $dark;}
+color: $blue;}
 
 a:hover {
-	color: rgba($dark, .7);
+	color: rgba($blue, .7);
 }
 
 ol {
@@ -64,7 +64,7 @@ ol {
 }
 
 hr {
-	color: $blue;
+	color: $navy;
 }
 
 code {
@@ -120,15 +120,15 @@ main {
 	margin: 0;
 	vertical-align: top;
 	display: inline-block;
-	padding: 10;
-	padding-top: 30;
+	padding: 10px;
+	padding-top: 30px;
 	color: $light;
-  background-color: $blue;
+  background-color: $navy;
   height: 100%;
 
 	ul {
 		display: block;
-		padding: 10;
+		padding: 10px;
 
 		li {
 			padding: 3px 0;
@@ -165,7 +165,7 @@ main {
 #search-input {
 	width: 79%;
 	display: inline-block;
-	margin: 10%;
+	margin: 10px;
 	padding: 0px 2px;
 	background: $light;
 	color: $dark;
@@ -182,7 +182,7 @@ main {
 
 .btn {
 	display: block;
-	margin: 10 0;
+	margin: 10px 0;
 	padding: 3px;
 	color: $dark;
 	border: none;
@@ -193,7 +193,7 @@ main {
 }
 
 .portrait {
-	max-width: 400;
+	max-width: 400px;
 }
 
 .category-archive {
@@ -238,11 +238,11 @@ img {
 .footer {
 	width: 100%;
 	z-index: 100;
-  background-color: $blue;
+  background-color: $navy;
 
 	p {
 		max-width: 60%;
-		padding: 20;
+		padding: 20px;
 		color: $light;
 	}
 
@@ -260,21 +260,21 @@ form {
 	textarea {
 		display: block;
 		margin: 5px;
-		margin-bottom: 20;
+		margin-bottom: 20px;
 		padding: 5px;
 		width: 40%;
-		max-height: 100;
+		max-height: 100px;
 		border: 1px solid $dark;
 	}
 
 	#content-form {
-		width: 400;
-		max-height: 200;
-		min-height: 150;
+		width: 400px;
+		max-height: 200px;
+		min-height: 150px;
 	}
 
 	.submit {
-		width: 100;
+		width: 100%;
 		color: $light;
     background-color: $yellow;
 	}
@@ -305,7 +305,7 @@ form {
 		position: relative;
 		width: 100%;
 		max-width: 100%;
-		background: $blue;
+		background: $navy;
 
 		.logo {
 			width: 35%;
@@ -316,7 +316,7 @@ form {
 		background-color: $yellow;
 
 		.slicknav_icon-bar {
-			background-color: $blue;
+			background-color: $navy;
 		}
 
 		&:hover {

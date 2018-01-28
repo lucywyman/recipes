@@ -3,10 +3,10 @@
   <channel>
     <title>Recipes</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jan 2018 12:51:57 -0800</pubDate>
-    <lastBuildDate>Sun, 28 Jan 2018 12:51:57 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Jan 2018 13:15:51 -0800</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 13:15:51 -0800</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -39,8 +39,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 17 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/carrot-fennel-soup.html</link>
-        <guid isPermaLink="true">/carrot-fennel-soup.html</guid>
+        <link>http://localhost:4000/carrot-fennel-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/carrot-fennel-soup.html</guid>
         
         
         <category>to-make</category>
@@ -93,8 +93,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 
 </description>
         <pubDate>Tue, 16 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/orange-bundt-cake.html</link>
-        <guid isPermaLink="true">/orange-bundt-cake.html</guid>
+        <link>http://localhost:4000/orange-bundt-cake.html</link>
+        <guid isPermaLink="true">http://localhost:4000/orange-bundt-cake.html</guid>
         
         
         <category>to-make</category>
@@ -137,8 +137,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 
 </description>
         <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/spinach-mushroom-soup.html</link>
-        <guid isPermaLink="true">/spinach-mushroom-soup.html</guid>
+        <link>http://localhost:4000/spinach-mushroom-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/spinach-mushroom-soup.html</guid>
         
         
         <category>to-make</category>
@@ -200,8 +200,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/sour-cherry-galette.html</link>
-        <guid isPermaLink="true">/sour-cherry-galette.html</guid>
+        <link>http://localhost:4000/sour-cherry-galette.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sour-cherry-galette.html</guid>
         
         
         <category>to-make</category>
@@ -239,8 +239,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;p&gt;Notes: This is especially tasty if you roast the broccoli and red pepper first!&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/pb-tofu-broccoli-salad.html</link>
-        <guid isPermaLink="true">/pb-tofu-broccoli-salad.html</guid>
+        <link>http://localhost:4000/pb-tofu-broccoli-salad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pb-tofu-broccoli-salad.html</guid>
         
         
         <category>to-make</category>
@@ -293,8 +293,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/kale-broccoli-salad.html</link>
-        <guid isPermaLink="true">/kale-broccoli-salad.html</guid>
+        <link>http://localhost:4000/kale-broccoli-salad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kale-broccoli-salad.html</guid>
         
         
         <category>to-make</category>
@@ -359,8 +359,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/butternut-squash-soup.html</link>
-        <guid isPermaLink="true">/butternut-squash-soup.html</guid>
+        <link>http://localhost:4000/butternut-squash-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/butternut-squash-soup.html</guid>
         
         
         <category>to-make</category>
@@ -439,8 +439,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-        <link>/blood-orange-cake.html</link>
-        <guid isPermaLink="true">/blood-orange-cake.html</guid>
+        <link>http://localhost:4000/blood-orange-cake.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blood-orange-cake.html</guid>
         
         
         <category>to-make</category>
@@ -493,8 +493,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;p&gt;Bake uncovered until the eggs are set, start to pull away from the sides of the dish, and are golden-brown on top, 30 to 35 minutes. Let the casserole cool for 5 minutes before serving. Serve warm or at room temperature.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 -0800</pubDate>
-        <link>/kale-sweet-potato-egg-bake.html</link>
-        <guid isPermaLink="true">/kale-sweet-potato-egg-bake.html</guid>
+        <link>http://localhost:4000/kale-sweet-potato-egg-bake.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kale-sweet-potato-egg-bake.html</guid>
         
         
         <category>to-make</category>
@@ -535,8 +535,8 @@ Slice and serve! You’re welcome to add a glaze. I like this cake served with l
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 00:00:00 -0800</pubDate>
-        <link>/chickpea-broccoli-soup.html</link>
-        <guid isPermaLink="true">/chickpea-broccoli-soup.html</guid>
+        <link>http://localhost:4000/chickpea-broccoli-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chickpea-broccoli-soup.html</guid>
         
         
         <category>to-make</category>

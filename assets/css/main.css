@@ -8375,10 +8375,10 @@ h1, h2, h3, h4 {
   font-weight: 600; }
 
 a {
-  color: #444; }
+  color: #0074D9; }
 
 a:hover {
-  color: rgba(68, 68, 68, 0.7); }
+  color: rgba(0, 116, 217, 0.7); }
 
 ol {
   padding: 0 17px; }
@@ -8428,14 +8428,14 @@ main {
   margin: 0;
   vertical-align: top;
   display: inline-block;
-  padding: 10;
-  padding-top: 30;
+  padding: 10px;
+  padding-top: 30px;
   color: #fff;
   background-color: #051E55;
   height: 100%; }
   .sidebar ul {
     display: block;
-    padding: 10; }
+    padding: 10px; }
     .sidebar ul li {
       padding: 3px 0; }
       .sidebar ul li a {
@@ -8458,7 +8458,7 @@ main {
 #search-input {
   width: 79%;
   display: inline-block;
-  margin: 10%;
+  margin: 10px;
   padding: 0px 2px;
   background: #fff;
   color: #444;
@@ -8472,7 +8472,7 @@ main {
 
 .btn, .btn-large {
   display: block;
-  margin: 10 0;
+  margin: 10px 0;
   padding: 3px;
   color: #444;
   border: none; }
@@ -8481,7 +8481,7 @@ main {
   cursor: pointer; }
 
 .portrait {
-  max-width: 400; }
+  max-width: 400px; }
 
 .category-archive ul {
   list-style-type: none; }
@@ -8517,30 +8517,30 @@ img {
   background-color: #051E55; }
   .footer p {
     max-width: 60%;
-    padding: 20;
+    padding: 20px;
     color: #fff; }
   .footer a {
-    color: #EEDC1B; }
+    color: #FFDC00; }
   .footer a:hover {
-    color: rgba(238, 220, 27, 0.85); }
+    color: rgba(255, 220, 0, 0.85); }
 
 form input,
 form textarea {
   display: block;
   margin: 5px;
-  margin-bottom: 20;
+  margin-bottom: 20px;
   padding: 5px;
   width: 40%;
-  max-height: 100;
+  max-height: 100px;
   border: 1px solid #444; }
 form #content-form {
-  width: 400;
-  max-height: 200;
-  min-height: 150; }
+  width: 400px;
+  max-height: 200px;
+  min-height: 150px; }
 form .submit {
-  width: 100;
+  width: 100%;
   color: #fff;
-  background-color: #EEDC1B; }
+  background-color: #FFDC00; }
 form .submit:hover {
   cursor: pointer; }
 form .submit:active {
@@ -8564,11 +8564,11 @@ form .submit:active {
       width: 35%; }
 
   .slicknav_btn {
-    background-color: #EEDC1B; }
+    background-color: #FFDC00; }
     .slicknav_btn .slicknav_icon-bar {
       background-color: #051E55; }
     .slicknav_btn:hover {
-      background-color: #EEDC1B; }
+      background-color: #FFDC00; }
 
   .slicknav_nav a:hover, .slicknav_nav:hover, .slicknav_nav .slicknav_row a:hover, .slicknav_nav .slicknav_row:hover {
     background: none;
