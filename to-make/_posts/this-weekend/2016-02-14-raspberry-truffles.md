@@ -9,6 +9,11 @@ cook:
 
 ##### Ingredients:
 
+* 6 tablespoons canned full-fat coconut milk
+* 6 ounces bittersweet chocolate, finely chopped
+* 6 ounces fresh raspberries, patted dry
+* 2 tablespoons unsweetened cocoa powder
+
 <br>
 
 ##### Directions:
