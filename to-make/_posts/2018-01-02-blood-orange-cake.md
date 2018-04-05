@@ -11,21 +11,21 @@ cook:
 
 ###### Streusel
 
-* 1/2 cup packed light brown sugar
-* 1/2 cup all-purpose flour
+* ½ cup packed light brown sugar
+* ½ cup all-purpose flour
 * 2 teaspoons cinnamon
 * 1 teaspoon unsweetened cocoa powder
 * 1 teaspoon instant espresso powder
-* 1/2 teaspoon salt
-* 1/4 cup cold unsalted butter, cut into pieces
+* ½ teaspoon salt
+* ¼ cup cold unsalted butter, cut into pieces
 
 ###### Cake
 * 3 cups all-purpose flour
 * 2 teaspoons baking powder
-* 1/2 teaspoon baking soda
-* 1/2 teaspoon salt
+* ½ teaspoon baking soda
+* ½ teaspoon salt
 * 1 cup unsalted butter, softened to room temperature
-* 1 1/2 cups sugar
+* 1 ½ cups sugar
 * 2 tablespoons freshly grated orange zest
 * 3 large eggs
 * 2 teaspoons vanilla extract
@@ -33,8 +33,8 @@ cook:
 
 ###### Blood orange glaze
 * ¼ cup freshly squeezed blood orange juice
-* 1/2 teaspoon vanilla extract
-* 3/4 cup powdered sugar
+* ½ teaspoon vanilla extract
+* ¾ cup powdered sugar
 
 
 <br>

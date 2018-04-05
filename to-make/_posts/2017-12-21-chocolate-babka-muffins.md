@@ -12,14 +12,14 @@ cook:
     
 ###### For the Dough
 
-* 2 1/4 teaspoons (1 envelope) active dry yeast
+* 2 ¼ teaspoons (1 envelope) active dry yeast
 * 2 tablespoons warm water (warmer than body temperature)
 * pinch of sugar
-* 3 to 3 1/2 cups all-purpose flour, divided
-* 1/4 cup granulated sugar
-* 3/4 teaspoon kosher salt
+* 3 to 3 ½ cups all-purpose flour, divided
+* ¼ cup granulated sugar
+* ¾ teaspoon kosher salt
 * 4 tablespoons (2 ounces) unsalted butter
-* 1/2 cup whole milk
+* ½ cup whole milk
 * 2 large eggs, at room temperature
 * 1 teaspoon pure vanilla extract
 
@@ -27,11 +27,11 @@ cook:
 
 * 9 ounces milk chocolate, coarsely chopped
 * 3 ounces bittersweet chocolate, coarsely chopped
-* 11/2 sticks (3/4 cup) unsalted butter
+* 1½ sticks (¾ cup) unsalted butter
 * pinch of salt
-* 1/4 teaspoon ground cinnamon
+* ¼ teaspoon ground cinnamon
 * 2 tablespoons honey
-* 11/2 cups finely ground chocolate wafer cookies (I sure did use Oreos without the cream)
+* 1½ cups finely ground chocolate wafer cookies (I sure did use Oreos without the cream)
 
 <br>
 
@@ -47,7 +47,7 @@ cook:
 8. Add the yeast mixture too and mix with a spatula. 
 9. Add the eggs and place the bowl in your stand mixer fitted with a dough hook. 
 10. As the mixture beats on low speed, add an additional cup of flour.
-11. Beat the mixture until the eggs are incorporated into the batter. The eggs will feel soupy and it’ll seem like the dough and the eggs are never going to come together. Keep mixing. The dough will stick to the sides of the bowl. Stop the mixer and scrape down the sides of the bowl. Add up to 1/2 cup more flour and beat in. The dough will be lightly tacky and slightly sticky after 5 minutes of kneading in the mixer. That's right!
+11. Beat the mixture until the eggs are incorporated into the batter. The eggs will feel soupy and it’ll seem like the dough and the eggs are never going to come together. Keep mixing. The dough will stick to the sides of the bowl. Stop the mixer and scrape down the sides of the bowl. Add up to ½ cup more flour and beat in. The dough will be lightly tacky and slightly sticky after 5 minutes of kneading in the mixer. That's right!
 12. Place the dough is a large, greased bowl. Cover with plastic wrap and a clean kitchen towel. 
 13. Place in a warm space and allow to rest until doubled in size, about 1 hour though the time will be longer if your kitchen is cool.
 While the dough rests, make the chocolate filling.

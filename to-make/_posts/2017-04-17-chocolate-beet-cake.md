@@ -12,7 +12,7 @@ cook:
 ###### For the Cake
 
 * 2 medium beets, unpeeled but trimmed of their greens
-* 1 teaspoon vegetablespoon oil
+* 1 teaspoon vegetables oil
 * 6 ounces (¾ cup) unsalted butter, softened, plus more for greasing
 * the pans
 * 1 cup packed brown sugar
@@ -45,7 +45,7 @@ cook:
 1. Place a rack in the center and upper third of the oven.  Preheat oven to 375°F.
 2. Thoroughly wash beets under running water, and trim their leaves,
 leaving about ½ inch of stem.  Place clean beets in a piece of foil.
-Drizzle with just a bit of vegetablespoon oil.  Seal up foil.  Place on a
+Drizzle with just a bit of vegetables oil.  Seal up foil.  Place on a
 baking sheet in the oven.  Roast until beets are tender when pierced
 with a knife, about 1 hour.
 3. Remove the beets from the oven.  Open the foil and allow beets to cool

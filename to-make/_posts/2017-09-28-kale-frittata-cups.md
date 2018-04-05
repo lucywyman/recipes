@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Kale and Goat Cheese Fritatta Cups 
+title: Kale and Goat Cheese Frittata Cups 
 from: The Kitchn
 fromurl: http://www.thekitchn.com/easy-breakfast-recipe-kale-and-goat-cheese-frittata-cups-166901 
 prep: 

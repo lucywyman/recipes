@@ -10,7 +10,7 @@ cook:
 ##### Ingredients:
 
 * 1 large bunch kale (about 10 ounces)
-* 4 cups warmed chicken or vegetablespoon stock, divided
+* 4 cups warmed chicken or vegetables stock, divided
 * 2 teaspoons olive oil
 * ½ whole yellow onion, chopped
 * 2 teaspoon salt

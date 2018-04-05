@@ -10,11 +10,11 @@ cook:
 ##### Ingredients:
 
 * Cooking spray
-* 2 1/2 cups powdered sugar (12 ounces)
-* 1/2 cup Dutch-process cocoa powder
-* 1/2 cup black cocoa powder
+* 2 ½ cups powdered sugar (12 ounces)
+* ½ cup Dutch-process cocoa powder
+* ½ cup black cocoa powder
 * 1 teaspoon espresso powder
-* 1/2 teaspoon fine salt
+* ½ teaspoon fine salt
 * 3 large egg whites
 * 1 teaspoon vanilla extract
 * 2 cups dark chocolate chips 

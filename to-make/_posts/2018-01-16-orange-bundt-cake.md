@@ -9,16 +9,16 @@ cook:
 
 ##### Ingredients:
 
-* 31/2 cups all-purpose flour
-* 21/2 teaspoons baking powder
-* 1/2 teaspoon baking soda
-* 3/4 teaspoon sea salt
-* 3 medium navel or cara cara oranges (you need 1 1/2 cups of ground oranges so maybe 2 oranges will do if they're on the large side. Thin skins are key.)
+* 3½ cups all-purpose flour
+* 2½ teaspoons baking powder
+* ½ teaspoon baking soda
+* ¾ teaspoon sea salt
+* 3 medium navel or cara cara oranges (you need 1 ½ cups of ground oranges so maybe 2 oranges will do if they're on the large side. Thin skins are key.)
 * 1 cup (2 sticks) unsalted butter, softened to room temperature
-* 1 2/3 cups granulated sugar
+* 1 ⅔ cups granulated sugar
 * 4 large eggs
 * 1 tablespoon pure vanilla extract
-* 1/4 cup sour cream
+* ¼ cup sour cream
 * lightly whipped whipped cream, for serving
 
 <br>
@@ -30,7 +30,7 @@ cook:
 3. In a medium bowl, whisk together flour, baking powder, baking soda, and salt. Set aside.
 4. Now let's grind up the oranges. Chop whole oranges into 2-inch chunks - peel and all! You'll want to use oranges that don't have a very thick peel and pith. Choose oranges that have a thinner peel and are relatively seedless.
 5. Place the oranges in the bowl of a food processor fitted with the blade attachment. Place the lid on the food processor, and pulse a few rounds to start.
-6. Process the oranges on low speed until the peel, flesh and juice begin to meld, creating a well ground, thick orange mixture. The mixture won't be completely smooth. It's ok if there are small pea size chunks of peel in the mixture. Spoon mixture into a glass measuring cup and measure 1 1/2 cups ground orange to use in the cake. Set aside the measured orange mixture.
+6. Process the oranges on low speed until the peel, flesh and juice begin to meld, creating a well ground, thick orange mixture. The mixture won't be completely smooth. It's ok if there are small pea size chunks of peel in the mixture. Spoon mixture into a glass measuring cup and measure 1 ½ cups ground orange to use in the cake. Set aside the measured orange mixture.
 In the bowl of a stand mixer fitted with a paddle attachment, place softened butter and sugar. Beat on medium speed until the mixture is light and fluffy, about 3 to 5 minutes.
 Stop the mixer and scrape down the sides of the bowl. Beat in eggs, one at a time, on low speed, beating for 1 minute between each addition.
 Beat in the vanilla extract until well combined.

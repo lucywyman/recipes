@@ -40,3 +40,5 @@ cook: 15 minutes
 
 Scones are best the day they’re made, and though they can be frozen
 and lightly reheated in the oven if you need a future treat. 
+
+These go especially well with some lemon icing!

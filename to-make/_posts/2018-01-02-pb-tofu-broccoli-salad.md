@@ -9,7 +9,7 @@ cook:
 
 ##### Ingredients:
 
-* 1/4 cup smooth peanut butter
+* ¼ cup smooth peanut butter
 * 3 tablespoons
 * 1 tablespoon tamari or soy sauce
 * 2 tablespoons water
@@ -17,9 +17,9 @@ cook:
 * 12 ounces broccoli 
 * 1 medium red bell pepper, julienned
 * 1 pound baked tofu (350°F for 60 minutes), cut into small cubes
-* 1/4 cup shelled and cooked edamame
-* 1/4 cup roasted peanuts
-* 1/4 cup loosely packed fresh cilantro leaves 
+* ¼ cup shelled and cooked edamame
+* ¼ cup roasted peanuts
+* ¼ cup loosely packed fresh cilantro leaves 
 
 <br>
 

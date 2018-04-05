@@ -15,7 +15,7 @@ cook:
 * ¼ cup tightly packed fresh parsley leaves, coarsely chopped
 * ¼ cup toasted sunflower seeds
 * 1 cup cashews, soaked in 1 cup of boiling water for 2 to 8 hours
-* ¾ cup low-sodium vegetablespoon broth or water
+* ¾ cup low-sodium vegetables broth or water
 * 2 tablespoons extra-virgin olive oil
 * 2 teaspoons freshly squeezed lemon juice
 * Kosher salt

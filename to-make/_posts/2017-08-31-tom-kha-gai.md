@@ -9,8 +9,8 @@ cook: 3-7 hours
 
 ##### Ingredients:
 
-* 3 14-oz. cans coconut milk
-* 4 cups vegetablespoon broth
+* 3 14-oz cans coconut milk
+* 4 cups vegetable broth
 * 1 pound firm tofu, cubed
 * 1 large lemongrass stalk, chopped into 1-inch pieces
 * 2 Tbsp ginger, freshly grated

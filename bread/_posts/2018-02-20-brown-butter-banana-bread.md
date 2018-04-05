@@ -9,17 +9,17 @@ cook: 1 hour
 
 ##### Ingredients:
 
-* 6 ounces unsalted butter, melted and browned to just over 1/2 cup of butter
+* 6 ounces unsalted butter, melted and browned to just over ½ cup of butter
 * 2 cups all-purpose flour
-* 3/4 cup granulated sugar
+* ¾ cup granulated sugar
 * 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 3/4 teaspoon ground cinnamon
-* 1/2 teaspoon freshly grated nutmeg
+* ½ teaspoon salt
+* ¾ teaspoon ground cinnamon
+* ½ teaspoon freshly grated nutmeg
 * 2 large eggs
 * 1 teaspoon pure vanilla extract
-* 1/4 cup buttermilk
-* 1 1/4 cup mashed banana (from about 3 medium bananas)
+* ¼ cup buttermilk
+* 1 ¼ cup mashed banana (from about 3 medium bananas)
 * 2 teaspoons molasses
 
 <br>
