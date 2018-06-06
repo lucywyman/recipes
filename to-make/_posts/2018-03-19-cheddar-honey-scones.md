@@ -9,15 +9,15 @@ cook:
 
 ##### Ingredients:
 
-* 3 1/4 cups flour
-* 2 1/2 teaspoons baking powder
-* 1/2 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1/2 teaspoon fresh cracked black pepper
-* 3/4 cups cold butter, cut into pieces
+* 3 ¼ cups flour
+* 2 ½ teaspoons baking powder
+* ½ teaspoon baking soda
+* ½ teaspoon salt
+* ½ teaspoon fresh cracked black pepper
+* ¾ cups cold butter, cut into pieces
 * 8 ounces sharp cheddar cheese, freshly grayed
 * 1 cup buttermilk
-* 1/4 cup honey
+* ¼ cup honey
 * melted butter for brushing
 
 

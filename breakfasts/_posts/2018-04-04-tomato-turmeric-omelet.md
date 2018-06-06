@@ -13,7 +13,7 @@ cook:
 * 1 large yellow onion, thinly sliced
 * 2 cloves garlic, minced
 * 2 medium tomatoes, seeded and finely chopped
-* 1/2 tsp turmeric
+* ½ tsp turmeric
 * Salt and pepper
 * 6 eggs
 * Optional toppings:

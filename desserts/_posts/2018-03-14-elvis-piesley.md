@@ -63,7 +63,7 @@ cook:
 1. Combine granulated sugar, cornstarch, and salt in a bowl. 
 2. Add egg yolks, and whisk until smooth. 
 3. Bring milk to a simmer in a saucepan over medium heat. 
-4. Add 1/2 cup milk to yolk mixture in a slow, steady stream, whisking constantly. 
+4. Add ½ cup milk to yolk mixture in a slow, steady stream, whisking constantly. 
 5. Pour mixture into pan with hot milk, and cook, whisking constantly, until mixture begins to bubble and is very thick, about 6 minutes. Make sure to keep an eye on this and whisk constantly over a low flame. The cornstarch will make the mixture thicken quickly.
 6. Pour milk mixture through a large-mesh sieve into a bowl. 
 7. Add butter, and stir until melted. 
