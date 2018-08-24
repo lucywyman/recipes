@@ -7,6 +7,8 @@ prep:
 cook: 
 ---
 
+Similarly delicious recipe for a [Chocolate Babka with Mixed Nuts](https://www.jenreviews.com/babka/)!
+
 ##### Ingredients:
 
     
