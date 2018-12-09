@@ -15,7 +15,6 @@ cook:
 * 2 tablespoons water
 * 1 teaspoon toasted sesame oil
 * 12 ounces broccoli 
-* 1 medium red bell pepper, julienned
 * 1 pound baked tofu (350°F for 60 minutes), cut into small cubes
 * ¼ cup shelled and cooked edamame
 * ¼ cup roasted peanuts
