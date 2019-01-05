@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pi Day: Elvis Piesley
+title: Elvis Piesley
 from: My Kitchen (Adapted from Joy the Baker)
 fromurl: http://joythebaker.com/2009/02/peanut-butter-banana-cream-pie/
 prep: 

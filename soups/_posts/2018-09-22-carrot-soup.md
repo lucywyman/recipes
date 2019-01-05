@@ -10,12 +10,12 @@ cook: 20 minutes
 ##### Ingredients:
 
 * 1 tablespoon oil or unsalted butter
-* 1/2 onion chopped
+* ½ onion chopped
 * 1 teaspoon red curry paste, or to taste
-* 1 pound carrots, peeled and chopped - 1/2-inch chunks
-* 1/2 14-ounce can full-fat coconut milk
+* 1 pound carrots, peeled and chopped - ½-inch chunks
+* ½ 14-ounce can full-fat coconut milk
 * 1 teaspoon sea salt, or to taste
-* 3/4 cups / 180 ml of water, or to cover
+* ¾ cups / 180 ml of water, or to cover
 * 1 lemon (optional)
 
 <br>

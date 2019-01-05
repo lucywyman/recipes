@@ -13,11 +13,11 @@ cook: 15 minutes
 * 1 pound fresh white mushrooms, finely chopped
 * 1 pinch salt
 * 1 teaspoon butter
-* 1/2 cup finely chopped onion
+* ½ cup finely chopped onion
 * 4 cloves garlic, minced
-* 1/2 cup quick-cooking oats
+* ½ cup quick-cooking oats
 * 1 ounce very finely shredded Parmigiano-Reggiano cheese
-* 1/2 cup bread crumbs
+* ½ cup bread crumbs
 * 2 tablespoons chopped flat-leaf parsley, packed
 * 2 eggs
 * 1 teaspoon salt
@@ -36,7 +36,7 @@ cook: 15 minutes
 5. Remove skillet from heat and stir garlic into mushroom mixture until fragrant, about 1 minute. Transfer mixture to a mixing bowl.
 6. Mix oats into mushroom mixture until thoroughly combined. 
 7. Gently stir 1 ounce Parmigiano-Reggiano cheese into mixture. 
-8. Add bread crumbs, 1/4 cup parsley, and 1 egg; season with salt, black pepper, basil, and oregano. 
+8. Add bread crumbs, ¼ cup parsley, and 1 egg; season with salt, black pepper, basil, and oregano. 
 9. Mix together with a fork until crumbly. 
 10. Stir in remaining 1 egg. Mixture should hold together when pressed.
 11. Cover bowl with plastic wrap and refrigerate at least 4 hours. For best flavor and texture, refrigerate overnight.

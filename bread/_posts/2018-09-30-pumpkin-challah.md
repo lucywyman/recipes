@@ -20,9 +20,9 @@ cook: 40 minutes
 * 1 tbsp canola oil
 * 1 tsp salt
 * 1 tsp cinnamon
-* 1/2 tsp nutmeg
-* 1/4 tsp allspice
-* 1/4 tsp ginger
+* ½ tsp nutmeg
+* ¼ tsp allspice
+* ¼ tsp ginger
 * Pinch cloves
 * 55 g brown sugar
 * 245 g pumpkin puree (homemade or canned)

@@ -5,6 +5,7 @@
 	<li><a href="/all">all recipes</a></li>
 	{% assign sorted_cats = (site.categories | sort:0) %}
 	{% for category in sorted_cats %}
+  {% unless category[0] == "to-make" or category[0] == "basics" %}
 	<li class='expanded'><a class='on'>{{ category | first }} <span style='font-size: 10px; vertical-align: middle;'>&#9660;</span></a>
 		<ul class='submenu'>
 			{% for posts in category %}
@@ -15,8 +16,7 @@
 			<li><a href='/{{ category | first }}'>more...</a></li>
 		</ul>
 	</li>
+  {% endunless %}
 	{% endfor %}
-	<li><a href="/submit">submit a recipe</a></li>
-	<li><a href="/feed.xml">subscribe via RSS</a></li>
 </ul>
 </div>

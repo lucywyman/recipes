@@ -31,7 +31,7 @@ cook:
 4. Add eggs, one at a time, beating after each addition to incorporate before adding the next.
 5. Continue to beat mixture until pale and fluffy, about 5 minutes.
 6. Reduce speed to low and, with motor running, gradually add flour. Continue mixing just until combined.
-7. Divide batter evenly among 3 bowls. (Scoop out about 2/3 cups per bowl, or weigh out 160 g batter for each.)
+7. Divide batter evenly among 3 bowls. (Scoop out about ⅔ cups per bowl, or weigh out 160 g batter for each.)
 8. If making matcha cookies, mix 4 drops green food coloring and ½ tsp matcha into batter in first bowl.
 9. Mix ¾ tsp green food coloring and 1½ tsp matcha to batter in second bowl.
 10. Mix 5 tsp green food coloring and 3 tsp matcha into batter in last bowl. (This will create three shades of green batter.)

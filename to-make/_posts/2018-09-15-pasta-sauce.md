@@ -14,7 +14,7 @@ cook:
 * 4 cloves garlic, minced
 * 1 carrot, divided
 * 2 tbsp olive oil
-* 1/4 cup fresh basil, finely chopped
+* ¼ cup fresh basil, finely chopped
 * ½ tsp dried thyme
 * 1 tsp dried oregano
 * 1 tsp dried parsley

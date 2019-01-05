@@ -13,19 +13,19 @@ cook:
 
 * 250 ml milk (1 cup)
 * ½ cube fresh yeast
-* 130g white granulated sugar (1/2 cup)
-* 500g all-purpose flour (41/3 cup)
+* 130g white granulated sugar (½ cup)
+* 500g all-purpose flour (4⅓ cup)
 * 1 medium egg
 * pinch of salt
-* 80g butter softened and cubed (1/3 cup)
+* 80g butter softened and cubed (⅓ cup)
 * 1 egg for brushing
 
 ###### Chocolate Nut Filling
 
 * 100g dark chocolate (3.5oz)
-* 40g butter (1/4 cup)
+* 40g butter (¼ cup)
 * 2 tablespoons white granulated sugar
-* 100g toasted mixed nuts (3/4 cup)
+* 100g toasted mixed nuts (¾ cup)
 
 <br>
 

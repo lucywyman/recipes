@@ -3,8 +3,8 @@ layout: recipe
 title: Mexican Salad
 from: My Kitchen
 fromurl: 
-prep: 
-cook: 
+prep: 40 minutes
+cook: 1 minute
 ---
 
 ##### Ingredients:
@@ -15,8 +15,11 @@ cook:
 * 1 ears worth of corn
 * 1 small chicken breast, cooked and diced
 * 2 avocados
-* Healthy dose of olive oil (maybe 6 tbsp? I didn't measure)
-* Salt + pepper
+* Healthy dose of olive oil (maybe 2 tbsp?)
+* 1 teaspoon salt
+* 1/2 teaspoon pepper
+* 1/2 teaspoon garlic powder
+* a dash of chili powder
 
 <br>
 
@@ -36,5 +39,6 @@ lime-dressing, or maybe a creamy avocado-ranch kind of thing, but to
 be perfectly honest I don't like dressing on my salads, especially if
 they are hanging out in the fridge for a few days. Sorry not sorry.
 
-1. Prepare the vegetablespoons and chicken
-2. Toss all ingredients together. Enjoy!
+1. Chop the veggies and cook the chicken
+2. Whisk the salt, pepper, and spice into the olive oil
+3. Toss everything in the dressing
