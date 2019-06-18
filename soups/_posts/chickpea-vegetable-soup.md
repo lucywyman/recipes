@@ -14,7 +14,7 @@ cook:
 * 1 pound dried chickpeas
 * 2 teaspoons rosemary, divided
 * 3 garlic cloves, minced
-* 2 tablspoons extra virgin olive oil
+* 2 tablespoons extra virgin olive oil
 * 8 cups vegetable or chicken broth
 * 1 small Parmesan rind, plus 1/2 cup freshly grated Parmesan
 * 1 28oz can diced tomatoes

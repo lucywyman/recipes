@@ -4,7 +4,7 @@ $bodybg: #F6FFFA;
 $sans: "Helvetica", sans-serif;
 $light: #fff;
 $dark: #444;
-$navy: #051E55;
+$teal: #25BDBE;
 $blue: #0074D9;
 $yellow: #FFDC00;
 $menu-y: 50;
@@ -64,7 +64,7 @@ ol {
 }
 
 hr {
-	color: $navy;
+	color: $teal;
 }
 
 code {
@@ -123,7 +123,7 @@ main {
 	padding: 10px;
 	padding-top: 30px;
 	color: $light;
-  background-color: $navy;
+  background-color: $teal;
   height: 100%;
 
 	ul {
@@ -149,7 +149,7 @@ main {
 				li {
 					padding: 5px 0;
 					display: block;
-					font-size: 16px;
+					font-size: 20px;
 				}
 			}
 
@@ -238,7 +238,7 @@ img {
 .footer {
 	width: 100%;
 	z-index: 100;
-  background-color: $navy;
+  background-color: $teal;
 
 	p {
 		max-width: 60%;
@@ -305,7 +305,7 @@ form {
 		position: relative;
 		width: 100%;
 		max-width: 100%;
-		background: $navy;
+		background: $teal;
 
 		.logo {
 			width: 35%;
@@ -316,7 +316,7 @@ form {
 		background-color: $yellow;
 
 		.slicknav_icon-bar {
-			background-color: $navy;
+			background-color: $teal;
 		}
 
 		&:hover {

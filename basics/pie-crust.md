@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Basic Pie Crust
+category: basics
 from: Joy the Baker
 fromurl: http://joythebaker.com/2017/12/baking-101-how-to-make-pie-crust-by-hand/
 prep: 1 hour

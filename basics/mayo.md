@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Mayonnaise
+category: basics
 from: Epicurious
 fromurl: http://www.epicurious.com/recipes/food/views/homemade-mayonnaise-241868
 prep: 

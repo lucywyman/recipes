@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Homemade Whipped Cream
+category: basics
 from: Our Kitchen
 prep: 5 minutes
 ---
